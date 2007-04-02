@@ -1,0 +1,552 @@
+RobertAgnel
+    Nikon Coolpix 950 with WC-E24 lens and SB-28 flash with Nikon SK-E900 adapter, KIWI900/950 head, QTVRS, PhotoShop CS, QTPro, revolVR
+
+CharlesAguilar
+    Canon D60/16mm/Kaidan QPS1/Apple QuickTime VR Authoring Suite
+
+LarryFlashAlexander
+    Nikon Coolpix 995 w/Nikon FC-E8 Lens. Three shot from Manfroto tripod. Stitched in PTGui, converted with Panocube Pro.
+
+GaryAlexander
+    Fuji FinePix 6900, double bubble, string and piece of card. PTMac and Photoshop software.
+
+AndyAlpern
+    Nikon D100, Sigma 8mm Fisheye, Kaidan QP3, PTMac, Photoshop, Cubic Converter.
+
+MilkoAmorth
+    Canon 1Ds, Sigma 8mm, 4 shots, f8 at 1/250 second exposed for the sky in RAW format on a monopod. 2 exposures +-2 from each shot were extracted and blended in PS. Stiched with PTGUI.
+
+AndreRAragon
+    Robinson R22 Helicopter Doors off @ 1,200ft, Fuji S2 ISO800,Capture: 3 - 2304x1536 Full Quality JPEGs, 1/3000sec @ F/8 - underexposed
+
+PatricioArmijo
+    Taken with a Canon EOS500, Sigma 8mm, f11 at 1/250 second. Mounted on Homemade panohead.  Stitched with Panorama Tools.
+
+JimArthur
+    Taken with an Nikon Coolpix 950 (2 megapixel) with wide angle adapter, Mounted on a Kaidan tripod head. Stitched with Apple QuickTime VR Authoring Studio.
+
+HansChristianAsmussen
+    Nikon D100/Sigma 8mm/Manfrotto VR head
+
+AYRTON
+    Nikon Coolpix 4500, Fisheye Lens Adapter FC-E8,  Handheld, 8 photos, portrait mode, fullframe fisheye2 mode, white balance manually preset,  manual exposure = 1/250 f-7.7, ISO 100, stitched in Photovista 1.0.1, saved as jpeg, open in Photoshop CS, made some adjustments in color, contrast, sharpness, and added a black stripe to top and to bottom, saved as PSD and taken to Make Cubic 1.1.6.  File size: 560kb tiled: 2x2, compression: 39% photo-jpeg, fast-start added, HQ enabled. For the FULLSCREEN movie infos are=  movie box: 780 x 500 pixels, file size: 1.8 mb, tiled: 3x3, compression: 39% photo-jpeg, fast-start added, HQ enabled.
+
+GDonaldBain
+    Taken with an Olympus E-1 digital SLR, 14-104mm 2.8 lens at 14mm (equivalent to 28mm), f11 at 1/250 second. Mounted on a Kaidan QuickPan III Pro. Stitched with Apple QuickTime VR Authoring Studio.
+
+LuisBenitez
+    Nikon Coolpix 4500/Nikon Wide Converter WC-E63 0.63x/QuicklyQTcubic agno's head/Realviz Stitcher 3.5 - CubiConverter 2.0.4 - CubicConnector 2.0.6/Manfrotto 3021BPro tripod/1Gb Microdrive IBM/Macintosh Powerbook G4 17"
+
+LandisBennett
+    Hardware: Nikon D100, Nikkor 18mm Lens, Kaidan QuickPan III Spherical<br>
+    
+    Software: QTVR Authoring Studio, Photoshop, Kekus PanoTools, QT Player Pro, VRPrep
+
+RobertBilsland
+    Taken with a Nikon Coolpix 990 and a FC-E8 Fisheye lens. Mounted on an simple L shaped bracket. 4 portrate frames taken 90 degrees apart with the fisheye circle just touching the top and bottom of the frame, while being clipped on the left and right. Stitched using Panotools and seams manually removed. Finally converted to a QTVR Cube using PanoCUBE and added QuickTIme for the web's autorotation widget.
+
+DonnaBlochwitz
+    Kodak 3400
+
+IreneBlueth
+    Image Rollovers created with VRHotwires.
+
+AndreiBodrov
+    Taken with an Canon 300D digital SLR, Sigma Fisheye 8mm. Mounted on a  Manfrotto 303SPH. Stitched with Panorama Tools.
+
+BradfordBohonus
+    FAILED
+MarkBoiling
+    FAILED
+NormaBoylan
+    Taken with a <a href="http://wwwuk.kodak.com/global/en/service/publications/urg00009c11s1.jhtml" target="_blank"> 
+    Kodak DX3900</a>, digital camera, at the equivalent of 35 mm.  
+    Mounted on a tripod but without any pano-head.  Stitched with VRWorx 2.5
+
+RayBroussard
+    D100/14mm/3Sixty
+
+WillBrown
+    Canon D30/22-55mm Canon Ultasonic EF/Jasper Pano-head/100ASA in Raw format/16 shots stitched in QTVR Authoring Studio with color correction and some touch up in Photoshop.
+
+BostjanBurger
+    Nikon D2H, 10.5 mm 'fisheye' , Manfrotto QTVR head, Photo Vista, GPS Magellan 315
+
+DuriCampell
+    Seitz Roundshot Super 220 VR/24mm 2.8D AF Nikon/Fuji Provia 100F RDP III/Apple Authoring Studio
+
+OliverCannell
+    Canon G2 with a 28mm Wide Angle lens, Kaidan head gear. Stitched with Apple Quicktime VR Authoring Studio.
+
+DouglasCape
+    This cubic panorama was taken handheld on a Nikon D100 with a Sigma 8mm fisheye lens. The 8 raw frames were assembled using PTMac, Photoshop and Cubic Converter.
+
+FioreCappone
+    Nikon CP5000, Nikon FC-E8, f.8 at 1/250 second. Mounted on a Kaidan QuickPan III CS. Stitched in PTMac and MakeCubic
+
+LarryCassis
+    Nikon 990 / standard lens / Kaidan 990 pan head / combination QTVRAS,PS7,VRWorks
+
+WilliamBChase
+    Nikon Coolpix 4500 camera, Nikon FC-E8 lens, Three exposures @ 120&deg; declination, Homemade portrait camera mount on an inverted Gitzo pano ball-head, Panoweaver 3.01 stitching software, CubicConverter 2.0.4 cubic conversion software, CubicConnector 2.0.6 node enhancement (hotspot, sound &amp; rotation) software, Adobe Photoshop CS.
+
+TedChavalas
+    Panoscan MK-2  24mm Mamiya Fisheye.  ISO 400 1/160th sec/line  F8.0  Hoya U-330 filter.
+
+PierreConverset
+    FAILED
+RichardLDailey
+    Canon PowerShot Pro90 IS with a WC-DC58 0.8x lens, 
+    KAIDAN KIWI+, Photographic VR Panoramic Tripod Head on a Slik Universal U-212 tripod
+
+YangDehua
+    FAILED
+DeborahandJeffDonaghue
+    Canon 300D, stock 18mm-55mm, Bogen Manfrotto QTVR head, RealViz
+
+MirekDDuda
+    SpheroCam/16 mm fisheye
+
+JimDuncan
+    Taken with a Nikon Coolpix 995. Mounted on a Kaidan QuickPan universal bracket (QPU-1) and tilt head (QPT-1). Stitched with QuickTime VR Authoring Studio, edited with Photoshop, enhanced with QuickTime Pro and Steven Gulie's autorotate widget.
+
+JohnEarly
+    Panoscan Mk2, Panopost, Cubic Converter, Apple 1 gig Ti-Book
+
+MagnusEnarsson
+    Canon EOS 300D, Sigma 8mm fisheye, hand held
+
+MichaelSigmonFallai
+    CP990, fisheye lens, Peace River 3Sixty head
+
+JohnFellers
+    Nikon D100, Sigma 8mm, Manfrotto 3415
+
+MarkFink
+    Canon 10D, Sigma 14mm, custom multi-row panohead, PTGui
+
+RobertFisher
+    Fuji S2, Sigma 8mm, Bogen 3415 Pano Head 
+
+JanieFitzgerald
+    Fuji S2 - 10.5 DX Fisheye Lens - Peace River Pan Head - Delivrator. 
+
+AreFlagan
+    Nikon D70, Sigma 8mm, stitched with PTMac.
+
+MartinFrech
+    Roundshot Super-220&nbsp;VR with stereo head, 2 x Nikon 1.8/50&nbsp;mm on Fuji Provia 400&nbsp;F - f22, 1/30&nbsp;s
+
+AndrasFrenyo
+    fuji pro s2/nikkor f2.8 8mm/ipix rotator
+
+DaniFuchs
+    Taken with a Canon G5, 7.19mm x wide convertor, equivalent to 27mm in portrait orientation, f.6.3 at 1/320 second. Mounted on a selfmade panohead. Stitched with PtGui/PanoTools/autopano converted with panocube pro.
+
+YasuhiroFujimoto
+    Nikon-E995/WC-E63/Manfrotto303SPH/REALVZ-Sticher4.0
+
+GuillaumeFulchiron
+    Coolpix 880, 24mm adapter, Manafrotto tripod and pan head, PTgui / Panotools and PanocubePlus.<br>
+    This pano required 44 shots. After a blending process it gave 16 images in 2 rows + Zenith and Nadir
+
+RyanGalt
+    Olympus C-5050 Zoom, standard lens, hand-held, RealViz Stitcher, Photoshop, CubicConverter
+
+ToniGarbasso
+    Taken with a Fuji s2 pro and an 8mm lens. Stitched with PTMac
+
+AntonioVictorGarciaSerrano
+    Canon 10D - Sigma 8mm - f.16 at 1/350, iso 100, raw -  manfrotto tripod and vr head - Photoshop, PTGui, Panotools, Photoshop, Panocube.
+
+TomGaukel
+    mamiya 7, 65mm lens, bogen pano head, kodak e100gx film, apple qtvr authoring studio, mac G4
+
+ChristianGavin
+    Olympus E-10, 9mm zoom setting, Digital Vision 0.5x Wide Angle Converter, 1/30s f11
+    Kaidan QuickPan Spherical III, RealViz Stitcher 3.5, Adobe Photoshop CS
+
+CarolingGeary
+    Taken with a Canon 300D (Digital Rebel) digital SLR, 18-55mm f/3.5-5.6 lens at 28mm (equivalent to 40mm film camera), f.8 at 1/125 second, ISO 400. Hand held. Stitched with Apple's QuickTime VR Authoring Studio 1.01. Graphic modifications in Adobe Photoshop CS.
+
+ElizabethGentile
+    Nikon Coolpix 5700 w/Raynox DCR-6600PRO Wideangle Lens 0.66X and Stitcher 3.5.1
+
+DavidGerhard
+    Nikon coolpix 4500 with FC-E8 0.21x fisheye converter.  AE Lock on Panorama Assist mode. Stitched using PTMac and CubicConverter on Mac OSX.
+
+DavidGibson
+    Canon Rebel with Sigma 8mm lens, ISO 200, f8.0 1/400 sec., 4 shots handheld, RAW format, extracted using Canon File Viewer, stitched with PTMac.
+
+JosepGiribet
+    Canon D10, Canon 16-35 lens at 16mm (equivalent 24mm), f11 at 1/60s., Kaidan pano head, Software: Realviz Stitcher, Adobe Photoshop, CubicConverter, CubicConnector.
+
+DenisGliksman
+    NIKON D1X-10,5MM-CUSTOM HEAD
+
+ErikGoetze
+    28mm lens on Nikon N90s with Kodak 100UC film, homemade panhead, QTVRAS.
+
+DavidGoldwasser
+    Taken with Canon 300d and Sigma 8mm with ISO setting if 800.  I used a standard table top tripod and rotated the lens around a stationary point on the table.
+
+RobertoGomezTorres
+    Taken with a Nikon Coolpix 995 digital camera and the FC-E8 fisheye lens in full frame mode.<BR>Mounted on a Kaidan Kiwi 990. Stitched with Panorama Tools, PTGui and Adobe Photoshop.<BR>Self made Windows software for QuickTime VR conversion.
+
+AuraCastroyFelipeGonzalez
+    Sony Cybershot DSC-S85, with a Raynox DCR-FE180PRO adapter, custom made pano head, stiched in PTMAC, retouched in Photoshop CS and Make Cubic.
+
+NickGordon
+    Nikon 4500 - FC-E8 - homemade panhead (broke in the wind)
+
+RalphGreene
+    Taken with Nikon D-100, 8mm Sigma lens, Kaidan panoramic head. Stitched with PTGui/Panorama Tools, converted to QuickTimeVR with PanoCube.
+
+JohnGreenleigh
+    Fuji FinePix S2 Pro with 20mm F2.8 Nikkor lens. Hand held. Stitched with Apple QTVR Authoring Studio.
+
+BobGuan
+    Taken with an Nikon 4500 Digital camera, FC-E8 8mm lens at 16mm , f.9.9 at 1/250 second. Mounted on a Kaidan QuickPan III Pro. Stitched with Panotools &amp; Photoshop.
+
+LoicLeGuilly
+    Nikon F801 with 16mm lens. Fuji film. Stitched with PTGui/Panotools.
+
+SamirAhmed
+    Taken with an Canon EOS10D digital SLR, Coastal Optics 7.5mm with 1.4x Canon extender (equivalent to 10.5mm),  f.5.6 at 1/500 seconds on RAW. Mounted on a self-designed pano-head. Stitched with PanoTools of Helmut Dersch on PTGUI and cubed using Panocube Pro.
+
+SergeGutwirth
+    D1x, 10.5mm Nikkor, Manfrotto 303 SPH, Mac G4 powerbook, PhotoShop, Realviz Stitcher, Nikon Capture Editor
+
+JinHai
+    FAILED
+AlainHamblenne
+    Taken with a Minolta Dimage 7Hi digital camera, 28-200 mm 2.8 lens at 28 mm (equiv. 135) at 0"7 second. Mounted on a Kaidan QuickPan Spherical Arm on Manfrotto QTVR Kit 302 Head and Tripod. Stitched with Realviz Stitcher 4.0.1
+
+StephenHamilton
+    CoolPix 995; simple tripod; Photoshop LE; MakePanorama2 (freeware); no stitchware!
+
+MichaelHansky
+    Nikon 5000, Manfrotto, stitched with PTGUI
+
+JinHe
+    FAILED
+KWayneHeil
+    Nikon 5000/Fisheye/Kaiden Quickpan III CS/1 GB Ultra CompactFlash/Panotools with PTBui + Cubic Converter + Photoshop/Exposure: 1/592 f/7.2 13.6mm
+
+BruceHemming
+    Nikon Coolpix 5000 with WC-E68 w/a lens. Kaidan KW 990 pan head modified for multi row capture.  Stitched in PTMac (many thanks to Kevin Kratzke for advice on this project) and delivered via Make Cubic.
+
+CraigWHergert
+    Shot multi-row with Canon 10D, Sigma 24-70 and 8mm, Manfrotto 290 tri-pod, Jasper Engineering Pano-Head-and shot hand held with EWA Marine U-AXP housing. Stitched by hand in Photoshop, and using Cubic Converter and Connector for final output and sound addition. **This was my first attempt at a 360 above/underwater. Did not quite get the horizons and water to line up properly, but I think it still works. Will hopefully have a system down for next time to get a clean horizon.
+
+GrantHermanson
+    Nikon CoolPix 950/UV filter/Custom Panhead
+
+ScottHighton
+    Kodak DCS460 digital camera, Nikkor 105mm lens, Manfrotto 303SPH pan head, QuickTime VR Authoring Studio (Apple) &amp; Photoshop (Adobe)
+
+AldoHoeben
+    Hardware: Fuji S2, Sigma 8mm Fisheye, Handheld<br>
+    Software: PTGUI/Panotools, Photoshop, CubicConverter, Quicktime PRO
+
+IanHouston
+    Taken with Nikon D100 digital SLR, Sigma 8mm, f4 at 1/13th second at ISO 1600. Mounted on Peace River Studios 3sixty
+
+MarkHouston
+    Nikon D1X
+
+RogerHoward
+    Canon EOS-10D, Sigma 8mm, Stitcher 4
+
+EdwardHuff
+    Nikon Coolpix 995, Kaidan Quickpan III Spherical, stitched with VRWorx and Adobe Photoshop
+
+AndrewJakowleff
+    Coolpix+FC-E8+home made head/PanoPoints+PanoTools+PanoCube
+
+TudorJenkins
+    Taken with a Cannon 10D digital SLR, Sigma 8mm (equivalent to 12.2mm), 6 shots, f.16 at 1/60 second. Mounted on a Manfrotto pano head. Stitched with PTGui &amp; Photoshop. Converted to movie with PanoCube pro.
+
+LiuJin
+    FAILED
+KatKalamaras
+    Hardware: Nikon D100, Nikkor 18mm Lens, Kaidan QuickPan III Spherical<br>
+    Software: RealViz Stitcher, Photoshop, Kekus PanoTools, QT Player Pro, VRPrep
+
+DeanKaramehmedovic
+    Sony F717, lens x0.7 VCL-MHG07, Bogen 3415 Pano head
+
+TerryKelly
+    Canon10D, 17-40L, Custom made Pano Head. Stitcher
+
+GeorgeKountouris
+    Canon EOS 1 camera / Sigma lens / Hand held panorama / Fuji, slide film, 200 ASA / f4.0 1/30 second / Stitched with Panotools &amp; Photoshop
+
+GerardKuster
+    Camera: Canon EOS 10D, Lens: Sigma 8mm Fisheye, Shutter speed: 1/200, Aperture value: 9.0, ISO speed: 200, Pan Head: self made panhead mounted on a Manfrotto tripod, Software: PTMac with Photoshop
+
+JuhaniLaiho
+    Fuji S2Pro, 10,5mm Nikkor, f8 at 1/30 100 ISO, PTMac.
+
+IanLalonde
+    Nikon Coolpix 4500, FC-E8 Fisheye Lens, Composited from shots taken at 1/4, 1/2, 1 and 2 second exposures. Processed using iLOOKabout.com, converted to QuickTime using PanoCube.
+
+EvaLaMar
+    FAILED
+FlemmingVLarsen
+    Nikon D70 / Peleng 8mm Fiseye / f11 / 1/200 sec / iso 200 / Handheld / 4+2 shots / Panotools-Photoshop-Panocube Pro
+
+JesseLee
+    Taken with an Nikon D100 digital SLR, Sigma 8mm fisheye lens (equivalent to 10.5mm), f.11 at 1/250 second. Mounted on a self-designed pole. Stitched with PanoTools of Helmut Dersch
+
+EricLerch
+    Nikon CP5000 for 26 images handheld, Stitcher and Photoshop
+
+YannLeroy
+    FAILED
+JookLeung
+    Taken with a Fujifilm S2 Pro digital SLR, Nikkor 8mm/2.8 lens, f8 at 1/32 second, ISO 400. Sound capture with the voice memo feature of the S2 camera. Stitched with PTMac and Panorama Tools. Additional post-production with PhotoShop, Cubic Converter, iMovie, RevolVR, SoundsaVR and QuickTime Pro.
+
+YischonLiaw
+    FAILED
+JimLiesenfeld
+    Canon D60-Sigma 8mm and Kaidan QuickPan III. PanoTools, PTGui, and CubicConverter
+
+MarcoLuethi
+    Minox DC-5211, Kaidan QuickPan I Spherical, Realviz Stitcher 3.5
+
+PeterMcCready
+    FAILED
+JimmyMcGue
+    Captured using a Sigma 14mm on a Nikon N90s body with a Kaidan QPS-1 spherical panhead as a multi-row cubic.<br>
+    6 images at +50 degree pitch, 12 images at 0 degree pitch, 6 images at -25 degree pitch, and 1 images straight down to cover tripod cap.<br>
+    Shot on Agfa Utra 100 film, 1/80 sec @ f/16.<br>
+    Scanned with Nikon LS-2000 film scanner, prepared in Photoshop CS, stitched with PTPicker (PanoTools), post production with Photoshop CS, all on a Macintosh computer.
+
+RoryAMcLeod
+    Nikon Coolpix 5700, 1/250 sec, f/6.3, ISO 100, Kaidan Quickpan III Spherical Panoramic Head, Manfrotto 190 tripod, Realviz Stitcher 3.5, Adobe Photoshop Elements, Cubic Converter 2.0.3, Cubic Connector 2.0.6.
+
+TimMolnar
+    Taken with a coolpix 990 with fisheye lense on a Kaidan panorama rig.  Stitched with PTMac/Panotools.
+
+WaleedNassar
+    Nikon cp990, Nikon Fish-eye FC-E8, Kaiden Kiwi-990, NeatImage, Pano Tools with PT Gui, Pano Cube, Photoshop, QuickTime Pro.
+
+StephaneNegri
+    Minolta A1
+
+JamesNeiss
+    Nikon D100/Sigma 24-70mm/Jasper Panoramic Head/QTVRAS.
+
+LeeNelson
+    Canon EOS 300D (Digital Rebel)/ES-F 18-55 lens (at 18mm)/modified Kaidan KIWI 260/265 pan head/Photoshop CS and QTVRAS software.
+
+HansNyberg
+    Canon D60/Sigma 8mm/f9.5 1/350 sec/homemade panohead/Stitched with Kekus Panotools Plugin+Photoshop CS/CubicConverter
+
+GaryOBrien
+    Nikon D100; Sigma EX 8mm f/4; handheld; stitched with PTMac
+
+IanOrgias
+    Fujifilm S2 Pro, Nikon 10.5 Fisheye Lens,Kaidan QuickPan III Pro, Defish, Realviz Stitcher, Cubic Converter.
+
+MarkPahuta
+    The Nikon digital Coolpix 990 with wide angle adapter was mounted on a Kaidan Kiwi 990 pan head which was mounted on a Linhof Ball Head which was mounted on a Reis tripod.
+
+RodolphoPajuaba
+    Coolpix 4500+FC-E8, handheld, stitched with PTGui, masks edited with PS CS, converted to QuickTime with Panocube.
+
+GabePalacio
+    Nikon D1X with nikkor 8mm f2.8 lens
+
+OrlandoPalencia
+    Six shots taken with a Nikon Coolpix 995 and FC-8 Fisheye adapter in FE2 mode, f/7.7 at 1/60 sec. Manfrotto tripod and Manfrotto 302 Plus Pano Head. Stitched with PTools on a Mac. Edited and retouched with Photoshop 6. Published as Cubic with MakeCubic and QuickTime 6.0.3 Pro
+
+JeanMarcParatte
+    Panorama photographed with Nikon Coolpix 5000 equipped with an FC-E8 lens,<br>
+    4 shots at 90&deg; ISO 100 F/2.8: 1/53s, 1/29s, 1/18s, 1/46s.<br>
+    Angular divider and support self-made.<br>
+    Panorama assembled with PTGui 3.5, converted to QTVR with MakeCubic.
+
+JohnPatten
+    Nikon 995/Kaidan QuickPan III Pan Head/PTMac Software
+
+LauraPearson
+    Nikon 990, wide angle lens. Bogen Manfrotto 303 panhead. Photovista
+
+MarkPearson
+    FAILED
+MatsPersson
+    Taken with a Canon S50 camera on a Manfrotto tripod.
+
+GeoffJPhillips
+    Images shot with Canon G3 digital camera and stitched using QTVRAS software.
+
+TomPollak
+    Nikon 990  --  FCE8  --  Hand held
+
+TobiasPort
+    FAILED
+MikePosehn
+    Taken with a Sony F717 at full wide angle with a 0.7x wide angle adapter. The twelve images were stitched with PanoTools and the QuickTime movie was created with PanoCube.
+
+LucaPostpischl
+    FAILED
+TimPoulsen
+    Six shots taken with a Nikon CoolPix 4500 and FC-E8 fisheye lens on a custom panoramic head, stitched with PTGui and PanoTools, retouched in Photoshop, and converted to QTVR with PanoCube Plus.
+
+LorenPrice
+    Nikon D1x with Costal Optical 4.7 mm fisheye lens. Assembled with iPIX Interactive Studio with 2-shots and finished with CubicConvertor.
+
+ScottPruett
+    Taken with a Canon D60 digital SLR, 16-35/2.8L lens at 16mm, f/9 at 1/500 second.  Mounted on a Kaidan QuickPan III Pro. Stitched with PTMac and Photoshop CS.  Assisted by Eileen Dimino.
+
+SunQiao
+    FAILED
+MichaelQuan
+    Canon 10D, Sigma 8mm, PTmac and MakeCubic software, PeaceRiver 360 pan head, 6 shots (N/S/E/W/nadir/zenith).
+
+RolfRis
+    Nikon Coolpix 8700 / standard lens 35 mm / freehand / Cubicconverter-CubicConnector
+
+ThomasRist
+    Taken with a Nikon CoolPix 990, FC E-8 fisheye, zoomed in, f.4,8 at 1/125 second at ISO 100. Mounted on a selfmade VR-head. Four shot round, plus zenith and nadair. Extra exposures for the sky. Software used for this panorama: Photoshop, NeatImage, PtGui with PanoTools and PanoCUBE Plus.
+
+KayUweRosseburg
+    Nikon Nikkormat, Kodak TRI-X Pan
+
+EricRougierAndAbiaDurant
+    Eos - Manfrotto - Realviz Stitcher
+
+GeorgeRow
+    Taken with a Minolta DImage 7 digital camera, with a 7.2-50.8 mm 2.8 lens at 7.2 (equivalent to 28mm).  <br>
+    Mounted on a Kaidan Kiwi-L pano-head.  Stitched with VRWorx 2.5
+
+AdrianSalisbury
+    FAILED
+MartinSammtleben
+    Canon A80, custom mount, Apple QuickTime VR Authoring Studio
+
+HolgerSchulz
+    Taken with a Nikon Coolpix 990, FC-E8 fisheye converter, F2 modus, 5 images. Camera mounted on a Kaidan QuickPan III CS. Stitched with PanoramaTools, PTGui.
+
+JohnESchwarzell
+    Photographed on a Nikon D100 with a Sigma 8mm Fisheye and QuickPanIII panohead at 3 degrees up, ISO 400 for 6s to 1/60s @ f/11. The image was stitched with PTMac, edited and layered with Photoshop 5.5 and processed with MakeCubic &amp; QuickTimePro. Sprites were added from Quick Time for the Web at <a href="http://homepage.mac.com/qt4web/sprites/items.html" target="_blank">http://homepage.mac.com/qt4web/sprites/items.html</a>.
+
+FulvioSenore
+    Nikon Coolpix 5000 at wide angle (28 mm eq), portrait orientation, tripod. Stitched with The Panorama Factory.
+
+FranciscoRSevilla
+    Nikon Coolpix 4500 with Kaidan 360 One VR; VRWorx and Photowarp2 Software; Manfrotto 055CLB tripod with 460MG Magnesium Camera Head
+
+NormanShapiro
+    Nikon F3, 20mm lens, Manfrotto 3414 head and 3502 leveller, home made camera mount, Fuji 100 color neg film, PTMac and QTVRMakePanorama2. And the only sunshine I found islandwide on a rainy day.
+    
+
+BobShindel
+    Nikon COOLPIX 950, Kaidan KiWi Pan Head, VR Worx for stiching, LiveStage Pro for adding interactive sound.
+
+CedricSimon
+    Taken with Nikon Coolpix 4500, FC-e8 fisheye adaptor, ultra light Manfrotto tripod 714SHB + L-bracket.
+    Mounted with PTGui/Panotools.
+
+JenhorSiow
+    FAILED
+DavidSpencer
+    FAILED
+SkipSteuart
+    Canon Rebel/Sigma 8mm/Kaidan head/Panotools &amp; Photoshop CS
+
+TomStriewisch
+    Taken with Canon D60, Sigma 8mm, selfbuild Nodalpointadapter
+
+KenStuart
+    Panoscan with 16mm fisheye lens; iBook computer with PanoPost, CubicConverter, Photoshop, and LiveStage Pro.
+
+BrianTasker
+    Pentax 645 NII, 35mm lens, Kenlab KS4 Gyro, Fuji Velvia 220, Enroute Power Stitch, Photoshop CS, Apple QTVR Authoring Studio, RevolVR.
+
+MatthiasTaugwalder
+    FAILED
+MickaelTherer
+    taken with a Nikon D100, Nikkor 10.5mm f 2.8; ISO 400 f 6.3 1/13 sec. Kiwi+ panohead, stitched with PTMac
+
+RobertThien
+    Canon 10D, 17-40L, 17mm f/9.5, Digital Raw, Stitcher 3.1 (Middle and top rows only), VR Worx 2.1 (.mov out put)
+
+LaurentThion
+    Taken with an Coolpix 5000 , WC-E68 (equivalent to 18mm), f.8 at 1/30 second. Mounted on a home made head. Stitched with Realviz Stitcher 4.0.1.
+
+GeorgeHThomas
+    Nikon 5000 / Be Here TotalView 360 Lens / handheld / ALT (Beta .6) One-Shot unwrapping software
+
+ChrisThorne
+    Sony Cybershot DSC-P72, standard lense etc.  Used incompetent tripod arrangment :).
+    PTGUI and PanoTools to stitch 12 photos for a 360 dgree cylindrical pano.
+    VRMakePano on Windoze to create QTVR movie.
+
+KenTurkowski
+    Nikon Coolpix 995/standard lens/handheld/digital/custom software
+
+RomualdVareuse
+    Canon 1ds, fisheye full frame 15mm Canon, Manfrotto 302 head, ptmac. 8 images+top+bottom
+
+TamasVarga
+    Canon DRebel, Canon 15mm
+
+GeorgeLVenable
+    Taken with an Nikon CoolPix 5000, Nikon Wide Converter WC-E68 0.68x, f.8 at 1/250 second. <br>Mounted on a Kaidan QuickPan III Pro. Stitched with QTVRAS.
+
+GillesVidal
+    Canon EOS 300D + Canon 17/40 f:4 L
+    tripod Manfrotto 190 + Agno's Quickly QTCubic
+    Stitcher 4 + Photoshop CS
+
+BernhardVogl
+    Fuji S2 Pro, Sigma 8mm Fisheye with custom built pano-head<br>
+    Stitched with PTGui 3.6b1 + Autopano<br>
+    Post Processing with Enblend, Neatimage, QTVR: Panocube
+
+JoachimVollmer
+    Made with Nikon CP995 and fisheye adapter FC-E8 on monopod/handheld, ISO 100, F2.8, 1/30s, from 6(4+2) shots. Processed with PTGui/PanoTools/Photoshop, converted to .mov with PanoCube.
+
+DavidAWagner
+    RoundShot 220VR and 15mm Rectilinear Lens with Fujichrome Provia 100F, Exposure 1/4 second @f/4, Film scanned on Hell 3900, Original Resolution before scaling:10,000 px wide by 5000 px high, Retouched with Photoshop CS and Color Mechanic Pro 1.1b, VR authored with QTVRAS 1.01 (still the best)
+
+HaraldWalker
+    FujiFilm Finepix S2Pro/Sigma 8mm/Photoshop, PanoTools, PhotoVista,MakePanorama
+
+BillWard
+    Nikon D100/Sigma 8mm/handheld/PanoTools/Realviz Stitcher
+
+JimWatters
+    Nikon CoolPix995 with Fisheye FC-E8 and homemade L bracket.  F9.7 @ 1/60sec 4 around + Zenith &amp; Nadir Stitched with PTGui
+
+DeanWeaver
+    Taken with an Canon EOS300D digital SLR, 18-55mm 2.8 lens at 18mm , f.8 at 1/250 second.  Stitched with Panavue Image Assembler.
+
+KathyWheeler
+    Olympus E10, wide angle adapter, hand held, digital, Panotools Photoshop plug-ins, QTVRAS (cylinder) and CubicConverter (cubic)
+
+EdwinWildeboer
+    Nikon CoolPix 900s, Nikon 0.66x Wide Angle Converter WC-E24 (24mm), Manfrotto tripod with Super Pro Head, Kaidan Kiwi 900/950 panohead, Adobe Photoshop 5.5 and PanoTools 2.2.0 for dewarping, QTVR Authoring Studio 1.0.1
+
+KeithWilson
+    Fuji S2Pro, Nikon 17-35mm f2.8 @ 21mm, 1/250sec, f9.5, ISO100 stitched using PTGui from 14 images handheld
+
+RobinWilson
+    Taken with a Nikon Coolpix 5000 with Nikon's FC-E8 fisheye, f8 at 1/60 second. Mounted on a Kaidan QuickPan III. Stitched with PTMac.
+
+PeterWinkler
+    camera eos d30, lens nikkor 8/2.8 fisheye, manfrotto 302 with kaidan spherical mount, panotools, photoshop, neatimage
+
+ThomasWinter
+    FAILED
+JanvanderWoning
+    Seitz Roundshot 220 VR, 15 mm  Nikon, Kodak Portra 160 NC, Flextight scanner, Photoshop, QTVRS
+
+FengYansu
+    FAILED
+VictorZaveduk
+    Taken with a Minolta A1 (28-200, f/2.8 lens) at 28mm, f/5.0, 1/1600 sec. at ISO 100.  Mounted on a Bogen tripod with a homemade "L" bracket.  Stitched with PTGui and PanoTools.  Published to Quicktime VR format with PanoCube+.
+
