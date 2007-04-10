@@ -445,9 +445,6 @@ ShujiInoue
 JuanCarlosIzquierdo
     Canon EOS 350D, Sigma 8mm, KingPano, PTMac 4.1, CubicConverter, Photoshop CS3, CubicConnector
 
-SachioIzumi
-    Canon-KissDN,Sigma8㎜,Kaidan,manfrotto,　
-
 AleksandarJanicijevic
     Panasonic Lumix DMC LX2 with 28mm lens, hendheld, Apple QuickTime Authoring Studio, Photoshop CS3.
 
@@ -740,11 +737,11 @@ GuyParmentier
 HubertPawlowski
     Canon 350D, Sigma 8mm, Nodal Ninja 3, monopod Manfrotto 679B, PTGui 6.03, PhotoShop Elements 3, Pano2QTVR Gui
 
-LauraPearson
-    Canon 20D, Sigma8mm, Manfrotto head, PTMac
-
 MarkPearson
     Canon EOS XTi, Sigma 8 lens, Manfrotto with 303 head
+
+LauraPearson
+    Canon 20D, Sigma8mm, Manfrotto head, PTMac
 
 JuliePecenco
     Camera: Nikon D70, Lens: Nikkor 10.5 mm fisheye, PanoHead: KingPano, Tripod: Bogen/Manfrotto 3021, Software: PTGui, Pano2QTVR Pro, Photoshop CS2, Nikon CaptureNX, Photomatix Pro
