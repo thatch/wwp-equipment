@@ -6,7 +6,7 @@ rules = [
     (r'1DS ?mkII|Canon 1ds2', ('camera', 'Canon-1DSmark2')), #RobertSHaan, GeorgeKountouris
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
     (r'Canon 1D MarkII', ('camera', 'Canon-1Dmark2')), #JacquesJoffre
-    (r'Canon.*5D|EOS 5D', ('camera', 'Canon-5D')),
+    (r'Can+on.*5D|EOS 5D', ('camera', 'Canon-5D')),
     (r'Canon.*10D|EOS 10D', ('camera', 'Canon-10D')),
     (r'Canon.*20D|20D', ('camera', 'Canon-20D')),
     (r'Canon.*30D|EOS 30D', ('camera', 'Canon-30D')),
@@ -30,6 +30,7 @@ rules = [
     (r'Nikon.*D2x', ('camera', 'Nikon-D2x')),
     (r'Nikon.*D50', ('camera', 'Nikon-D50')),
     (r'D70s', ('camera', 'Nikon-D70s')),
+    (r'D70', ('camera', 'Nikon-D70')),
     (r'D200', ('camera', 'Nikon-D200')),
     (r'(Nikon|Coolpix).*950', ('camera', 'Nikon-CP950')),
     (r'(Nikon|Coolpix).*990', ('camera', 'Nikon-CP990')),
@@ -109,9 +110,11 @@ rules = [
     (r'Sony DSC-P100', ('camera', 'Sony-CybershotDSCP100')),
     (r'Sony DSC-R1', ('camera', 'Sony-CybershotDSCR1')),
     (r'Sony MVC-CD500', ('camera', 'Sony-MVCCD500')),
+    (r'Sony Ixus 60', ('camera', 'Sony-IXUS60')),
     (r'roundshot', ('camera', 'Seitz-Roundshot')),
     (r'Kodak DC290', ('camera', 'Kodak-DC290')),
     (r'Kodak DC380', ('camera', 'Kodak-DC290')),
+    (r'Kodak[ -]?DCS Pro', ('camera', 'Kodak-DCSPro')),
     (r'Panasonic LC5', ('camera', 'Panasonic-LC5')),
     (r'Pentax Optio 60', ('camera', 'Pentax-Optio60')),
 
@@ -135,7 +138,7 @@ rules = [
     (r'Sigma.*\b8 ?mm|sigma[ -]?8| S 8mm', ('lens', 'Sigma-8mm')),
     (r'15mm.*Sigma|Sigma.*15mm', ('lens', 'Sigma-15mm')),
     (r'Sigma 14/|sigma 14mm|14mm lenss', ('lens', 'Sigma-14mm')),
-    (r'Canon.*15 ?mm|1DS.*15mm f2\.8', ('lens', 'Canon-15mm')),
+    (r'Can+on.*15 ?mm|1DS.*15mm f2\.8', ('lens', 'Canon-15mm')),
     (r'Canon.*28-200mm', ('lens', 'Canon-28to200mm')),
     (r'(Nikkor|Nikon)\s*10\.5|Nikon 10mm', ('lens', 'Nikkor-10.5mm')),
     (r'10\.5|10,5', ('lens', 'Nikkor-10.5mm')), # Unsure...
@@ -150,6 +153,7 @@ rules = [
     (r'E24', ('lens', 'Nikon-WCE24')),
     (r'E63', ('lens', 'Nikon-WCE63')),
     (r'Nikkor.*17-35', ('lens', 'Nikkor-17to35mm')),
+    (r'Nikkor.*17-55', ('lens', 'Nikkor-17to55mm')),
     (r'Sigma.*18-55', ('lens', 'Sigma-18to55mm')),
     (r'Sigma.*18mm', ('lens', 'Sigma-18mm')), #f3.5
     (r'Sigma.*18-125', ('lens', 'Sigma-18to125mm')),
@@ -158,7 +162,7 @@ rules = [
     (r'Sigma.*17-35', ('lens', 'Sigma-17to35mm')), #F2.8-4
     (r'15 - 30 mm Sigma', ('lens', 'Sigma-15to30mm')),
     (r'(Nikon|Nikkor).*18-70', ('lens', 'Nikkor-18to70mm')),
-    (r'DA.*10-17', ('lens', 'Pentax-DA10to17mm')),
+    (r'DA.*10-17|Pentax 10-17', ('lens', 'Pentax-DA10to17mm')),
     (r'dcr.*185', ('lens', 'Raynox-DCR185')),
     (r'fe180(pro)?', ('lens', 'Raynox-FE180')), #ScottDoenges
     (r'Raynox (fisheye|wide)', ('lens', 'Raynox-?')),
@@ -180,7 +184,7 @@ rules = [
     (r'Nikkor 8(?:mm)?|8mm nikkor', ('lens', 'Nikkor-8mm')), # 8mm.{,10}2.8
     (r'20.*Nikkor', ('lens', 'Nikkor-20mm')), #This is too broad.
     (r'12 mm \(?rectilinear\)? ultra', ('lens', '?-12mm')), # Same guy as the next one.
-    (r'12 mm Heliar', ('lens', 'Heliar-12mm')),
+    (r'12 mm Heliar|Ultra-Heliar 12', ('lens', 'Heliar-12mm')),
     (r'15 mm Heliar', ('lens', 'Heliar-15mm')),
     (r'PC-Super-Angulon.*28mm', ('lens', 'Schneider-28mm')),
     (r'Soligor fisheye.*0,25x', ('lens', 'Soligor-WE')),
@@ -190,6 +194,7 @@ rules = [
     (r'WCON-07C', ('lens', 'Olympus-WCON07C')),
     
     (r'Nikkor 55-200', ('lens', 'Nikkor-55to200mm')),
+    (r'Canon.*50mm', ('lens', 'Canon-50mm')), #CarolingGeary
     (r'Nikon.*40mm', ('lens', 'Nikkor-40mm??')), #CraigABusch
     (r'Sigma|\b8 mm|8mm', ('lens', 'Sigma-8mm')), #AndrzejHarasz PROBABLY WRONG
     (r'10-22|Canon.*10mm', ('lens', 'Canon-10to22mm')), #CBArunKumar, MarkCrawford
@@ -215,6 +220,7 @@ rules = [
     (r'vanguard', ('tripod', 'Vanguard-?')),
     (r'Velbon Carmagne', ('tripod', 'Velbon-Carmagne')),
     (r'Velbon Sherpa', ('tripod', 'Velbon-Sherpa')),
+    (r'Velbon Ultra Lux i SF', ('tripod', 'Velbon-UltraLuxISF')),
     (r'velbr?on', ('tripod', 'Velbon-?')),
     (r'gitzo 1325', ('tripod', 'Gitzo-1325')),
     (r'Gitzo G2220', ('tripod', 'Gitzo-G2220')),
@@ -226,7 +232,7 @@ rules = [
     (r'Vivitar 2200', ('tripod', 'Vivitar-2200')),
     (r'Hakuba 504-MX', ('tripod', 'Hakuba-504MX')),
     (r'MDeVe aluminum video', ('tripod', 'MDeVe-aluminumvideo')),
-    (r'Sleek Pro 500DX', ('tripod', 'SleekPro500DX')), #FIXME: what brand?
+    (r'Sleek Pro 500DX', ('tripod', 'Slik-Pro500DX')), #RodrigoAlarconCielock
     (r'Slik Sprint Pro', ('tripod', 'Slik-SprintPro')),
     (r'SLIK ProII', ('tripod', 'Slik-ProII')),
     (r'DynaTran', ('tripod', 'DynaTran-?')),
@@ -315,10 +321,11 @@ rules = [
     (r'quicktime.*vr.*studio|qtvr[ -]?as', ('software', 'QTVRAS')),
     (r'stitcher.*5\.5', ('software', 'RealvizStitcher-5.5')),
     (r'stitcher.*5\.1', ('software', 'RealvizStitcher-5.1')),
-    (r'stitcher.*5\.0', ('software', 'RealvizStitcher-5.0')),
+    (r'[Ss]titcher.*5(?:\.0)?', ('software', 'RealvizStitcher-5.0')),
     (r'stitcher.*\b4\b', ('software', 'RealvizStitcher-4')),
     (r'stitcher.*3\.1', ('software', 'RealvizStitcher-3.1')),
     (r'realviz.*stitcher|stitcher.*unlimited', ('software', 'RealvizStitcher-?')),
+    (r'stitcher express', ('software', 'Realviz-Stitcher-Express')),
     (r'calico[ -]?1\.2', ('software', 'Calico-1.2')),
     (r'calico', ('software', 'Calico-?')),
     (r'vr[ -]?wor(ks|x)', ('software', 'VRWorx')),
