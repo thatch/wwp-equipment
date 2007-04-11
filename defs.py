@@ -142,10 +142,11 @@ rules = [
     (r'Canon.*28-200mm', ('lens', 'Canon-28to200mm')),
     (r'(Nikkor|Nikon)\s*10\.5|Nikon 10mm', ('lens', 'Nikkor-10.5mm')),
     (r'10\.5|10,5', ('lens', 'Nikkor-10.5mm')), # Unsure...
+    (r'Tokina.*[Ss]haved.*10-17|Tokina.*10-17.*[Ss]haved|[Ss]haved.*Tokina.*10-17', ('lens', 'Tokina-10to17mm-Shaved')),
+    (r'Tokina.*10-17 *mm', ('lens', 'Tokina-10to17mm')),
     (r'Tokina.*12', ('lens', 'Tokina-12to24mm')),
     (r'Tamron.*11', ('lens', 'Tamron-11to18mm')),
     (r'Tamron 17-50', ('lens', 'Tamron-17to50mm')),
-    (r'Tokina.*10-17mm', ('lens', 'Tokina-10to17mm')),
     (r'Tokina 17mm|17 mm Tokina', ('lens', 'Tokina-17mm')),
     (r'Zenitar.*16(mm)?', ('lens', 'Zenitar-16mm')),
     (r'FC[ -]?E?8|EC[ -]?8|Nikon E8', ('lens', 'Nikon-FCE8')),

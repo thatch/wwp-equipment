@@ -13,7 +13,7 @@ BryantArnett,Minolta-DimageZ1,Minolta-WE,custom,Vivitar-2200,Ptgui-?
 CBArunKumar,Canon-20D,Canon-10to22mm,Kaidan-QuickPan?,?,?
 GDonaldBain,Olympus-E1,Olympus-14to54mm,Kaidan-QuickPanIII,Velbon-?,RealvizStitcher-?
 ArtBaltrotsky,Pentax-?,?,none,handheld,RealvizStitcher-?
-LuisBenitez,Nikon-D70,Nikkor-18to70mm,Agnos-QuicklyQTCubic,Manfrotto-3021b,RealvizStitcher-?
+LuisBenitez,Nikon-D70,Nikkor-18to70mm,Agnos-QuicklyQTCubic,Manfrotto-3021b,RealvizStitcher-5.0
 LandisBennett,Nikon-D100,Nikkor-10.5mm,Kaidan-QuickPanIII,?,RealvizStitcher-?
 FlorianBertzbach,Nikon-D100,Sigma-8mm,custom,Monopod,Ptgui-4.1
 RobertBilsland,Nikon-CP990,Nikon-FCE8,custom,?,Ptgui-?
@@ -42,7 +42,7 @@ RichardCrowest,Nikon-CP990,Nikon-FCE8,Kaidan-Kiwi,yes,?
 GiancarloDeLeo,Nikon-D70,Nikkor-10.5mm,?,?,?
 StephenDenagy,Canon-10D,Sigma-15mm,?,yes,RealvizStitcher-?
 DavidDiederich,Nikon-CP4300,Nikon-WCE63,custom,yes,?
-ScottDoenges,Sony-CybershotF717,Raynox-FE180,Kaidan-QuickPanSpherical,Hakuba-504MX,RealvizStitcher-4
+ScottDoenges,Sony-CybershotF717,Raynox-FE180,Kaidan-QuickPanSpherical,Hakuba-504MX,RealvizStitcher-5.0
 JohnDotta,Canon-G1,?,Kaidan-Kiwi,yes,QTVRAS
 RichardCDrew,Nikon-CP8700,Nikon-FCE9,Agnos-MRotatorB,Manfrotto-?,Ptgui-?
 MichelDuChesne,Fuji-S2,Sigma-8mm,custom,yes,Ptgui-?
@@ -252,7 +252,7 @@ KlausVoigt,Canon-300D,Peleng-8mm,custom,yes,Hugin
 BillWard,Nikon-D100,Sigma-8mm,custom,yes,Ptgui-?
 BillEWard,Canon-20D,Canon-10to22mm,custom,yes,?
 JimWatters,Nikon-CP995,Nikon-FCE8,?,?,Ptgui-?
-CraigWills,Canon-?,?,?,yes,RealvizStitcher-?
+CraigWills,Canon-?,?,?,yes,RealvizStitcher-5.0
 JohnWilson,Nikon-CP5000,Nikon-FCE8,Manfrotto-302,Manfrotto-?,PTmac-?
 RobinWilson,Canon-300D,Peleng-8mm,?,?,PTmac-?
 EricWong

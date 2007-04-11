@@ -5,7 +5,7 @@ RodrigoAlarconCielock,Nikon-CP4500,Nikon-FCE8,custom,Velbon-?,Ptgui-?
 DaveAlbright,Canon-20D,Sigma-8mm,Kaidan-Kiwi,yes,Ptgui-?
 PatAlbright,Canon-350D,Sigma-8mm,Kaidan-Kiwi,yes,Ptgui-?
 AndyAlpern,Nikon-D100,Sigma-8mm,?,yes,?
-MarkusAltendorff,Canon-?,Sigma-18to125mm,Manfrotto-303sph,Manfrotto-?,RealvizStitcher-?
+MarkusAltendorff,Canon-?,Sigma-18to125mm,Manfrotto-303sph,Manfrotto-?,RealvizStitcher-5.0
 MilkoAmorth,Canon-1DS,Sigma-8mm,none,Monopod,?
 EricHAnderson,Canon-20D,Tamron-11to18mm,Manfrotto-303sph,yes,Ptgui-?
 PatrizioSilviAntonini,Nikon-D100,Nikkor-17to35mm,Kaidan-QuickPanIII,?,Ptgui-?
@@ -14,13 +14,13 @@ PatricioArmijo,Nikon-CP5000,Nikon-FCE9,none,Monopod,PanoTools
 LarsArned,Nikon-D70,Nikkor-10.5mm,custom,yes,?
 BryantArnett,Minolta-DimageZ1,Minolta-WE,custom,Vivitar-2200,Ptgui-?
 AYRTON,Nikon-D70,Sigma-8mm,?,yes,PTmac-3
-GDonaldBain,Olympus-E1,Olympus-14to54mm,Kaidan-QuickPanIII,Velbon-?,RealvizStitcher-?
+GDonaldBain,Olympus-E1,Olympus-14to54mm,Kaidan-QuickPanIII,Velbon-?,RealvizStitcher-5.0
 AndrewBairnsfather
 JoelBaldwin,Canon-300D,Peleng-8mm,Panosaurus,Monopod,PanoTools
 ArtBaltrotsky,Canon-300D,?,Kaidan-?,?,RealvizStitcher-?
 MarkBanas,Canon-300D,Sigma-8mm,Agnos-MRotatorC,Feisol-?,Photoshop
 MargaretEBazura,Canon-?,Canon-15mm,Kaidan-?,?,RealvizStitcher-?
-LuisBenitez,Nikon-D70,Nikkor-10.5mm,Agnos-QuicklyQTCubic,Manfrotto-3021b,RealvizStitcher-?
+LuisBenitez,Nikon-D70,Nikkor-10.5mm,Agnos-QuicklyQTCubic,Manfrotto-3021b,RealvizStitcher-5.0
 LandisBennett,Nikon-D100,Nikkor-10.5mm,Kaidan-QuickPanIII,?,RealvizStitcher-?
 KatBennett,Nikon-D100,Nikkor-10.5mm,none,Monopod,?
 MarkusBerchtold,?,?,?,?,Photoshop
@@ -79,7 +79,7 @@ EdwardFink,Nikon-D70,Sigma-8mm,Kaidan-QuickPanIII,Monopod,Ptgui-?
 MarkFink,Canon-10D,Sigma-14mm,PinnacleVR,yes,Photoshop
 RobertFisher,Fuji-S2Pro,Nikkor-10.5mm,?,?,PTmac-?
 KatyFlanagan,Nikon-D100,?,Kaidan-QuickPanSpherical,?,RealvizStitcher-4
-FrancisFougere,Canon-5D,Canon-16to35mmL,Manfrotto-303sph,yes,RealvizStitcher-?
+FrancisFougere,Canon-5D,Canon-16to35mmL,Manfrotto-303sph,yes,RealvizStitcher-5.0
 MartinFrech,Seitz-Roundshot,Schneider-28mm,ArcaSwiss-Monoball,yes,Photoshop
 ZsoltFrei,Canon-300D,Canon-17to40mmL,custom,Manfrotto-055,PanoTools
 AndrasFrenyo,Fuji-S2,Nikkor-8mm,?,?,?
@@ -202,7 +202,7 @@ JakobNorstedtMoberg,Nikon-D70,Nikkor-10.5mm,?,?,?
 AndrewNovinc,Canon-20D,Sigma-8mm,Kaidan-QuickPan?,yes,Ptgui-?
 HansNyberg,Canon-20D,Nikkor-10.5mm,?,?,PTmac-?
 PeterNyfeler,Nikon-D70,Nikkor-10.5mm,360precision,?,Ptgui-?
-PeterODonnell,Canon-5D,Canon-17to40mmL,?,Manfrotto-?,RealvizStitcher-?
+PeterODonnell,Canon-5D,Canon-17to40mmL,?,Manfrotto-?,RealvizStitcher-5.0
 BrianOReilly,Nikon-D70s,Nikkor-10.5mm,?,?,?
 GaryOBrien,Nikon-D100,Sigma-8mm,Manfrotto-303sph,Monopod,PTmac-?
 MichaelOistad,?,?,?,Manfrotto-?,Ptgui-?
@@ -213,7 +213,7 @@ JeanMarcParatte,?,?,?,?,PanoTools
 LauraPearson,Canon-20D,Sigma-8mm,none,handheld,?
 WillPearson,?,Nikkor-10.5mm,360precision,?,?
 JuliePecenco,Nikon-D70,Nikkor-18to70mm,Panosaurus,?,Ptgui-?
-JeffPelletier,Nikon-D70,Nikkor-18to70mm,Manfrotto-303sph,yes,RealvizStitcher-?
+JeffPelletier,Nikon-D70,Nikkor-18to70mm,Manfrotto-303sph,yes,RealvizStitcher-5.0
 StevePendleton,Canon-300D,Sigma-8mm,Kaidan-Kiwi,Manfrotto-?,PTmac-?
 GiuseppePennisi,Canon-1DS,Sigma-8mm,360precision,yes,?
 NormanPeters,Canon-10D,Canon-18to55mm,none,handheld,Ptgui-4.1
