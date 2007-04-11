@@ -13,7 +13,7 @@ rules = [
     (r'Canon D60', ('camera', 'Canon-D60')), # List film cameras together?
     (r'400D|kiss.*digital.*xti|rebel.*xti|canon.*xti', ('camera', 'Canon-400D')),
     (r'EOS 350|350D|350XT|kiss.*digital|rebel.*xt', ('camera', 'Canon-350D')),
-    (r'300D|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
+    (r'300D(?!X)|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
     (r'EOS[ -]600', ('camera', 'Canon-EOS600')), #FIXME: keep EOS?
     (r'Canon Pro1|PowerShot Pro 1', ('camera', 'Canon-PowershotPro1')),
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
