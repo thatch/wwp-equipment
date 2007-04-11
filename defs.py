@@ -140,6 +140,7 @@ rules = [
     (r'Sigma 14/|sigma 14mm|14mm lenss', ('lens', 'Sigma-14mm')),
     (r'Can+on.*15 ?mm|1DS.*15mm f2\.8', ('lens', 'Canon-15mm')),
     (r'Canon.*28-200mm', ('lens', 'Canon-28to200mm')),
+    (r'[Ss]haved.*10[.,]5|10[.,]5.*[Ss]haved', ('lens', 'Nikkor-10.5mm-Shaved')),
     (r'(Nikkor|Nikon)\s*10\.5|Nikon 10mm', ('lens', 'Nikkor-10.5mm')),
     (r'10\.5|10,5', ('lens', 'Nikkor-10.5mm')), # Unsure...
     (r'Tokina.*[Ss]haved.*10-17|Tokina.*10-17.*[Ss]haved|[Ss]haved.*Tokina.*10-17', ('lens', 'Tokina-10to17mm-Shaved')),
