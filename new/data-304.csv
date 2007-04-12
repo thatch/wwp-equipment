@@ -10,9 +10,9 @@ PatricioArmijo,Canon-?,Sigma-8mm,custom,yes,PanoTools
 JimArthur,Nikon-CP950,?,Kaidan-?,yes,QTVRAS
 HansChristianAsmussen,Nikon-D100,Sigma-8mm,Manfrotto-?,Manfrotto-?,?
 AYRTON,Nikon-CP4500,Nikon-FCE8,none,handheld,Photoshop
-GDonaldBain,Olympus-E1,Sigma-8mm,Kaidan-QuickPanIII,?,QTVRAS
+GDonaldBain,Olympus-E1,??-8mm,Kaidan-QuickPanIII,?,QTVRAS
 LuisBenitez,Nikon-CP4500,Nikon-WCE63,Agnos-QuicklyQTCubic,Manfrotto-3021,RealvizStitcher-4
-LandisBennett,Nikon-D100,Sigma-8mm,Kaidan-QuickPanIII,?,PanoTools
+LandisBennett,Nikon-D100,??-8mm,Kaidan-QuickPanIII,?,PanoTools
 RobertBilsland,Nikon-CP990,Nikon-FCE8,custom,?,PanoTools
 DonnaBlochwitz,Kodak-?,?,?,?,?
 IreneBlueth,?,?,?,?,?
@@ -24,7 +24,7 @@ RayBroussard,Canon-D10,?,Peaceriver-3Sixty,?,?
 WillBrown,Canon-?,?,?,yes,Photoshop
 BostjanBurger,Nikon-D2H,Nikkor-10.5mm,Manfrotto-QTVR,yes,?
 DuriCampell,Seitz-Roundshot,?,?,?,?
-OliverCannell,Canon-?,Sigma-8mm,Kaidan-?,yes,QTVRAS
+OliverCannell,Canon-?,??-8mm,Kaidan-?,yes,QTVRAS
 DouglasCape,Nikon-D100,Sigma-8mm,none,handheld,PTmac-?
 FioreCappone,Nikon-CP5000,Nikon-FCE8,Kaidan-QuickPanIII,?,PTmac-?
 LarryCassis,Nikon-CP990,?,Kaidan-Kiwi,yes,QTVRAS
@@ -33,7 +33,7 @@ TedChavalas,?,?,?,?,?
 PierreConverset
 RichardLDailey,Canon-?,?,Kaidan-Kiwi,yes,?
 YangDehua
-DeborahandJeffDonaghue,Canon-300D,Sigma-8mm,Manfrotto-QTVR,Manfrotto-?,RealvizStitcher-?
+DeborahandJeffDonaghue,Canon-300D,??-8mm,Manfrotto-QTVR,Manfrotto-?,RealvizStitcher-?
 MirekDDuda,?,?,?,?,?
 JimDuncan,Nikon-CP995,?,Kaidan-QuickPan?,yes,QTVRAS
 JohnEarly,?,?,?,?,?
@@ -45,12 +45,12 @@ RobertFisher,Fuji-S2,Sigma-8mm,?,Manfrotto-?,?
 JanieFitzgerald,Fuji-S2,Nikkor-10.5mm,?,yes,?
 AreFlagan,Nikon-D70,Sigma-8mm,?,?,PTmac-?
 MartinFrech,Seitz-Roundshot,?,?,yes,?
-AndrasFrenyo,Fuji-S2,Sigma-8mm,?,?,?
+AndrasFrenyo,Fuji-S2,??-8mm,?,?,?
 DaniFuchs,Canon-G5,?,custom,yes,Ptgui-?
 YasuhiroFujimoto,Nikon-CP995,Nikon-WCE63,Manfrotto-303sph,Manfrotto-?,?
 GuillaumeFulchiron,?,?,?,yes,Ptgui-?
 RyanGalt,?,?,none,handheld,RealvizStitcher-?
-ToniGarbasso,Fuji-S2Pro,Sigma-8mm,?,?,PTmac-?
+ToniGarbasso,Fuji-S2Pro,??-8mm,?,?,PTmac-?
 AntonioVictorGarciaSerrano,Canon-10D,Sigma-8mm,Manfrotto-?,Manfrotto-?,Ptgui-?
 TomGaukel,Kodak-?,?,?,yes,?
 ChristianGavin,Olympus-E1,?,Kaidan-QuickPanSpherical,?,RealvizStitcher-5.0
@@ -60,12 +60,12 @@ DavidGerhard,Nikon-CP4500,Nikon-FCE8,?,?,PTmac-?
 DavidGibson,Canon-350D,Sigma-8mm,none,handheld,PTmac-?
 JosepGiribet,Canon-D10,Canon-16to35mmL,Kaidan-?,yes,RealvizStitcher-?
 DenisGliksman,Nikon-D1x,Nikkor-10.5mm,custom,yes,?
-ErikGoetze,Nikon-?,Sigma-8mm,custom,yes,QTVRAS
+ErikGoetze,Nikon-?,??-8mm,custom,yes,QTVRAS
 DavidGoldwasser,Canon-300D,Sigma-8mm,?,yes,?
 RobertoGomezTorres,Nikon-CP990,Nikon-FCE8,Kaidan-Kiwi,?,Ptgui-?
 AuraCastroyFelipeGonzalez,Sony-?,Raynox-FE180,custom,yes,PTmac-?
 NickGordon,Nikon-CP4500,Nikon-FCE8,custom,yes,?
-RalphGreene,Nikon-?,Sigma-8mm,Kaidan-?,yes,Ptgui-?
+RalphGreene,Nikon-?,??-8mm,Kaidan-?,yes,Ptgui-?
 JohnGreenleigh,Fuji-S2Pro,Nikkor-20mm,none,handheld,?
 BobGuan,Nikon-CP4500,Nikon-FCE8,Kaidan-QuickPanIII,?,PanoTools
 LoicLeGuilly,Nikon-?,?,?,?,Ptgui-?
@@ -89,10 +89,10 @@ EdwardHuff,Nikon-CP995,?,Kaidan-QuickPanIII,?,VRWorx
 AndrewJakowleff,?,Nikon-FCE8,custom,yes,PanoTools
 TudorJenkins,?,Sigma-8mm,Manfrotto-?,yes,Ptgui-?
 LiuJin
-KatKalamaras,Nikon-D100,Sigma-8mm,Kaidan-QuickPanIII,?,RealvizStitcher-?
+KatKalamaras,Nikon-D100,??-8mm,Kaidan-QuickPanIII,?,RealvizStitcher-?
 DeanKaramehmedovic,Sony-CybershotF717,?,?,Manfrotto-?,?
 TerryKelly,Canon-10D,Canon-17to40mmL,custom,yes,RealvizStitcher-?
-GeorgeKountouris,Canon-?,Sigma-8mm,none,handheld,PanoTools
+GeorgeKountouris,Canon-?,Sigma-?,none,handheld,PanoTools
 GerardKuster,Canon-10D,Sigma-8mm,custom,Manfrotto-?,PTmac-?
 JuhaniLaiho,Fuji-S2Pro,Nikkor-10.5mm,?,?,PTmac-?
 IanLalonde,Nikon-CP4500,Nikon-FCE8,?,?,?
@@ -111,7 +111,7 @@ RoryAMcLeod,Nikon-CP5700,?,Kaidan-QuickPanIII,Manfrotto-190,RealvizStitcher-5.0
 TimMolnar,Nikon-CP990,?,Kaidan-?,?,PTmac-?
 WaleedNassar,Nikon-CP990,Nikon-FCE8,Kaidan-Kiwi,?,Ptgui-?
 StephaneNegri,?,?,?,?,?
-JamesNeiss,Nikon-D100,Sigma-8mm,?,yes,QTVRAS
+JamesNeiss,Nikon-D100,Sigma-?,?,yes,QTVRAS
 LeeNelson,Canon-300D,Canon-18to55mm,Kaidan-Kiwi,yes,QTVRAS
 HansNyberg,Canon-D60,Sigma-8mm,custom,yes,PanoTools
 GaryOBrien,Nikon-D100,Sigma-8mm,none,handheld,PTmac-?
@@ -158,7 +158,7 @@ BrianTasker,Pentax-?,?,?,?,Photoshop
 MatthiasTaugwalder
 MickaelTherer,Nikon-D100,Nikkor-10.5mm,Kaidan-Kiwi,yes,PTmac-?
 RobertThien,Canon-10D,Canon-17to40mmL,?,?,RealvizStitcher-3.1
-LaurentThion,Nikon-CP5000,Sigma-8mm,custom,yes,RealvizStitcher-4
+LaurentThion,Nikon-CP5000,??-8mm,custom,yes,RealvizStitcher-4
 GeorgeHThomas,Nikon-CP5000,?,none,handheld,?
 ChrisThorne,Sony-?,?,?,yes,Ptgui-6
 KenTurkowski,Nikon-CP995,?,none,handheld,?
@@ -181,4 +181,4 @@ PeterWinkler,?,Nikkor-8mm,Manfrotto-302sph,Manfrotto-?,PanoTools
 ThomasWinter
 JanvanderWoning,Seitz-Roundshot,?,?,?,Photoshop
 FengYansu
-VictorZaveduk,?,Sigma-8mm,custom,Manfrotto-?,Ptgui-?
+VictorZaveduk,?,??-8mm,custom,Manfrotto-?,Ptgui-?

@@ -32,7 +32,7 @@ PeterBraatz,Nikon-D200,Nikkor-10.5mm,360precision,?,?
 ChristianBraut,Nikon-D70,Nikkor-18to70mm,Manfrotto-303sph,yes,RealvizStitcher-?
 RayBroussard,Nikon-D70s,Sigma-12to24mm,Peaceriver-3Sixty,?,?
 WilBrugman,Pentax-istDS,Raynox-DCR185,?,?,?
-BostjanBurger,Nikon-D200,Sigma-8mm,?,?,?
+BostjanBurger,Nikon-D200,Sigma-?,?,?,?
 DuriCampell,Seitz-Roundshot,?,none,handheld,?
 LarryCassis,Nikon-CP990,?,Kaidan-Kiwi,?,VRWorx
 JobyCatto,Canon-350D,Canon-18to55mm,Panosaurus,Manfrotto-190,RealvizStitcher-5.1
@@ -41,7 +41,7 @@ BrenoChristol,Canon-?,?,?,?,?
 UriCogan,Nikon-D70,Nikkor-10.5mm,Manfrotto-303sph,yes,PTmac-?
 SteveCole,Nikon-CP5000,?,Kaidan-Kiwi,?,?
 RichardCrowest,Canon-350D,Sigma-8mm,360precision,yes,Ptgui-?
-FrankvanDam,Canon-5D,Sigma-8mm,360precision,?,PTmac-?
+FrankvanDam,Canon-5D,Sigma-?,360precision,?,PTmac-?
 YangDehua,Nikon-D100,Sigma-8mm,?,?,Ptgui-?
 GiancarloDeLeo,Nikon-D70,?,none,handheld,Ptgui-?
 AriedeRuiter,Nikon-D70,Nikkor-10.5mm,Manfrotto-303sph,?,?
@@ -51,7 +51,7 @@ BerndDohrmann,Canon-300D,Sigma-8mm,none,handheld,Ptgui-?
 RichardCDrew,Nikon-CP8700,Nikon-FCE9,Agnos-MRotatorB,Manfrotto-?,Ptgui-?
 JamesEdge,Canon-10D,?,?,?,?
 CarlvonEinem,Kodak-?,?,?,?,PTmac-?
-ColinEwington,Canon-10D,Sigma-8mm,?,?,?
+ColinEwington,Canon-10D,??-8mm,?,?,?
 JohnFellers,Nikon-D100,Sigma-8mm,?,Manfrotto-?,Ptgui-?
 IgnacioFerrando,Nikon-D2x,Nikkor-10.5mm,?,?,?
 EdwardFink,Nikon-D70,Sigma-8mm,Kaidan-QuickPanIII,?,Ptgui-?
@@ -80,7 +80,7 @@ KWayneHeil,Nikon-D70,Nikkor-8mm,none,handheld,Ptgui-5.8
 DanHeimsoth,Canon-?,Sigma-8mm,NodalNinja-?,?,Ptgui-?
 BruceHemming,Canon-5D,Canon-15mm,360precision,Manfrotto-?,PTmac-?
 GrantHermanson,Nikon-CP8700,?,Kaidan-QuickPanIII,?,?
-DonHofstee,Nikon-D70,Sigma-8mm,Manfrotto-?,yes,PTmac-?
+DonHofstee,Nikon-D70,??-8mm,Manfrotto-?,yes,PTmac-?
 GuidoHomberger,Nikon-CP8400,Nikon-FCE9,?,?,?
 JohnHoughton,Canon-20D,Sigma-8mm,?,yes,Ptgui-?
 JohnHousser,Canon-20D,Peleng-8mm,?,?,Ptgui-?
@@ -89,7 +89,7 @@ MartinHrdlicka,Nikon-D70s,Nikkor-10.5mm,?,?,?
 AndreyIlyin,Nikon-D70,Nikkor-10.5mm,360precision,Manfrotto-055,Ptgui-5.8
 SachioIzumi,Nikon-D100,Sigma-8mm,Kaidan-?,Manfrotto-?,Photoshop
 AleksandarJanicijevic,Nikon-CP4300,Nikon-WCE24,?,?,QTVRAS
-LiesbethJense,Seitz-Roundshot,Sigma-8mm,?,?,?
+LiesbethJense,Seitz-Roundshot,??-8mm,?,?,?
 WillyKaemena,Nikon-D70,Nikkor-8mm,none,Monopod,PTmac-?
 YoshiyukiKaneko,Canon-10D,Sigma-8mm,?,?,Photoshop
 DeanKaramehmedovic,Nikon-D70,Nikkor-10.5mm,360precision,?,Ptgui-?
@@ -164,9 +164,9 @@ MikePosehn,Canon-5D,Canon-15mm,Manfrotto-?,yes,?
 TimPoulsen,Nikon-CP4500,Nikon-FCE8,?,?,Ptgui-?
 TommyPoung,Nikon-D70,Nikkor-10.5mm,?,?,?
 ThomasRauscher,Nikon-D70s,Peleng-8mm,?,Benbo-?,Ptgui-?
-PeterRees,Kodak-?,Sigma-8mm,?,?,RealvizStitcher-?
+PeterRees,Kodak-?,Sigma-?,?,?,RealvizStitcher-?
 CarstenRees,Canon-300D,Sigma-12to24mm,Manfrotto-303sph,?,RealvizStitcher-?
-AndrewReid,Canon-300D,Sigma-8mm,?,yes,?
+AndrewReid,Canon-300D,??-8mm,?,yes,?
 GaborRev,Canon-350D,Sigma-8mm,custom,yes,Ptgui-?
 InakiRezola,Nikon-D70,Nikkor-10.5mm,?,?,Ptgui-?
 HardyRichter
@@ -177,7 +177,7 @@ ThomasRist
 PatRooney,Canon-300D,Canon-10to22mm,?,?,?
 GeorgeRow,Minolta-Dimage7,Minolta-7.2to50.8mm,Kaidan-Kiwi,yes,VRWorx
 ScottRowed,Nikon-D2x,?,custom,yes,Ptgui-?
-BrandonRowell,Canon-20D,Sigma-8mm,Manfrotto-303sph,yes,?
+BrandonRowell,Canon-20D,??-8mm,Manfrotto-303sph,yes,?
 CarlRudlinton,Nikon-CP8400,?,?,?,?
 KerryRudy,Nikon-D100,Nikkor-10.5mm,Kaidan-QuickPanIV,?,Ptgui-?
 DanRuettimann,Fuji-S2,Nikkor-17to35mm,?,Manfrotto-?,QTVRAS
@@ -205,7 +205,7 @@ AaronSpence,Nikon-D200,Nikkor-10.5mm,360precision,yes,Ptgui-?
 ShawnSteigner,Canon-20D,Sigma-8mm,?,yes,Ptgui-?
 SkipSteuart,Canon-5D,?,360precision,yes,PTmac-?
 MichaelStoss,Canon-20D,Sigma-8mm,Manfrotto-303sph,?,Ptgui-?
-TomStriewisch,?,Sigma-8mm,custom,Manfrotto-?,?
+TomStriewisch,?,??-8mm,custom,Manfrotto-?,?
 KenStuart,Nikon-D70,Nikkor-10.5mm,360precision,yes,PTmac-?
 PatSwovelin,Canon-300D,Peleng-8mm,NodalNinja-?,Manfrotto-?,Ptgui-5.8
 YoshitoTakagi,Canon-10D,Sigma-8mm,360precision,yes,?

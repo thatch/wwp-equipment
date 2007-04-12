@@ -183,7 +183,7 @@ rules = [
     (r'Minolta Dimage.*(28mm|wide angle)', ('lens', 'Minolta-WE')), #FIXME
     (r'Olympus.*14-54|14mm Olympus', ('lens', 'Olympus-14to54mm')),
     (r'Nikon 12-24', ('lens', 'Nikkor-12to24mm')),
-    (r'Nikkor 8(?:mm)?|8mm nikkor', ('lens', 'Nikkor-8mm')), # 8mm.{,10}2.8
+    (r'Nikkor 8(?:mm)?|8mm nikkor|Nikon 8mm', ('lens', 'Nikkor-8mm')), # 8mm.{,10}2.8
     (r'20.*Nikkor', ('lens', 'Nikkor-20mm')), #This is too broad.
     (r'12 mm \(?rectilinear\)? ultra', ('lens', '?-12mm')), # Same guy as the next one.
     (r'12 mm Heliar|Ultra-Heliar 12', ('lens', 'Heliar-12mm')),
@@ -198,7 +198,8 @@ rules = [
     (r'Nikkor 55-200', ('lens', 'Nikkor-55to200mm')),
     (r'Canon.*50mm', ('lens', 'Canon-50mm')), #CarolingGeary
     (r'Nikon.*40mm', ('lens', 'Nikkor-40mm??')), #CraigABusch
-    (r'Sigma|\b8 mm|8mm', ('lens', 'Sigma-8mm')), #AndrzejHarasz PROBABLY WRONG
+    (r'\b8 mm|8mm', ('lens', '??-8mm')), #AndrzejHarasz
+    (r'Sigma', ('lens', 'Sigma-?')),
     (r'10-22|Canon.*10mm', ('lens', 'Canon-10to22mm')), #CBArunKumar, MarkCrawford
     (r'canon[\w\W]+15mm', ('lens', 'Canon-15mm')), #JonathanGreet
     ],
