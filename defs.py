@@ -70,7 +70,9 @@ rules = [
     (r'Pentax.*ist ?DS', ('camera', 'Pentax-istDS')),
     (r'Pentax.*ist ?DL', ('camera', 'Pentax-istDL')),
     (r'Pentax.*ist ?D', ('camera', 'Pentax-istD')),
+    (r'Pentax.*K10D', ('camera', 'Pentax-K10D')),
     (r'Pentax.*K100D', ('camera', 'Pentax-K100D')),
+    (r'Optio W10', ('camera', 'Pentax-OptioW10')),
     
     # Others
     (r'Sigma SD9', ('camera', 'Sigma-SD9')),
