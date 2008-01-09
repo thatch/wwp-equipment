@@ -36,7 +36,7 @@ RicardoCambon,?,?,?,?,?
 BrenoChristol,Canon-400D,Sigma-8mm,NodalNinja-?,?,?
 PaulCowley
 RichardCrowest,Canon-350D,Sigma-8mm,360precision,Manfrotto-?,Ptgui-?
-FrankvanDam,Canon-400D,Sigma-8mm,NodalNinja-?,Gitzo-?,PtguiPro-7.5
+FrankvanDam,Canon-400D,Sigma-8mm,NodalNinja-5Beta,Gitzo-?,PtguiPro-7.5
 WilliamMDelabarre,Nikon-D50,?,Kaidan-QuickPanIV,yes,PanoramaFactory
 AriedeRuiter,Nikon-D70,Sigma-8mm,NodalNinja-?,?,PtguiPro-7.4
 VivekDevBurman,Nikon-D40,Sigma-8mm,Manfrotto-303sph,Manfrotto-?,?
@@ -81,7 +81,7 @@ QingYunHu,Canon-350D,Sigma-8mm,?,?,?
 MarcHuff,Canon-400D,Sigma-8mm,NodalNinja-3,yes,Ptgui-?
 MichaelHundrieser,Nikon-D80,Sigma-8mm,NodalNinja-?,Manfrotto-?,?
 EduardoHutter,Nikon-D200,Nikkor-10.5mm,NodalNinja-3,?,Ptgui-7.3
-AndreyIlyin,Nikon-D200,Sigma-8mm,NodalNinja-?,Manfrotto-055,PtguiPro-7.4
+AndreyIlyin,Nikon-D200,Sigma-8mm,NodalNinja-5Beta,Manfrotto-055,PtguiPro-7.4
 AleksandarJanicijevic,Panasonic-?,?,?,?,?
 AndersJiras,Nikon-D2x,Nikkor-10.5mm,360precision,yes,?
 WillyKaemena,Nikon-D200,??-8mm,none,Monopod,Photoshop
@@ -94,7 +94,7 @@ AndreyKharuk,Nikon-D70s,Sigma-10to20mm,NodalNinja-3,?,?
 DieterKik,Nikon-?,Sigma-?,?,Manfrotto-?,Ptgui-?
 HelgeKippenberg,Canon-300D,Peleng-8mm,?,?,?
 BlazKodelja,?,Canon-18to55mm,?,?,?
-WimKoornneef,Canon-5D,Tokina-10to17mm-Shaved,NodalNinja-?,Feisol-?,PtguiPro-7.5
+WimKoornneef,Canon-5D,Tokina-10to17mm-Shaved,NodalNinja-5Beta,Feisol-?,PtguiPro-7.5
 RandyKosek,Canon-5D,Canon-15mm,360precision,Manfrotto-?,?
 ErikKrause,Nikon-?,?,?,?,Ptgui-?
 MarkusKrueger,Canon-5D,Sigma-8mm,?,?,?
@@ -163,7 +163,7 @@ AlexanderSpielberg,Canon-400D,Peleng-8mm,none,Monopod,?
 ShawnSteigner,Canon-30D,Nikkor-10.5mm,Manfrotto-300n,Monopod,Ptgui-6
 TomStriewisch,Canon-5D,Nikkor-10.5mm,Novoflex,yes,Ptgui-?
 KenStuart,Nikon-D70,Nikkor-10.5mm,?,?,Ptgui-?
-PatSwovelin,Canon-300D,Peleng-8mm,NodalNinja-?,Manfrotto-190,PtguiPro-7.4
+PatSwovelin,Canon-300D,Peleng-8mm,NodalNinja-5Beta,Manfrotto-190,PtguiPro-7.4
 YoshitoTakagi,Canon-5D,Sigma-15mm,360precision,yes,?
 MichelThoby,Canon-5D,Tokina-12to24mm,?,Manfrotto-190,?
 DuduTresca,Canon-20D,Peleng-8mm,none,handheld,Ptgui-?
