@@ -28,7 +28,8 @@ rules = [
     (r'D2x', ('camera', 'Nikon-D2x')),
     (r'D2H', ('camera', 'Nikon-D2H')),
     (r'Nikon.*D2x', ('camera', 'Nikon-D2x')),
-    (r'Nikon.*D50', ('camera', 'Nikon-D50')),
+    (r'Nikon.*D-?50', ('camera', 'Nikon-D50')),
+    (r'Nikon.*D-?40', ('camera', 'Nikon-D40')),
     (r'D70s', ('camera', 'Nikon-D70s')),
     (r'D70', ('camera', 'Nikon-D70')),
     (r'D200', ('camera', 'Nikon-D200')),
@@ -61,6 +62,7 @@ rules = [
     (r'Fuji.*S7000', ('camera', 'Fuji-S7000')),
 
     # Olympus
+    (r'Oly[mn]pus E-?3', ('camera', 'Olympus-E3')),
     (r'E[ -]?300', ('camera', 'Olympus-E300')),
     (r'E[ -]?500', ('camera', 'Olympus-E500')),
     (r'Olympus 5050', ('camera', 'Olympus-5050')),
@@ -82,6 +84,7 @@ rules = [
     (r'Minolta (Dynax )?7D', ('camera', 'Minolta-Dynax7D')),
     (r'Yashica FX107', ('camera', 'Yashica-FX107')),
     (r'Leica M6TTL', ('camera', 'Leica M6TTL')),
+    (r'Leica Digilux 3', ('camera', 'Leica-Digilux3')),
 
     # Can't take addons
     (r'Brownie', ('camera', 'Kodak-Brownie')),
@@ -119,6 +122,10 @@ rules = [
     (r'Kodak[ -]?DCS Pro', ('camera', 'Kodak-DCSPro')),
     (r'Panasonic LC5', ('camera', 'Panasonic-LC5')),
     (r'Pentax Optio 60', ('camera', 'Pentax-Optio60')),
+    (r'Sa[mn]sung.*s730', ('camera', 'Samsung S730')),
+
+    # Scanning cams
+    (r'Panoscan\s*MK3', ('camera', 'Panoscan-MK3'), ('panohead', 'Panoscan-MK3')),
 
     # Generic
     (r'Canon', ('camera', 'Canon-?')),
@@ -134,7 +141,7 @@ rules = [
     # Lenses
     (r'Epoque Wide Convert.*0\.56x', ('lens', 'Epoque-WE0.56')), #Must be before 10.5
 
-    (r'8mm Zuiko', ('lens', 'Zuiko-8mm')), #Bain
+    (r'8mm Zuiko|Zuiko 8mm|Olympus 8mm', ('lens', 'Zuiko-8mm')), #Bain
     (r'Zuiko 13-45', ('lens', 'Zuiko-14to45mm')), #HenkKeijzer
     (r'Peleng|pelleng', ('lens', 'Peleng-8mm')),
     (r'Sigma.*\b8 ?mm|sigma[ -]?8| S 8mm', ('lens', 'Sigma-8mm')),
@@ -252,7 +259,7 @@ rules = [
     (r'kite', ('panohead', 'Kite')), #FIXME: is this a tripod?
     
     (r'bophoto|\bbo\b.*bracket', ('panohead', 'LensRing-BoPhoto')),
-    (r'agnos lense bracket', ('panohead', 'LensRing-Agnos')),
+    (r'agnos lense?\s*(bracket|ring)', ('panohead', 'LensRing-Agnos')),
     (r'lens ring|ring mount', ('panohead', 'LensRing-?')),
     (r'Rotopan', ('panohead', 'Rotospan')),
     (r'jasper (engineering )?panohead', ('panohead', 'Jasper')), #AndyAplern
@@ -293,6 +300,7 @@ rules = [
     (r'Arca Swiss Monoball', ('panohead', 'ArcaSwiss-Monoball')),
     (r'roundshot *vr', ('panohead', 'Seitz-RoundshotVR')),
     (r'NN3|Nod[ae]l[ -]?Ninja ?3', ('panohead', 'NodalNinja-3')),
+    (r'NN2|Nodal Ninja 2', ('panohead', 'NodalNinja-2')),
     (r'Ninja SPH-1', ('panohead', 'NodalNinja-SPH1')),
     (r'Ninja SPH-2', ('panohead', 'NodalNinja-SPH2')),
     (r'Nodal[ -]?Ninja', ('panohead', 'NodalNinja-?')),
@@ -318,8 +326,16 @@ rules = [
     (r'pt.*gui[^.,]*4\.1', ('software', 'Ptgui-4.1')),
     (r'pt.*gui[^.,]*5\.0', ('software', 'Ptgui-5.0')),
     (r'pt.*gui[^.,]*5\.8', ('software', 'Ptgui-5.8')),
+    (r'pt.*gui[^.,]6\.3', ('software', 'Ptgui-6.3')),
     (r'pt.*gui[^.,]*6', ('software', 'Ptgui-6')),
+    (r'pt.*gui[^.,]*(pro\s*7\.3|7\.3\s*pro)', ('software', 'PtguiPro-7.3')),
+    (r'pt.*gui[^.,]*(pro\s*7\.4|7\.4\s*pro)', ('software', 'PtguiPro-7.4')),
+    (r'pt.*gui[^.,]*(pro\s*7\.5|7\.5\s*pro)', ('software', 'PtguiPro-7.5')),
+    (r'pt.*gui[^.,]*7\.3', ('software', 'Ptgui-7.3')),
+    (r'pt.*gui[^.,]*7\.4', ('software', 'Ptgui-7.4')),
+    (r'pt.*gui[^.,]*7\.5', ('software', 'Ptgui-7.5')),
     (r'pt.*gui', ('software', 'Ptgui-?')),
+    (r'pt.*gui[^.,]*pro', ('software', 'PtguiPro-?')),
     (r'pt.*mac[^.,]*4\.1', ('software', 'PTmac-4.1')),
     (r'pt.*mac[^.,]*3', ('software', 'PTmac-3')),
     (r'pt.*mac', ('software', 'PTmac-?')),
