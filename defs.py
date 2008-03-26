@@ -3,6 +3,7 @@ __all__ = ["rules"]
 rules = [
     [
     # Canon
+    (r'1DS ?mk(3|III)', ('camera', 'Canon-1DSmark3')),
     (r'1DS ?mkII|Canon 1ds2|1DS MII', ('camera', 'Canon-1DSmark2')),
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
     (r'Canon 1D MarkII', ('camera', 'Canon-1Dmark2')), #JacquesJoffre
@@ -34,6 +35,7 @@ rules = [
     (r'D2x', ('camera', 'Nikon-D2x')),
     (r'D2H', ('camera', 'Nikon-D2H')),
     (r'Nikon.*D2x', ('camera', 'Nikon-D2x')),
+    (r'Nikon.*D-?60', ('camera', 'Nikon-D60')),
     (r'Nikon.*D-?50', ('camera', 'Nikon-D50')),
     (r'Nikon.*D-?40x', ('camera', 'Nikon-D40x')),
     (r'Nikon 40X', ('camera', 'Nikon-D40x')), #JuhaniLaiho
@@ -162,7 +164,7 @@ rules = [
     # Lenses
     (r'Epoque Wide Convert.*0\.56x', ('lens', 'Epoque-WE0.56')), #Must be before 10.5
 
-    (r'8mm Zuiko|Zuiko 8mm|Olympus 8mm', ('lens', 'Zuiko-8mm')), #Bain
+    (r'8mm Zuiko|Zuiko 8mm|Olympus 8mm|ED 8mm 3\.5', ('lens', 'Zuiko-8mm')), #Bain
     (r'14-104mm', ('lens', '??-14to104mm')), #Bain
     (r'Zuiko 13-45', ('lens', 'Zuiko-14to45mm')), #HenkKeijzer
     (r'Peleng?|pelleng', ('lens', 'Peleng-8mm')),
@@ -170,7 +172,7 @@ rules = [
     (r'Sigma.*\b8 ?mm|sigma[ -]?8| S 8mm|8mm sigma|sigma 4/8', ('lens', 'Sigma-8mm')),
     (r'15mm.*Sigma|Sigma.*15mm|sigma *15', ('lens', 'Sigma-15mm')),
     (r'Sigma 14/|sigma 14mm|14mm lenss', ('lens', 'Sigma-14mm')),
-    (r'Can+on.*15 ?mm|1DS.*15mm f2\.8', ('lens', 'Canon-15mm')),
+    (r'Can+on.*15 ?mm|1DS.*15mm (?:f2\.8)?', ('lens', 'Canon-15mm')),
     (r'Canon.*28-200mm', ('lens', 'Canon-28to200mm')),
     (r'[Ss]haved.*10[.,]5|10[.,]5.*[Ss]haved', ('lens', 'Nikkor-10.5mm-Shaved')),
     (r'(Nikkor|Nikon)\s*10\.5|Nikon 10mm', ('lens', 'Nikkor-10.5mm')),
@@ -226,7 +228,8 @@ rules = [
     (r'Soligor fisheye.*0,25x', ('lens', 'Soligor-WE')),
     (r'Leica 16mm Fisheye', ('lens', 'Leica-16mm')),
     (r'Pentax.*10-17mm', ('lens', 'Pentax-10to17mm')),
-    (r'Coastal Optic(al|s)', ('lens', 'CoastalOptical')), #FIXME: what focal length?
+    (r'Pentax 14mm', ('lens', 'Pentax-14mm')),
+    (r'Coa?stal Optic(al|s|)', ('lens', 'CoastalOptical-4.88mm')), #185deg!
     (r'WCON-07C', ('lens', 'Olympus-WCON07C')),
     
     (r'Nikkor 55-200', ('lens', 'Nikkor-55to200mm')),
@@ -290,7 +293,7 @@ rules = [
     (r'slik', ('tripod', 'Slik-?')),
     (r'DynaTran', ('tripod', 'DynaTran-?')),
     (r'Hama Tripod', ('tripod', 'Hama-?')),
-    (r'(?<!pro )(manfrot+o|bogen|monfrotto)(?!\s+head|\s+qtvr|\s+rotat|\s+pano|\s+(?:SP)?303)', ('tripod', 'Manfrotto-?')),
+    (r'(?<!pro )(manfrot+o|bogen|monfrotto|manforo)(?!\s+head|\s+qtvr|\s+rotat|\s+pano|\s+(?:SP)?303)', ('tripod', 'Manfrotto-?')),
     (r'Calumet', ('tripod', 'Calumet-?')),
     (r'tripod|head', ('tripod', 'yes')),
     ],
@@ -374,6 +377,7 @@ rules = [
     (r'unbranded pano-head', ('panohead', 'yes')),
     (r'precision', ('panohead', '360precision')),
     (r'seitz', ('panohead', 'Seitz-?')),
+    (r'ipix rotator', ('panohead', 'IPIX-?')),
     ],
     
     [
@@ -388,9 +392,13 @@ rules = [
     (r'pt.*gui[^.,]*(pro\s*7\.3|7\.3\s*pro)', ('software', 'PtguiPro-7.3')),
     (r'pt.*gui[^.,]*(pro\s*7\.4|7\.4\s*pro)', ('software', 'PtguiPro-7.4')),
     (r'pt.*gui[^.,]*(pro\s*7\.5|7\.5\s*pro)', ('software', 'PtguiPro-7.5')),
+    (r'pt.*gui[^.,]*(pro\s*7\.6|7\.6\s*pro)', ('software', 'PtguiPro-7.6')),
+    (r'pt.*gui[^.,]*(pro\s*7\.7|7\.7\s*pro)', ('software', 'PtguiPro-7.7')),
     (r'pt.*gui[^.,]*7\.3', ('software', 'Ptgui-7.3')),
     (r'pt.*gui[^.,]*7\.4', ('software', 'Ptgui-7.4')),
     (r'pt.*gui[^.,]*7\.5', ('software', 'Ptgui-7.5')),
+    (r'pt.*gui[^.,]*7\.6', ('software', 'Ptgui-7.6')),
+    (r'pt.*gui[^.,]*7\.7', ('software', 'Ptgui-7.7')),
     (r'ptguimac', ('software', 'PtGui-?')),
     (r'pt.*gui[^.,]*pro', ('software', 'PtguiPro-?')),
     (r'pt.*gui', ('software', 'Ptgui-?')),
@@ -398,7 +406,7 @@ rules = [
     (r'pt.*mac[^.,]*3', ('software', 'PTmac-3')),
     (r'pt.*mac', ('software', 'PTmac-?')),
     (r'quicktime.*vr.*studio|qtvr[ -]?as', ('software', 'QTVRAS')),
-    (r'stitcher.*\bV?4\b', ('software', 'RealvizStitcher-4')),
+    (r'stitcher V?4\b', ('software', 'RealvizStitcher-4')),
     (r'stitcher.*5[.,]6', ('software', 'RealvizStitcher-5.6')),
     (r'stitcher.*5[.,]5', ('software', 'RealvizStitcher-5.5')),
     (r'stitcher.*5[.,]1', ('software', 'RealvizStitcher-5.1')),
