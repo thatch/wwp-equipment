@@ -11,7 +11,7 @@ JimArthur,Nikon-CP950,?,Kaidan-?,yes,QTVRAS
 HansChristianAsmussen,Nikon-D100,Sigma-8mm,Manfrotto-?,Manfrotto-?,?
 AYRTON,Nikon-CP4500,Nikon-FCE8,none,handheld,Photoshop
 GDonaldBain,Olympus-E1,??-14to104mm,Kaidan-QuickPanIII,?,QTVRAS
-LuisBenitez,Nikon-CP4500,Nikon-WCE63,Agnos-QuicklyQTCubic,Manfrotto-3021,RealvizStitcher-4
+LuisBenitez,Nikon-CP4500,Nikon-WCE63,Agnos-QuicklyQTCubic,Manfrotto-3021,RealvizStitcher-5.0
 LandisBennett,Nikon-D100,?,Kaidan-QuickPanIII,?,PanoTools
 RobertBilsland,Nikon-CP990,Nikon-FCE8,custom,?,PanoTools
 DonnaBlochwitz,Kodak-?,?,?,?,?
@@ -45,7 +45,7 @@ RobertFisher,Fuji-S2,Sigma-8mm,?,Manfrotto-?,?
 JanieFitzgerald,Fuji-S2,Nikkor-10.5mm,?,yes,?
 AreFlagan,Nikon-D70,Sigma-8mm,?,?,PTmac-?
 MartinFrech,Seitz-Roundshot,?,?,yes,?
-AndrasFrenyo,Fuji-S2,??-8mm,?,?,IPIX
+AndrasFrenyo,Fuji-S2,??-8mm,IPIX-?,?,IPIX
 DaniFuchs,Canon-G5,?,custom,yes,PtguiPro-?
 YasuhiroFujimoto,Nikon-CP995,Nikon-WCE63,Manfrotto-303sph,Manfrotto-?,?
 GuillaumeFulchiron,?,?,?,yes,Ptgui-?
@@ -131,7 +131,7 @@ TobiasPort
 MikePosehn,Sony-CybershotF717,?,?,?,PanoTools
 LucaPostpischl
 TimPoulsen,Nikon-CP4500,Nikon-FCE8,custom,yes,Ptgui-?
-LorenPrice,Nikon-D1x,?,?,?,IPIX
+LorenPrice,Nikon-D1x,CoastalOptical-4.88mm,?,?,IPIX
 ScottPruett,Canon-D60,Canon-16to35mmL,Kaidan-QuickPanIII,?,PTmac-?
 SunQiao
 MichaelQuan,Canon-10D,Sigma-8mm,?,yes,PTmac-?
