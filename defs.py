@@ -181,7 +181,7 @@ rules = [
     # Lenses
     (r'Epoque Wide Convert.*0\.56x', ('lens', 'Epoque-WE0.56')), #Must be before 10.5
 
-    (r'8mm Zuiko|Zuiko 8mm|Olympus 8mm|ED 8mm 3\.5', ('lens', 'Zuiko-8mm')), #Bain
+    (r'8mm Zuiko|Zuiko\s+(?:lens\s+)?8\s*mm|Olympus 8mm|ED 8mm 3\.5', ('lens', 'Zuiko-8mm')), #Bain
     (r'14-104mm', ('lens', '??-14to104mm')), #Bain
     (r'Zuiko 13-45', ('lens', 'Zuiko-14to45mm')), #HenkKeijzer
     (r'Peleng?|pelleng', ('lens', 'Peleng-8mm')),
