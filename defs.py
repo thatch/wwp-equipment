@@ -163,6 +163,10 @@ rules = [
     # Scanning cams
     (r'Panoscan\s*MK3', ('camera', 'Panoscan-MK3'), ('panohead', 'Panoscan-MK3')),
 
+    # Medium format
+    (r'Mamiya 7II', ('camera', 'Mamiya-7II')),
+    (r'6x7', ('camera', 'Medium-?')),
+
     # Generic
     (r'Canon', ('camera', 'Canon-?')),
     (r'Nikon', ('camera', 'Nikon-?')),
