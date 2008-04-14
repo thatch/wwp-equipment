@@ -15,7 +15,7 @@ def parseit(fn):
     for type in rules:
         t = []
         for r in type:
-            t.append((re.compile(r[0], re.I), r[1:]))
+            t.append((re.compile(r[0], re.I | re.M), r[1:]))
         rep.append(t)
 
     # Now use 'em

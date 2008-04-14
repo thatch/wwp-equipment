@@ -1,7 +1,8 @@
 EVENTS = 304 604 904 1204 \
          305 605 905 1205 \
          306 606 906 1206 \
-         307 607 907 1207 108
+         307 607 907 1207 108 \
+         308
 
 WORK_DIR = new
 
@@ -25,7 +26,7 @@ template: stuff.php $(DATA_HTML)
 
 upload: $(DATA_HTML) $(DATA_CSV)
 	@echo "====Uploading"
-	scp $^ thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
+	rsync -av $^ thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
 
 test:
 	@echo $(DATA_HTML)
