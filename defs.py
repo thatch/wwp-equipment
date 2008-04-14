@@ -29,7 +29,7 @@ rules = [
     (r'Canon G8', ('camera', 'Canon-G8')),
     
     # Nikon
-    (r'Nikon.*D70s', ('camera', 'Nikon-D70s')), # Same as next?
+    (r'Nikon.*(?:D70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
     (r'Nikon.*D-?70', ('camera', 'Nikon-D70')),
     (r'Nikon.*D80', ('camera', 'Nikon-D80')),
     (r'Nikon.*D *100', ('camera', 'Nikon-D100')),
@@ -82,6 +82,7 @@ rules = [
     (r'Fine ?Pix.*A345', ('camera', 'Fuji-A345'), ('lens', 'builtin')),
     (r'Fine ?Pix.*A500', ('camera', 'Fuji-A500'), ('lens', 'builtin')),
     (r'Fuji.*S7000', ('camera', 'Fuji-S7000')),
+    (r'Fuji.*S9600', ('camera', 'Fuji-S9600')),
 
     # Olympus
     (r'Oly[mn]pus E-?3\b', ('camera', 'Olympus-E3')),
