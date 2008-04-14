@@ -29,7 +29,7 @@ BriarBentley,Canon-5D,Canon-15mm,Manfrotto-QTVR,yes,?
 IngemarBergmark,Canon-5D,Nikkor-10.5mm,none,handheld,PtguiPro-7.7
 ThijsBerkman,Fuji-S5,Nikon-FCE9,?,?,Ptgui-?
 FlorianBertzbach,Nikon-D200,Nikkor-10.5mm,?,yes,PtguiPro-7.6
-RalfBeutnagel,Canon-?,?,custom,Manfrotto-Monopod,?
+RalfBeutnagel,Canon-G7,Soligor-WE,custom,Manfrotto-Monopod,?
 FSeanBickford
 EdwardBigelow,Nikon-D40x,Peleng-8mm,custom,Monopod,Ptgui-7.5
 RobertBilsland,Nikon-D70,Nikkor-10.5mm,NodalNinja-5,Manfrotto-055,Ptgui-?
@@ -37,7 +37,7 @@ AndreiBodrov,Canon-300D,Sigma-8mm,Manfrotto-304sph,Manfrotto-?,Ptgui-?
 PatrickBorn,Nikon-D70,Nikkor-10.5mm,Manfrotto-303sph,Gitzo-G2220,Ptgui-5.8
 NormaBoylan,Canon-400D,Zenitar-16mm,Panosaurus,yes,Hugin
 ChristianBraut,Nikon-D300,Nikkor-10.5mm,360precision,yes,RealvizStitcher-?
-HennesBruett,Canon-?,?,Panosaurus,yes,RealvizStitcher-5.5
+HennesBruett,Canon-PowerShotA610,builtin,Panosaurus,yes,RealvizStitcher-5.5
 WilBrugman,Pentax-istDL,Raynox-DCR185,?,?,?
 BostjanBurger,Nikon-D200,Sigma-8mm,?,?,?
 BetkaBurger,Nikon-D60,Sigma-8mm,?,?,?
@@ -97,7 +97,7 @@ IanKerr
 AndreyKharuk,Nikon-D300,Sigma-10to20mm,NodalNinja-3,?,?
 DieterKik,Nikon-D200,Sigma-8mm,Manfrotto-300n,Manfrotto-055,PtguiPro-7.7
 RikuichiKishimoto
-BlazKodelja,?,Canon-18to55mm,?,?,?
+BlazKodelja,Samsung-GX10,Canon-18to55mm,?,?,?
 GeorgeKountouris,Canon-20D,?,?,?,PanoTools
 ErikKrause,Fuji-S4,Zenitar-16mm,?,?,Ptgui-?
 MarkusKrueger,Canon-5D,Sigma-8mm,none,handheld,?
@@ -117,11 +117,11 @@ JerryLiu
 JoakimLoeber,Nikon-D300,Nikkor-10.5mm,Manfrotto-QTVR,?,Ptgui-?
 PacoLorente,Canon-40D,Canon17to85mm,none,handheld,Ptgui-?
 AlexMakienko,Nikon-D80,Nikkor-10.5mm,?,yes,PanoLab
-KarlMaloszek,?,?,?,?,Ptgui-?
+KarlMaloszek,Ricoh-CapiloGX,?,?,?,Ptgui-?
 RobertoMancuso,Nikon-D70s,Nikkor-10.5mm,Agnos-cubic,Feisol-?,Ptgui-?
 IsaacMartinez,Nikon-D300,?,NodalNinja-3,?,Ptgui-7.7
-JuergenMatern,Sony-?,Sigma-8mm,custom,?,Ptgui-?
-MarkusMatern,Sony-?,Sigma-8mm,custom,Monopod,PtguiPro-?
+JuergenMatern,Sony-DSLRA700,Sigma-8mm,custom,?,Ptgui-?
+MarkusMatern,Sony-DSLRA700,Sigma-8mm,custom,Monopod,PtguiPro-?
 GeoffMather,Nikon-D300,Sigma-8mm,none,Monopod,Ptgui-7.7
 JohnMcKenzieMcIntosh,Nikon-D200,Nikkor-12to24mm,Manfrotto-302,Manfrotto-190,QTVRAS
 NickMilligan,Fuji-?,?,NodalNinja-3,Manfrotto-?,RealvizStitcher-?
@@ -148,7 +148,7 @@ PiotrPopik,Canon-20D,Peleng-8mm,?,?,Ptgui-4.1
 VladimirPopov,Pentax-MZ5,Zenitar-16mm,?,yes,PanoTools
 BrunoPostle,Nikon-D100,Peleng-8mm,none,handheld,Hugin
 TommyPoung,Nikon-D300,Nikkor-10.5mm,?,?,?
-HarshalPurohit,?,?,?,?,?
+HarshalPurohit,Olympus-SP550,?,?,?,?
 CarstenRees,Canon-5D,Sigma-12to24mm,Manfrotto-303sph,?,RealvizStitcher-?
 RobertReese,Nikon-D70,Sigma-8mm,Agnos-MrotatorTCPShort,Manfrotto-055,PtguiPro-?
 InakiRezola,Nikon-D300,Nikkor-10.5mm,none,handheld,Ptgui-?
@@ -166,14 +166,14 @@ ReinhardSchmolze,Pentax-istDS,Pentax-14mm,Manfrotto-303sph,Manfrotto-?,RealvizSt
 MiguelSepulveda,Olympus-E1,??-8mm,Manfrotto-303sph,yes,Ptgui-?
 NormanShapiro,Nikon-D70,Nikkor-10.5mm,custom,yes,PTmac-?
 PhilipSilver
-BruceSouthwick,Sony-?,?,NodalNinja-5,?,PtguiPro-?
+BruceSouthwick,Sony-DSLRA700,?,NodalNinja-5,?,PtguiPro-?
 AlexanderSpielberg,Canon-400D,Peleng-8mm,none,Monopod,Ptgui-?
 ShawnSteigner,Canon-30D,Nikkor-10.5mm,NodalNinja-3,?,Ptgui-7.7
 MichaelStoss,Canon-20D,Sigma-8mm,NodalNinja-3,?,Ptgui-?
 TomStriewisch,Canon-5D,Nikkor-10.5mm,Wasserrohrschelle,yes,Ptgui-?
 KenStuart,Nikon-D70,Nikkor-10.5mm,none,Monopod,Ptgui-?
 PatSwovelin,Canon-350D,Peleng-8mm,NodalNinja-5Beta,Manfrotto-190,PtguiPro-7.7
-MichelThoby,?,?,Manfrotto-300n,Manfrotto-?,QTVRAS
+MichelThoby,Nikon-CP5100,?,Manfrotto-300n,Manfrotto-?,QTVRAS
 DuduTresca,Canon-20D,Peleng-8mm,none,handheld,Ptgui-?
 AlessandroUgazio,Nikon-D80,Nikkor-10.5mm,Panosaurus,Manfrotto-190,Ptgui-7.7
 AndrewVarlamov,Pentax-istDS,Pentax-DA10to17mm,NodalNinja-3,Manfrotto-?,Ptgui-7.6
@@ -190,4 +190,4 @@ WalkerYoung,Canon-5D,Canon-15mm,?,?,?
 FungYu
 JerzyZamora,Canon-PowerShotA40,builtin,custom,yes,Ptgui-?
 MichaelZander,Nikon-D100,?,Manfrotto-303sph,?,?
-KresimirZimonic,Canon-?,?,?,?,?
+KresimirZimonic,Canon-PowerShotA710,builtin,?,?,?

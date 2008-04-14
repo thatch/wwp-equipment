@@ -3,8 +3,8 @@ RussAddie,Nikon-?,CoastalOptical-4.88mm,?,?,?
 ChasAdlard,Nikon-D80,?,?,?,?
 RobertAgnel,Nikon-CP950,Nikon-WCE24,Kaidan-Kiwi,yes,Photoshop
 RodrigoAlarconCielock,Canon-350D,Tokina-10to17mm,NodalNinja-3,Monopod,Ptgui-?
-DaveAlbright,Canon-5D,Sigma-8mm3.5,Agnos-MRotatorTCP,?,Ptgui-6
-PatAlbright,Canon-5D,Sigma-8mm3.5,Agnos-MRotatorTCP,?,Ptgui-6
+DaveAlbright,Canon-5D,Sigma-8mm3.5,Agnos-MrotatorTCPShort,?,Ptgui-6
+PatAlbright,Canon-5D,Sigma-8mm3.5,Agnos-MrotatorTCPShort,?,Ptgui-6
 MarkusAltendorff,Canon-20D,Sigma-8mm,custom,?,RealvizStitcher-5.5
 MilkoAmorth,?,Sigma-8mm,none,Monopod,PTmac-?
 EricHAnderson,Canon-20D,Peleng-8mm,none,Monopod,Ptgui-?
@@ -148,7 +148,7 @@ PiotrPopik,Canon-20D,Peleng-8mm,?,?,Ptgui-4.1
 MikePosehn,Canon-1DSmark2,Canon-15mm,ReallyRightStuff,yes,?
 BrunoPostle,Nikon-D100,Peleng-8mm,none,handheld,Hugin
 TommyPoung,Nikon-D70,Nikkor-10.5mm,?,?,?
-RonaldPronk,Canon-10D,Peleng-8mm,Agnos-MRotatorTCP,Manfrotto-?,?
+RonaldPronk,Canon-10D,Peleng-8mm,Agnos-MrotatorTCPShort,Manfrotto-?,?
 ValentinPryanishnikov,Canon-20D,Sigma-8mm,Manfrotto-303sph,Manfrotto-055,?
 CarstenRees,Canon-5D,Sigma-12to24mm,Manfrotto-303sph,?,RealvizStitcher-5.5
 InakiRezola,?,?,?,?,Photoshop
@@ -205,4 +205,4 @@ FungYu
 KazuyoshiYura,Nikon-CP5000,?,?,?,Ptgui-?
 JerzyZamora,Canon-PowerShotA40,builtin,custom,yes,Ptgui-?
 VictorZaveduk,Nikon-D80,Nikkor-10.5mm,NodalNinja-?,Manfrotto-?,Ptgui-?
-KresimirZimonic,Canon-?,?,?,?,?
+KresimirZimonic,Canon-PowerShotA710,builtin,?,?,?

@@ -36,7 +36,7 @@ RicardoCambon,?,?,?,?,?
 BrenoChristol,Canon-400D,Sigma-8mm,NodalNinja-?,?,?
 PaulCowley
 RichardCrowest,Canon-350D,Sigma-8mm,360precision,Manfrotto-?,Ptgui-?
-FrankvanDam,Canon-400D,Sigma-8mm3.5,NodalNinja-5Beta,Gitzo-1329,PtguiPro-7.5
+FrankvanDam,Canon-400D,Sigma-8mm3.5,NodalNinja-5Beta,Gitzo-G1329,PtguiPro-7.5
 WilliamMDelabarre,Nikon-D50,?,Kaidan-QuickPanIV,yes,PanoramaFactory
 AriedeRuiter,Nikon-D70,Sigma-8mm,NodalNinja-?,?,PtguiPro-7.4
 VivekDevBurman,Nikon-D40x,Sigma-8mm3.5,Manfrotto-303sph,Manfrotto-Neotec,?
@@ -143,8 +143,8 @@ BrunoPostle,Nikon-D100,Peleng-8mm,none,handheld,Hugin
 TommyPoung,Nikon-D80,?,?,?,?
 CarstenRees,Canon-5D,Sigma-12to24mm,Manfrotto-303sph,?,RealvizStitcher-?
 PeterRees,Nikon-D200,Nikkor-10.5mm,Manfrotto-303sph,?,RealvizStitcher-?
-RobertReese,Nikon-D70,Sigma-8mm,Agnos-MRotatorTCP,?,PtguiPro-7.4
-InakiRezola,Nikon-?,Nikkor-10.5mm,none,handheld,Ptgui-?
+RobertReese,Nikon-D70,Sigma-8mm,Agnos-MrotatorTCPShort,?,PtguiPro-7.4
+InakiRezola,Nikon-D300,Nikkor-10.5mm,none,handheld,Ptgui-?
 RolfRis,Nikon-D70,Nikkor-10.5mm,NodalNinja-3,Manfrotto-055,PtGui-?
 RandyRogers,Nikon-D70,Nikkor-10.5mm,NodalNinja-?,?,RealvizStitcher-?
 PatRooney,Canon-40D,Sigma-8mm,NodalNinja-3,?,?
@@ -173,7 +173,7 @@ PeterVandehaar,Minolta-Dynax7D,Sigma-8mm,NodalNinja-?,Velbon-?,Hugin
 AndrewVarlamov,Pentax-istDS,Pentax-DA10to17mm,Manfrotto-303sph,Manfrotto-?,Ptgui-7.3
 GarretVeley,Canon-5D,Canon-15mm,NodalNinja-3,?,Ptgui-?
 JoachimVollmer,Fuji-S3Pro,Nikkor-10.5mm,custom,yes,Ptgui-?
-RichardWall,Nikon-D40,Nikkor-10.5mm,?,yes,Ptgui-?
+RichardWall,Nikon-D40,Nikkor-10.5mm,?,yes,Ptgui-7.2
 JimWatters,Nikon-D70s,Nikkor-10.5mm,custom,Manfrotto-?,Ptgui-?
 SimonWheaton,Canon-350D,Canon-10to22mm,Acratech,Gitzo-G1227,Ptgui-?
 RobinWilson,Canon-350D,Sigma-8mm,?,?,PTmac-?

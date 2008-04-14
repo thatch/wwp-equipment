@@ -22,6 +22,11 @@ rules = [
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
     (r'Canon A640', ('camera', 'Canon-A640')),
     (r'^5D', ('camera', 'Canon-5D')), #RichardCambon
+
+    # Canon neat things but not SLR
+    (r'Canon G6', ('camera', 'Canon-G6')),
+    (r'Canon G7', ('camera', 'Canon-G7')),
+    (r'Canon G8', ('camera', 'Canon-G8')),
     
     # Nikon
     (r'Nikon.*D70s', ('camera', 'Nikon-D70s')), # Same as next?
@@ -54,6 +59,7 @@ rules = [
     (r'(Nikon|Coolpix).*4300', ('camera', 'Nikon-CP4300')),
     (r'(Nikon|Coolpix).*4500', ('camera', 'Nikon-CP4500')),
     (r'(Nikon|Coolpix).*5000', ('camera', 'Nikon-CP5000')),
+    (r'(Nikon|Coolpix).*5100', ('camera', 'Nikon-CP5100')),
     (r'(Nikon|Coolpix).*5200', ('camera', 'Nikon-CP5200')),
     (r'(Nikon|Coolpix).*5400', ('camera', 'Nikon-CP5400')), #E5400
     (r'(Nikon|Coolpix|CP).*5700', ('camera', 'Nikon-CP5700')),
@@ -90,14 +96,18 @@ rules = [
     (r'Pentax.*ist ?DL', ('camera', 'Pentax-istDL')),
     (r'Pentax.*ist ?D', ('camera', 'Pentax-istD')),
     (r'Pentax.*K10D', ('camera', 'Pentax-K10D')),
+    (r'Samsung GX10', ('camera', 'Samsung-GX10')), #DPReview says same as K10D
     (r'Pentax.*K100D', ('camera', 'Pentax-K100D')),
     (r'Optio W10', ('camera', 'Pentax-OptioW10')),
     (r'Pentax MZ-5', ('camera', 'Pentax-MZ5')),
+
+    # Sony
+    (r'Sony (Alpha|DSLR-A) *700', ('camera', 'Sony-DSLRA700')),
     
     # Others
     (r'Sigma SD9', ('camera', 'Sigma-SD9')),
     (r'Sigma SD10', ('camera', 'Sigma-SD10')),
-    (r'Ricoh Caplio GX', ('camera', 'Ricoh-CapiloGX')),
+    (r'Ricoh Caplio GX|Rollei 5100', ('camera', 'Ricoh-CapiloGX')),
     (r'Bessa-L', ('camera', 'Voigtlaender-BessaL')),
     (r'Minolta (Dynax )?7D', ('camera', 'Minolta-Dynax7D')),
     (r'Yashica FX107', ('camera', 'Yashica-FX107')),
@@ -119,6 +129,7 @@ rules = [
     (r'Dimage 7', ('camera', 'Minolta-Dimage7')),
     (r'Dimage', ('camera', 'Minolta-DimageZ1')),
     (r'PowerShot.*A75', ('camera', 'Canon-PowerShotA75'), ('lens', 'builtin')),
+    (r'Power *Shot.*A *610', ('camera', 'Canon-PowerShotA610'), ('lens', 'builtin')),
     (r'Canon A40', ('camera', 'Canon-PowerShotA40'), ('lens', 'builtin')),
     (r'Canon.*A60', ('camera', 'Canon-PowerShotA60'), ('lens', 'builtin')),
     (r'Canon A80', ('camera', 'Canon-PowerShotA80'), ('lens', 'builtin')),
@@ -126,7 +137,7 @@ rules = [
     (r'PowerShot.*A520', ('camera', 'Canon-PowerShotA520'), ('lens', 'builtin')),
     (r'PowerShot.*S60', ('camera', 'Canon-PowerShotS60'), ('lens', 'builtin')),
     (r'PowerShot.*S230', ('camera', 'Canon-PowerShotS230'), ('lens', 'builtin')),
-    (r'PowerShot A710', ('camera', 'Canon-PowerShotA710'), ('lens', 'builtin')),
+    (r'Power *Shot.*A *710', ('camera', 'Canon-PowerShotA710'), ('lens', 'builtin')),
     (r'Olympus FE-?210', ('camera', 'Olympus-FE210'), ('lens', 'builtin')),
     (r'(Sony|Cybershot)( DSC)? F717', ('camera', 'Sony-CybershotF717')),
     (r'(Sony|Cybershot)( DSC)? ?s?85', ('camera', 'Sony-CybershotDSC85')), #Booboo, S85?
@@ -147,7 +158,7 @@ rules = [
     (r'Panasonic DMC-LX2', ('camera', 'Panasonic-DMCLX2')),
     (r'samsung GX 10', ('camera', 'Samsung-GX10')),
     (r'Canon Optura 30', ('camera', 'Canon-Optura30')),
-
+    (r'Olympus SP550', ('camera', 'Olympus-SP550')),
     # Scanning cams
     (r'Panoscan\s*MK3', ('camera', 'Panoscan-MK3'), ('panohead', 'Panoscan-MK3')),
 
@@ -227,6 +238,7 @@ rules = [
     (r'15 mm Heliar', ('lens', 'Heliar-15mm')),
     (r'PC-Super-Angulon.*28mm', ('lens', 'Schneider-28mm')),
     (r'Soligor fisheye.*0,25x', ('lens', 'Soligor-WE')),
+    (r'Soligor Fisheye', ('lens', 'Soligor-WE')), # Seems there is only one?
     (r'Leica 16mm Fisheye', ('lens', 'Leica-16mm')),
     (r'Pentax.*10-17mm', ('lens', 'Pentax-10to17mm')),
     (r'Pentax 14mm', ('lens', 'Pentax-14mm')),
