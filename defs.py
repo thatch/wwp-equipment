@@ -414,6 +414,7 @@ rules = [
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.5|7\.5\s*pro)', ('software', 'PtguiPro-7.5')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.6|7\.6\s*pro)', ('software', 'PtguiPro-7.6')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.7|7\.7\s*pro|pro ver 7\.7)', ('software', 'PtguiPro-7.7')),
+    (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.8|7\.8\s*pro)', ('software', 'PtguiPro-7.8')),
     (r'pt.*gui[^.,]*7\.2', ('software', 'Ptgui-7.2')),
     (r'pt.*gui[^.,]*7\.3', ('software', 'Ptgui-7.3')),
     (r'pt.*gui[^.,]*7\.4', ('software', 'Ptgui-7.4')),
