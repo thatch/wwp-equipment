@@ -3,6 +3,7 @@ __all__ = ["rules"]
 rules = [
     [
     # Canon
+    (r'EOS-1D Mark IIN', ('camera', 'Canon-1DmarkIIN')),
     (r'1DS ?mk(3|III)', ('camera', 'Canon-1DSmark3')),
     (r'1DS ?mkII|Canon 1ds2|1DS MII', ('camera', 'Canon-1DSmark2')),
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
@@ -14,14 +15,15 @@ rules = [
     (r'Canon.*40D', ('camera', 'Canon-40D')),
     (r'Canon D30', ('camera', 'Canon-D30')),
     (r'Canon D60', ('camera', 'Canon-D60')),
-    (r'400D|kiss.*digital.*xti|rebel.*xti|canon.*xti', ('camera', 'Canon-400D')),
+    (r'450D|Canon 450', ('camera', 'Canon-450D')),
+    (r'400D|kiss.*digital.*xti|rebel.*xti|canon.*xti|kiss\s*dn', ('camera', 'Canon-400D')),
     (r'EOS 350|350 *D|350XT|kiss.*digital|rebel.*xt', ('camera', 'Canon-350D')),
     (r'300D(?!X)|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
     (r'EOS[ -]600', ('camera', 'Canon-EOS600')), #FIXME: keep EOS?
     (r'Canon Pro1|PowerShot Pro 1', ('camera', 'Canon-PowershotPro1')),
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
     (r'Canon A640', ('camera', 'Canon-A640')),
-    (r'^5D', ('camera', 'Canon-5D')), #RichardCambon
+    (r'\b5D', ('camera', 'Canon-5D')), #RichardCambon, HiroharuShizuya
 
     # Canon neat things but not SLR
     (r'Canon G6', ('camera', 'Canon-G6')),
@@ -29,6 +31,7 @@ rules = [
     (r'Canon G8', ('camera', 'Canon-G8')),
     
     # Nikon
+    (r'Nikon\s*D3\b', ('camera', 'Nikon-D3')),
     (r'Nikon.*(?:D70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
     (r'Nikon.*D-?70', ('camera', 'Nikon-D70')),
     (r'Nikon.*D80', ('camera', 'Nikon-D80')),
@@ -37,6 +40,7 @@ rules = [
     (r'Nikon.*D *300', ('camera', 'Nikon-D300')),
     (r'^\s*D300', ('camera', 'Nikon-D300')), #WS req due to AndreyKharuk in 308 (ZW S, BOM?)
     (r'D1x', ('camera', 'Nikon-D1x')),
+    (r'D1s', ('camera', 'Nikon-D1s')),
     (r'D2x', ('camera', 'Nikon-D2x')),
     (r'D2H', ('camera', 'Nikon-D2H')),
     (r'Nikon.*D2x', ('camera', 'Nikon-D2x')),
@@ -59,6 +63,7 @@ rules = [
     (r'(Nikon|Coolpix).*4300', ('camera', 'Nikon-CP4300')),
     (r'(Nikon|Coolpix).*4500', ('camera', 'Nikon-CP4500')),
     (r'(Nikon|Coolpix).*5000', ('camera', 'Nikon-CP5000')),
+    (r'(Nikon|Coolpix).*P *5100', ('camera', 'Nikon-P5100')), # Performance model
     (r'(Nikon|Coolpix).*5100', ('camera', 'Nikon-CP5100')),
     (r'(Nikon|Coolpix).*5200', ('camera', 'Nikon-CP5200')),
     (r'(Nikon|Coolpix).*5400', ('camera', 'Nikon-CP5400')), #E5400
@@ -91,6 +96,7 @@ rules = [
     (r'Olympus 5050', ('camera', 'Olympus-5050')),
     (r'Olympus C-7070WZ', ('camera', 'Olympus-C7070WZ')),
     (r'Olympus C-7070', ('camera', 'Olympus-C7070')), #FIXME are these the same?
+    (r'Olympus FE-310', ('camera', 'Olympus-FE310')),
 
     # Pentax
     (r'Pentax.*ist ?DS', ('camera', 'Pentax-istDS')),
@@ -185,6 +191,7 @@ rules = [
     (r'14-104mm', ('lens', '??-14to104mm')), #Bain
     (r'Zuiko 13-45', ('lens', 'Zuiko-14to45mm')), #HenkKeijzer
     (r'Peleng?|pelleng', ('lens', 'Peleng-8mm')),
+    (r'Sigma 4\.5', ('lens', 'Sigma-4.5mm2.8')),
     (r'Sigma f3.5 8mm|Sigma 8mm f3.5|Sigma 8mm/F3,5', ('lens', 'Sigma-8mm3.5')), #FIXME: verify there are not others
     (r'Sigma.*\b8 ?mm|sigma[ -]?8| S 8mm|8mm sigma|sigma 4/8', ('lens', 'Sigma-8mm')),
     (r'15mm.*Sigma|Sigma.*15mm|sigma *15', ('lens', 'Sigma-15mm')),

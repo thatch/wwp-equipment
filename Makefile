@@ -2,7 +2,7 @@ EVENTS = 304 604 904 1204 \
          305 605 905 1205 \
          306 606 906 1206 \
          307 607 907 1207 108 \
-         308
+         308 608
 
 WORK_DIR = new
 
@@ -31,7 +31,15 @@ upload: $(DATA_HTML) $(DATA_CSV)
 test:
 	@echo $(DATA_HTML)
 
-.PHONY: all fetch parse template upload test yuval
+.PHONY: all fetch parse template upload test yuval graph upload-graph
+
+upload-graph:
+	rsync -av graph/*.png \
+	thatch@timhatch.com:timhatch.com/projects/wwp-equipment/graph
+
+graph:
+	python grapher3.py new/*.csv
+	(cd graph; for f in *.sh; do sh $$f; done)
 
 yuval:
 	rm -f yuval.csv
