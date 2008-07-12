@@ -1,0 +1,923 @@
+RussAddie
+    Canon 10d, Coastal Optics lens, modified pole for extension, iPIX stitching, Photoshop, Pano2QTVR Gui for the spin.
+
+ChasAdlard
+    Nikon D80
+
+RobertAgnel
+    Nikon Coolpix 950, WC-E24 converter lens, Kaidan KiWi head, tripod, QuickTime Virtual Reality Studio, Photoshop
+
+UgurAkbulut
+    Equipment used:
+    Canon Eos 20D, Sigma 8mm F3.5 EX DG, Manfrotto 190DB, Manfrotto SPH303
+    Technique:
+    6 around, 1 up
+
+RodrigoAlarconCielock
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Camera: Canon 350D</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Lens: Tokina 10-17mm, @10mm, f11, M mode</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>8 frames plus zenith and nadir</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Nodal Ninja 5</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Manfrotto monopod</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>PTGUI Pro ver 7.8</li></ul>
+    
+
+DaveAlbright
+    Canon 5d, Sigma 8mm f3.5,  Agno&#39;s Mrotator RingTS8 head, Agno&#39;s Mrotator HD pole, 4 CR2 images, Adobe Raw Converter 4.4.1, Adobe Photoshop CS3, Easypano Panoweaver 5, Ptgui 7.8, Pano2VR 2.0.2
+
+PatAlbright
+    Canon 5d, Sigma 8mm f3.5, Agno&#39;s Mrotator UT head, 12 raw CR2 images, Adobe Raw Converter 4.4.1, Adobe Photoshop CS3, Easypano Panoweaver 5, Ptgui 7.8, Pano2VR 2.0.2
+    
+
+MarkusAltendorff
+    Hardware: Canon EOS 20D, Sigma 18-125mm@18mm, f/11. Manfrotto tripod and 303SPH pan head. Software: Stitcher 5.6, Cubic Converter, Adobe Photoshop CS3
+
+MilkoAmorth
+    D1s, Sigma15, 360Precision, Enfuse, PTgui, Photoshop.
+
+PatricioArmijo
+    - Canon 350D + Tokina 107 + Manfrotto Tripod + NN3mkII
+
+GDonaldBain
+    Photographed with an Olympus E-3 digital SLR with an 8mm Zuiko fisheye lens, on a Nodal Ninja VR mount, Acratec Ultimate Ballhead, and Velbon carbon-fiber tripod. Stitched with PTGui Pro 7.8 on a Macintosh Intel Core 2 Duo iMac, retouched with Photoshop CS3, converted to QTVR using Cubic Converter.
+
+MichaelBajko
+    
+    Nikon D70, Nikkor 10.5mm, slik tripod, Panosauras, Intel P4, XP Pro, PTGui Pro 7.8, PS CS3, Pano2VR Beta.
+
+JoelBaldwin
+    Canon 450D, Peleng 8mm Fisheye, Panosarus Pan Head, cheap monopod<br>
+    
+    PTGui Pro 7.8 x64 using HDR, Photoshop CS3, Pano2QTVR 1.6.6 Pro 
+
+ViktorBalogh
+    Canon EOS 300D, Tokina 12-24mm@12, Manfrotto 303SPH
+
+BanfalvyZoltan
+    HW: Canon EOS 350D, Peleng 8mm F3.5, home-made panoramic head; <br>
+    
+    SW: PTGui &amp; Smartblend, Pano2QVTR, and Photomatix for HDR processing
+
+PeterBarnes
+    The source photographs were taken with a Nikon D40x with a Nikon 10.5mm fisheye lens.  A Nodal Ninja 3 pan head was used on a modified Bogen 3000 tripod. The panorama is composed of 2 full panoramas and several flat photographs assembled into a pano montage using PTGUI and Photoshop CS3.
+
+LuciaBazan
+    Nikon D50
+
+Beeloba
+    Nikon D80, nikkor 10.5, homemade panohead , windsurf mast. Autopano pro 1.4.2
+
+HaraldBendschneider
+    CANON EOS 350D, Manfrotto 303SPH, PTGUi 8.4, Pano2VR
+
+LuisBenitez
+    Google Earth images, Stitcher Unlimited 5.52, Photoshop CS2, CubicConverter, CubicConnector
+
+LandisBennett
+    Hardware: Nikon D200, Nikkor 10.5mm Lens, &quot;Monopod over-the-head&quot; method<br>
+    
+    Software: PTGui/Mac, Photoshop CS2, CubicConverter
+
+KatBennett
+    Hardware: Nikon D200, Nikkor 10.5mm Lens
+    Software: PTGui/Mac, Photoshop CS, CubicConverter
+
+CharlesCBenton
+    This image was taken using a kite. A Nikon Coolpix 8400 with FC-E9 Fisheye lens adapter was fired every 12 seconds during the flight with a <a href="http://www.gentles.ltd.uk/" target="_blank">James Gentles&#39; AutoGentLED</a>. Files were captured to a 6 Gb Hitachi microdrive. The camera was stabilized by a purpose built cradle and Picavet suspension while lifted by a custom built 8.5-foot Rokkaku with lightweight carbon framing. Ground level winds were a steady 5 mph and the kite could barely lift the camera. This made for high drama as the fisheye lens floated just feet above the salt flat with its front element pointing straight down. The panorama, constructed from two opposing fisheye views, was assembled with Panotools and PTGui then run through CubicConverter.
+
+IngemarBergmark
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Canon EOS 5D</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Nikkor 10.5mm Fisheye (with WidePan adapter)</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Tripod: Manfrotto 055B Pro</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Panohead: Rotopan 7 Mark II</li></ul><br><br>
+    <b>Software: </b>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Photoshop CS3</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>EnfuseGUI 1.04 with Enfuse 3.1-pre3</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>PTGui 8.0 Pro beta4</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Pano2VR</li></ul><br><br>
+    
+    <b>Technical info:</b><br>
+    
+    The main panorama is taken with 4 shots around, plus zenith and nadir to create an equirectangular image. All images are taken in RAW mode, and converted with Adobe Camera Raw.<br>
+    
+    ISO 800, ~f/8, bracket 1/6, 1/2
+
+FlorianBertzbach
+    Nikon D200, Sigma 8mm, <a href=" http://www.foto.bertzbach.de/technicals_eng/technicals.html" target="_blank"> custome made pano head</a>, pano head, <a href="http://www.manfrotto.com/Jahia/site/manfrotto/cache/off/lang/en/pid/2278?livid=68|69&amp;idx=71" target="_blank"> Manfrotto Tripod 055 MF3</a>.
+    All pictures RAW files, developed with <a href="http://www.adobe.com/products/photoshoplightroom/" target="_blank">Adobe Lightroom</a>, stiched with <a href="http://www.ptgui.com" target="_blank">PTGui Pro 7.8</a>. Some corrections with <a href="http://adobe.com" target="_blank">CS2</a> and quicktime editing with <a href="http://www.pano2vr.com/" target="_blank">pano2VR </a>.<br><br>
+    
+
+FSeanBickford
+    Velben tripod. <br>
+    
+    Fuji Finepix A345 point and shooter<br>
+    
+    200 individual shots<br>
+    
+    Stitched using &quot;Autostitch&quot;<br>
+    
+    converted to QuickTime with &quot;Pano2QTVR&quot;<br>
+    
+    loving care and patience.
+
+EdwardBigelow
+    Hardware: Nikon D40x, Peleng 8mm, custom oblique adapter, elevated monopod (camera at ~3m). ISO 200, 1/400th, f/8.<br><br>
+    Software: DNG Converter, Photoshop CS2, PTGui, Pano2QTVR, Cooledit. 
+
+RobertBilsland
+    Taken on a Nikon D300 with Nikkor 10.5mm f/2.8G Fisheye lens. Mounted on a Nodal Ninja 5 Lite panoramic head atop a Manfrotto 055XPROB tripod. 6 shots taken 60° apart, tilted 15° down and a single zenith shot. Raw files then processed in Nikon CaptureNX before being stitched together using <a href="http://www.ptgui.com/" target="_blank">PTGUI</a> / <a href="http://wiki.panotools.org/SmartBlend" target="_blank">Smartblend</a> and converted to a QTVR Cube using <a href="http://gardengnomesoftware.com/pano2qtvr.php" target="_blank">Pano2QTVR Pro</a>.
+
+AndreiBodrov
+    Canon 300D digital SLR, Sigma Fisheye 8mm. Mounted on a monopod with custom made rotator. Stitched with Panorama Tools and PTGui. QTVR by Pano2QTVR. 
+
+RodrickBond
+    Gitzo tripod with Foba tube extensions, 360Precision Absolute, Nikon D300/10.5DX, PTgui
+
+NormaBoylan
+    Taken with a Canon EOS 400D, digital camera, with a Zenitar-M 16mm Fisheye f/2.8 lens mounted on a Panosaurus Pano head. Stitched using HugIn and rendered with Cubic Convertor
+
+ChristianBraut
+    Taken with a Nikon D300 + Nikkor DX AF Fisheye 10.5 mm Mounted on a 360Precision Adjust Head. One row of six shots + zenith/nadir. Optimized with DxO Optics and Photoshop, stitched with AutoPanoPro and CubicConverter.
+
+WilBrugman
+    Pentax Ist DL with smc Pentax-FA2 35mm AL and Raynox DCR-CF 185Pro;
+    iso 200, 1/180s, f19, RAW . <br>
+    I used a monopod and made 4 shots around and 2 down. Stitched with Ptgui and for editing I used Raw shooter, Picture Publisher, some Photoshop ,Photomatix and Pano2QTVR.
+
+MarcBuchalter
+    Canon 40D, lens: Canon EFS 17--55mm
+    Focal length: 17 mm
+    Aperture: f11
+    Shutter Speed: 1/400 sec.
+    ISO: 500
+    pano head: Ninja Nodal 5 <br><br>
+    
+
+BostjanBurger
+    Nikon D200, Sigma 8 mm, handheld
+
+NicolasCalluaud
+    Canon 5D, Sigma 8mm f4, manfrotto tripod and pano head.
+
+RicardoCambon
+    Canon 5D
+
+BruceECantrall
+    Olympus FE-310 and Panorama Factory.
+
+JobyCatto
+    Shot as bracketed RAWs with a Canon EOS400D and Sigma 8mm f3.5EX DG, mounted on a Nodal Ninja 3 panoramic head on a Manfrotto 190PROB tripod. Processed with Adode RAW as 16bit TIFFs, tonemapped with xFuse 0.5, and stitched with Realviz Stitcher 5.6.1. Final output with Pano2VR 2.0.2.
+
+CarlosChegado
+    Canon 5D/Tokina 107
+
+BrenoChristol
+    Canon Rebel XTi/
+    Sigma 8mm lens/
+    NodalNinja rotator/
+    PTgui - Photoshop CS2
+
+UriCogan
+    Nikon D80, Nikkor 10.5mm lens, Nodal Ninja 3.0 pano head.
+    DXO Optics Pro, Photomatix Pro, PTGui Pro, Adobe Photoshop, Pano Converter. Power Macintosh, Mac OS 10.5.3
+
+RichardCrowest
+    Canon EOS 450D, Sigma 8mm fisheye lens, bracketed exposures blended with Bracketeer and stitched in Autopano Pro.
+
+JohnDobbins
+    Canon D60
+    NK 10.5 fisheye <br>
+    
+    Fotodiox lens adapter <br>
+    
+    Mr. Longarm Alumiglass Painter&#39;s Pole at 14&#39; extension <br>
+    
+    Kirk Photo L-bracket &amp; QR Platform <br>
+    
+    Manfrotto Tilt Head <br>
+    
+    Self-made mount and leveling device <br>
+    <br><br>
+    Sound; Sony HD MiniDisk with Core Sound mics <br>
+    
+    AudioHijack Pro <br>
+    
+    QuickTime Pro <br>
+    <br><br>
+    Software: <br>
+    
+    PangeaSoft&#39;s <i>Bracketeer</i> and <i>PanoPreviewer</i> <br>
+    
+    PTGui Pro v.7.8 <br>
+    
+    Adobe Bridge and Photoshop CS3 <br>
+    
+    CubicConverter/CubicConnector <br>
+    
+    
+
+JohnDotta
+    FAILED
+RichardCDrew
+    Camera Equipment:<br>
+    
+    Canon 40D<br>
+    
+    Sigma 8mm<br>
+    
+    Agnos mRotator Short<br>
+    
+    Manfrotto Tripod<br>
+    
+    Manfrotto Leveling Base<br>
+    
+    <br>
+    
+    Software:<br>
+    
+    Pano2QTVR<br>
+    
+    PTgui<br>
+    
+    PhotoShop CS3<br>
+    
+
+MarkFink
+    Canon XTi, Sigma 8mm fisheye lens, Pinnacle VR bracket mounted on custom built pole
+
+EdwardFink
+    Hardware: Four Nikon D70s’ with 8mm Sigmas, Enstrom helicopter.<br>
+    Software: PTGui, Photoshop, Pano2VR.
+    
+
+AndrasFrenyo
+    FAILED
+DaniFuchs
+    Canon 40d, Peleng 8mm, Panosaurus, 4 around + 1 zenith + 1 nadir, PTGui Pro 7.8, Pano2QTVR Pro 1.2 
+    
+
+OlegGaponyuk
+    Camera Canon 1DsMarkII, lens Nikkor 10,5mm fisheye.
+
+ToniGarbasso
+    Fuji S5 pro; nikkor 10,5 mm; Agnos head; Ptgui
+
+AntonioVictorGarciaSerrano
+    Canon 400D - sigma 8 mm - f.11 at 1/320 +-4, iso 100, raw <br>
+    
+    Agnos pole + ring <br>
+    
+    Photoshop-PTGUI-Panotools-Photoshop-Pano2QTVR <br>
+    
+
+PeterGawthrop
+    Canon 5D driven by Asus EEE and multican.
+    Nodal Ninja pano head
+    Canon 15mm fisheye, 8 images each blended using enblend from
+    5 images at 2 EV intervals.
+    Stiched using hugin and match-n-shift.
+    Conversion using pano2vr
+
+JamesGentles
+    Nikon 8400 with FC-E9 Lens. Home-made camera cradle / rig, triggered by a gentLED intervalometer. Suspended below a Dan Leigh Cruiser R8 kite with 10ft/3m span. <br><br>
+    This technique produces two hemispheres, and a different workflow in PTGui from the classic ground pano technique. This results in lower resolution BUT impossible angles!<br><br>
+    See the rig at <a href="http://www.gentles.info/KAP/rig07/" target="_blank">http://www.gentles.info/KAP/rig07/</a> , how Kite Aerial Photography is achieved at <a href="http://www.gentles.info/KAP/Overview/index.htm" target="_blank">http://www.gentles.info/KAP/Overview/index.htm</a> , and the workflow at <a href="http://www.gentles.info/KAP/Gallery/Panotechnique/index.htm" target="_blank">http://www.gentles.info/KAP/Gallery/Panotechnique/index.htm</a> 
+
+ChristopherGlick
+    FAILED
+WimGombeer
+    Nikon D300 with AF16-85mm f3.5-5.6 VR on Seitz VR-drive - PTgui - Cubicconverter - Adobe Photoshop.
+
+RobertoGomezTorres
+    Taken with a Nikon D300 Single Lens Reflex (SLR) digital camera and the Nikon 10.5mm F/2.8 full frame fisheye lens. Mounted on a &quot;Really Right Stuff&quot; panoramic head. Stitched using Nikon Capture NX, Enfuse, PTGui Pro v.7.8 and Adobe Photoshop CS2 under Microsoft Windows XP Professional. Self made Windows software &quot;Quicky Pano&quot; for QuickTime VR conversion.
+
+FelipeGonzalez
+    Canon Rebel XT, Peleng 8mm and inhouse made pano head
+
+NickGordon
+    Canon 450 , nikon 10.5 lens , Nodal ninja 3, tripod
+
+MauroGoulart
+    Fuji S2 Pro camera with Nikon 10,5mm
+    Manfroto tripod and homemade panohead
+
+MarcGruber
+    Shot taken with Canon 350D and Sigma 8mm F3.5 in a hot-air balloon
+
+SvenHafner
+    Canon 1Ds, Sigma 8mm, Manfrotto VR 303,
+    4 x 3 Images (+/-1 stop), PTGui Pro 8 (beta), PS, Pano2VR
+
+HansHagen
+    Canon 20d, Sigma 8mm, PTMac, CubicConverter, Photoshop CS3.
+
+HironoriHagiwara
+    Canon EOS 5D, EF24mmF2.8, DIY Motor Pano-head, Ptgui pro 7.8, Pano2VR 2.0
+
+JinHai
+    Canon 400D, Sigma 8mm, Ninja 3 on a 6 meters fishing pole.
+    software: Ptgui 7.0, Pano2vr 2.0 
+
+GabiHaindl
+    Nikon D300 with Nikkor 10.5 mm, Manfrotto QTVR Kit 302+, stiched with PTGui (PC) / MakeCubic (Mac), nadir inserted with PaintShopPro on a PC.
+
+KarlHarrison
+    Second Life Software and lots of screen captures, stitched using AutoDesk Stitcher 5.7
+
+KWayneHeil
+    Nikon D300, Nikkor 10.5mm fisheye, Seitz Roundshot motorized pano head, Gitzo G1227MK2 tripod w leveler, Garmin CS60 GPS, PTGui 7.8 Pro, Photoshop CS3, Pano2VR
+
+RogerHein
+    Nikon D300, Sigma 8mm f/3.5, Nodal Ninja 5L, Acratech Ballhead, Benro CF tripod.<br><br>
+    iMac AL 24&quot;, PTGui Pro 7.8, Photoshop CS3, Pano2VR 2.0
+
+HiroharuShizuya
+    5D + nikkor10.5
+    photoshop CS3<br><br>
+    <a href="http://guruguru360.com/" target="_blank">http://guruguru360.com/</a> <br><br>
+    <a href="http://360vr.jp/" target="_blank">http://360vr.jp/</a> 
+
+DonHofstee
+    Nikon D300, Sigma 8mm
+
+JohnHoughton
+    Canon 40D + Sigma 8mm f/3.5 handheld.
+    Software: PTGui Pro, CS3, Pano2VR.
+
+JohnHousser
+    Canon 40D
+    Sigma 8mm/3.5
+    Pole &amp; Cable Release<br><br>
+    PhotoMechanic
+    CaptureOne
+    PTGui
+    Photoshop<br><br>
+    Willing and able cooperative riders
+
+MartinHrdlicka
+    RC helicopter + Nikon DSLR + PTGui + CS3
+
+EdwardHuff
+    Nikon D70, 10.5mm lens, 360 Precision head, PTGui, Photomatix, Photoshop, bracketed exposures
+
+MarcHuff
+    Canon Rebel XTi (handheld)
+    Photoshop CS3
+    PTGui 7.8 Pro
+    Photomatix 3.0
+    Pano2QTVR 1.6.6 Pro
+
+MichaelHundrieser
+    Canon EOS 40D
+    Sigma 8mm/F3.8
+    RingT  @ Tobias :-)
+    Walimex monopod
+    
+
+EduardoHutter
+    Hard: Nikon D200; Nikkor 10.5mm f/2.8 and Nodal Ninja 3.<br><br>
+    Soft: PTGui 7.2; Photoshop CS2 and Pano2QTVR 1.6.6 Pro.
+
+AndreyIlyin
+    Hardware: Nikon D300, Sigma 8/f3.5, Nodal Ninja 5 Pro, Manfrotto 055MF3. <br><br>
+    Software: PTGui, PS CS3, pano2VR.
+
+SachioIzumi
+    Canon-KissDN,Sigma8㎜,Kaidan,manfrotto,
+
+BillJunior
+    50 tealight candles, a spotlight and a strobe were used for illumination as it is &quot;darkroom&quot; dark down here.
+
+WillyKaemena
+    Nikon D300  with Nikkor 8mm, handheld. PTGUI 8 pro beta MAC,  CubicConverter, Photoshop
+
+YoshiyukiKaneko
+    Canon30D+Sigma8mm<br>
+    
+    PTGui7.8+PhotoshopCS3+Pano2QTVR
+
+DeanKaramehmedovic
+    Nikon D200, 10.5mm, 360P 
+
+KatoKazuhiro
+    KONICA MINOLTA DiMAGE A200 / Raynox DCR-CF185PRO / Hand made panorama mount
+
+JanWillemKattenbeld
+    Nikon D70 with nikkor 10.5
+
+HenkKeijzer
+    Olympus E-300<br>
+    
+    Peleng 8mm/F3.5<br>
+    
+    Handheld<br>
+    
+    Hugin<br>
+    
+    Smartblend<br>
+    
+    Photoshop<br>
+    
+    Pano2QTVR
+
+DieterKik
+    nikon d70s 18-70/60mm
+    36 pictures
+    ptgui 8.beta
+    pano2vr 
+
+RikuichiKishimoto
+    Canon EOS 5D, Sigma 8mm, handheld
+
+BertKnops
+    Canon Digital Ixus v2
+    
+
+RandyKosek
+    Canon EOS 5D Camera,
+    Canon 15mm Fisheye Lens,
+    360Precision Adjuste Panoramic Head,
+    Bogen Tripod with Self-Levelling Head<br><br>
+    Software:
+    RAW Shooter Pro Premium,
+    PT Gui 7.0,
+    Adobe Photoshop CS2,
+    Pano2QTVR
+
+MarkusKrueger
+    Canon 5d, 15mm Sigma
+
+JuhaniLaiho
+    Nikon 40X, 10.5mm Nikkor, 1.8 s at f/16, 200 ISO, modified 3Sixty, Gitzo G 1228, PTMac, CubicConverter
+
+EvaLaMar
+    Bogen tripod
+    Nikon D70s camera with a 10.5 fisheye lens
+    Panosaurus head
+    Kaidan quick leveler<br><br>
+    Software: PtGui, Photoshop CS3, Cubic Converter- all done on a MAC!
+
+CharlesLampman
+    Nikon D300, Nikkor 10.5mm,Nodal Ninja 3
+
+TomLassiter
+    Fuji S2 Pro; 8mm Sigma; Bo Bracket; extended painter&#39;s pole.<br><br>
+    Photoshop CS3, PTGui, Cubic Converter, Mac OS X.
+
+JeanGuyLathuiliere
+    About nine sky&#39;s pictures taken with different camera such as :<br>
+     ( in alphabetical order ) Canon Eos 5 D, Leica M 8, Nikon D 100 <br>
+     combined in Photoshop <br>
+     final QT VR edited with Stitcher Unlimited 5.5 <br>
+     made on a Mac 
+
+JohnLaw
+    Nikon D3/10.5mm/360p panohead
+
+TomLechner
+    Nikon D300, Nikkor 10.5mm, handheld, 6 shots around, one up and one down.
+
+JesseLee
+    Canon 400D, Sigma 8mm, hand hold, PTgui 7, Pano2VR.
+
+BrooksLeffler
+    Nikon D40x with Sigma f.4 8mm fisheye; homemade pano head on 10-ft Impact light stand; <a href="http://www.brooxes.com/newsite/BBKK/BBKK-PARTS.html" target="_blank">gentLED-shutter infrared trigger</a>; PTGui, Photoshop CS3, CubicConverter; iMac 24.
+
+JookLeung
+    Canon EOS 5D, Tokina 10-17mm Fisheye at 10mm, ISO 800, f11, .5-8 sec
+
+JaumeLlorens
+    Nikon d70s + Nikkor 10.5mm. Nodal Ninja. Tripode Slik. 3 bracketed series, stitched with PtGui Pro 8 beta.
+
+JoakimLoeber
+    Nikon D300 with Nikkor 10.5 mm, Manfrotto QTVR Kit 302+, stiched with PTGui (PC) / MakeCubic (Mac), nadir inserted with PaintShopPro on a PC.
+
+BoLorentzen
+    Olynpus E3 with Zuiko 8mm - Handheld - stitched with PT-gui edit in photoshop and qtvr made with PanoCube - 8 shots - 100 iso - camera set to auto-graduation.
+
+MarcoLuethi
+    Fuji S3, Nikon 10.5 Fisheye, Realviz Stitcher Unlimited, Cubic Converter
+
+DomingosLuna
+    Nikon D300 | Tokina 10-17 fisheye | homemade panoramic head | Hugin 0.7 Beta 3 | pano2qtvr | CS3
+
+SergeMaandag
+    Nikon D70s + Nikkor 10.5mm + small Manfrotto tripod<br>
+    
+    Edited with PtGui pro 8.0b4 and Photoshop CS2
+
+SimonMaguire
+    Canon 5D, Sigma 8mm f3.5, PTGui, Pano2vr.
+
+JuergenMatern
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Camera: Sony Alpha 700</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Lens: Sigma 8mm/4 fisheye</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Mounting: Custom made lens bracket mounted on top of a <a href="http://www.fotocommunity.de/pc/pc/mypics/18429/display/13241179" target="_blank">3.15 meter (appx. 10.33 ft) pole</a></li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Software: Panotools, PTGui, Smartblend, PSCS3, Pano2VR</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>4 pictures @ 90°</li></ul>
+
+MarkusMatern
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Camera: Sony Alpha 700</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Lens: Sigma 8mm/4 Fisheye</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Mounting: Custom made lens bracket on two monopods</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Software: BibblePro, PTGuiPro, Smartblend, Gimp, Pano2VR</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Pictures: 4 pictures @ 90°, Nadir</li></ul>
+
+GeoffMather
+    Sigma 8mm f3.5 lens<br>
+    
+    Nikon D300<br>
+    
+    Homemade panohead based on the Panosaurus head<br>
+    
+    Manfrotto 755B tripod<br>
+    
+    Nikon Capture NX<br>
+    
+    PTgui Pro version 8.4 Beta<br>
+    
+    Paint Shop Pro Photo XI<br>
+    
+    PANO2VR version 2.01<br>
+    
+
+JohnMcKenzieMcIntosh
+    Nikon D200, Nikon 12-24mm, Manfrotto 302 Panoramic Head, Manfrotto 190MF3 Tripod, QTVRAS
+
+DougMcLauchlan
+    Nikon D300 and 10.5mm fisheye, Manfrotto tripod and NodalNinja 3 pano head.
+
+KenMcMahon
+    Canon EOS 20D, Sigma 8mm f3.5, Manfrotto 303SPH
+
+NickMilligan
+    Fujifilmn FinePix S9600, Manfrotto 728B Tripod, Nodal Ninja 3 Pano Head, RealViz Sticher 5, Corel Photo Paint 12
+
+GregoryMoine
+    Hardware:<br><br>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Nikon D70s</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>10.5mm Nikkor Fisheye lens</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>360Precision Absolute PanoHead</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Manfrotto 755B tripod</li></ul><br><br>
+    
+    Software:<br><br>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>PtGui</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Pano2Qtvr</li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li>Photoshop CS3</li></ul>
+
+MarcinMroz
+    Nikon D200, Sigma 8mm, f/3.5, MrotatorH, Panoweaver 5, Photoshop, Pano2QTVR 
+    
+
+NakaokaHideto
+    FAILED
+JoachimNickel
+    Nikon D300, Nikkor 10.5mm, Realviz Sticher UL, Photoshop CS2, ClickHere&#39;s CubicConverter
+
+BjornKareNilssen
+    Olympus C-7070WZ<br><br>
+    Raynox DCR-CF185PRO fisheye lens<br><br>
+    Velbon tripod<br><br>
+    Nodal Ninja panorama head<br><br>
+    PTgui Pro<br><br>
+    LightWave 3D<br><br>
+    Photoshop
+    
+
+AkilaNinomiya
+    Canon EOS Kiss DIGITAL N<br>
+    
+    SIGMA 8mm F/4 Circular Fisheye<br>
+    
+    Agno&#39;s RingT/MrotatorH<br>
+    
+    PowerBokG4<br>
+    
+    iPhoto, PhotoshopCS, PTGuiPro, CubicConverter, CubicConnector
+
+JakobNorstedtMoberg
+    Nikon D3, Shaved Nikkor 10.5mm Fisheye, Agnos MrotatorTCP head, 4 images
+
+ErichNussbaumer
+    Nikon Coolpix
+
+HansNyberg
+    Canon 5D - Tokina 10-17mm at 14mm - NodalNinja3 - PTGui 7.8 - Enfused with Bracketeer - CubicConverter
+
+PeterNyfeler
+    Nikon Coolpix 4500<br>
+    
+    Wideangle adaptor WC-E63<br>
+    
+    Homemade multirow panohead <a href="http://www.nyfeler-mueller.ch/PanoHeadMulti/PanoHeadMulti.html" target="_blank">Link</a><br>
+    
+
+PeterODonnell
+    Canon 1dsMKIII, 15mm, Manfrotto 303sph, Tripod, Stitcher.
+
+BrianOReilly
+    Nikon D200, Nikkor 10.5 Fisheye Lens, 360Precision head, PTGui, CubicConverter
+
+NikosPachtas
+    Canon 400D, sigma 8mm
+
+RodolphoPajuaba
+    Canon EOS 5D, Tokina 107 at 10mm, handmade panohead on monopod. Stitched with PTGui 7.8, retouched with Photoshop CS3, converted to QTVR with Pano2QTVR.
+
+JaapPameyer
+    Canon 20D with Sigma Fisheye 8mm F3.5
+
+HubertPawlowski
+    Canon EOS 350D, Sigma 8mm/f3.5, NN3, Monopod Manfrotto
+    Lightroom 1.4, Autopano Pro 1.4.2, PS Elements 3, Pano2QTVR Gui
+
+LauraPearson
+    Canon 20D, Sigma 8mm
+
+JuliePecenco
+    Camera: Nikon D200, Lens: Nikkor 10.5 mm fisheye, PanoHead: Nodal Ninja, Tripod: Bogen/Manfrotto 3021, Software: PTGui, Pano2QTVR Pro, Photoshop CS2
+
+StevePendleton
+    Shot in RAW format with a Canon EOS 20D and Sigma 8mm Fisheye, mounted on a Nodal Ninja NN3 Pano Head and Manfrotto 190 tripod. Exposure was 1/250th of a second, ISO 100 at f8 with 4 portrait shots taken at 90 degrees apart plus zenith and hand-held nadir. Stitched in PTGui Pro on a PowerMac G5 and output to layered PSD. Cube faces created in CubicConverter, nadir patched in Photoshop and final movie output from CC.
+
+SebPerezDuarte
+    Panorama generated with POV-ray, QTVR created with Panotools-Script.
+
+ClemensPfeiffer
+    Canon G7, WC-E7, Stitcher 5.7.1, Manfrotto tripod, Manfrotto head, Irfan
+
+GeorgPickartz
+    Nikon D80, 10.5 Nikkor, Manfrotto Tripod, Nodal Ninja 3, PTGui, DeFish, Pano2QTVR
+
+EvaPitt
+    Canon EOS 400D
+    Sigma 10-20mm 
+    Nodal Ninja 3
+
+TomPollak
+    Nikon D2X - Sigma 8 mm f 4.5 - Nodal Ninja atop  Bogan monopod Adobe Lightroom, Photoshop CS, PTMac 3.0, Cubic converter
+
+PiotrPopik
+    The panorama was taken with <a href="http://web.archive.org/web/20010220201145/www.peleng-club.co.uk/ontent.htm" target="_blank">Peleng MC f 3.5/8 mm lens</a> (set at f 8, ~ 0.5 m) on <a href="http://www.eos-magazine.com/EOS%20system%20folder/EOS%20system/Digital%20cameras/EOS%2020D/EOS20Dinfo.html" target="_blank">Canon EOS 20D camera</a>, (set at 1/90-1/350-1/20 f5.6, iso 200). Three source images were combined with enfuse software.<br><br>
+    The panorama was stitched with 5 images (4 around plus zenith) using <a href="http://webuser.fh-furtwangen.de/~dersch/" target="_blank"> Professor’s Helmut Dersch Panorama Tools</a> (PTGui 4.1 graphical interface). <a href="http://autopano.kolor.com/" target="_blank"> Autopano</a> and <a href="http://enblend.sourceforge.net/" target="_blank"> Enblend</a>, as well as <a href="http://www.gimp.org/" target="_blank">Gimp&#39;s</a> ability to create Text Circle Logo were all of great help. I used 8 bit source images. Equi-rectangular image was converted to QT with registered version 1.6.2 of 
+    <a href="http://www.pano2qtvr.com/index.php" target="_blank">Pano2QTVR</a> pro.
+
+ToniDelPopolo
+    CANON EOS 40D - 10/20 SIGMA - HEAD MANFROTTO
+
+VladimirPopov
+    Hardware: Pentax MZ-5, MC Zenitar-K 2.8/16.
+    Software: Panorama Tools, Photoshop CS, Pano2QTVR.
+
+BrunoPostle
+    Nikon D100, Peleng 8mm<br><br>
+    <b>Technique:</b><br>
+    
+    Four by three bracketed shots ±2EV, handheld<br><br>
+    <b>Software:</b><br>
+     hugin, nona, enfuse, enblend, erect2qtvr, jpeg2qtvr
+
+TommyPoung
+    D300
+
+CarstenRees
+    Canon EOS 5D, Sigma 12-24 mm, Manfrotto 303SPH + 338, Realviz Stitcher Unlimited
+
+TordRemme
+    Canon EOS 30D, Sigma 8mm f/3.5, 360Precision pano head, Manfrotto tripod. iMac 24&quot;, Photoshop CS3, PTGui, Graphic Converter
+
+InakiRezola
+    Nikon D300 + Nikkor 10,5, Monopod (Manfrotto 790B), homemade panohead, Nikon Capture NX, PTGui-Panotools, Smartblend, Photoshop, Spheretocubictosphere,  Noise Ninja, Pano2VR
+
+RolfRis
+    Nikon D300 - Nikkor 10,5 (fullframe fisheye) <br>
+    
+    Manfrotto 055ProB with NodalNinja 3 <br>
+    
+    PtGuiMac - Photoshop - CubicConverter <br>
+    
+    Quicktime Pro <br>
+    
+    Macintosh Powerbook 17&quot; - 1,67 GHz OSX 10.5<br>
+     
+
+PatRooney
+    Canon 300D, Sigma 8mm f/3.5, hand held, PTGui Pro on a Mac.
+
+GeorgeRow
+    Canon EOS 5D, with a Zenitar-M 16mm Fisheye f/2.8 lens, mounted on a Kaiden Kiwi panorama adapter.<br><br>
+    Six sets of bracketed images were shot, plus a set for sky and ground. They were stitched using HugIn (version 0.7) with Enfuse invoked by Hugin to increase the dynamic range. It was rendered as a rotating Cubic-VR using CubicConvertor and CubicConector. 
+
+DanRuettimann
+    Nikon D2x, 10.5mm Nikkor, Bogen pano head, PTMac, CubicConverter, Photoshop CS3, Mac Pro
+
+JosePedroRusso
+    D200, 8mm fisheye, Nodal Ninja, Lightroom, PSD, PTGui, Pano2VR.
+
+GerardoSanchez
+    Nikon D80, Sigma 8mm, Nodal Ninja panohead. Software: PanoTools, PTGui, Adobe Photoshop CS3, Pano2QTVR
+
+AndySavage
+    Nikon D70 DSLR fitted with Nikor 10.5 Lens on a Nodal Ninja head. Stitched with PtGui, converted to Cube in Pano2Qtvr, Base of cube edited in Paint Shop Pro X and qtvr finished in Pano2Qtvr.
+
+DavidSchaubert
+    Canon XTi (400D) DSLR, Peleng 8mm Fisheye Lens, Velbon VGB-3 Tripod, Apple Macintosh 2.8 GHz Dual-Quad Xeon MacPro, PTGui 7.6, Photoshop CS2, Cubic Converter 2.2.1, Cubic Connector 2.0.9.
+
+MarioWSchild
+    Nikon D-SLR, Nikkor 8mm/2.8f, Manfrotto Monopod, Nikon NX, PS CS2, CubicConverter
+
+ReinhardSchmolze
+    Pentax IST Ds, Pentax 20mm, Manfrotto SPH303, Realviz Stitcher 5.5
+
+MartinSchweda
+    Pentax K10D, Sigma 8f4 MF, homemade ring type NPA, Spieth FTT fiberglass pole<br><br>
+    AutopanoPro 1.4.2, Gimp 2.2, Pano2QTVR
+
+FulvioSenore
+    Nikon Coolpix 5000, monopod, PTGui, Enblend.
+
+MiguelSepulveda
+    Olympus E-1, Zuiko digital 8 mm fisheye
+    Manfrotto 303 SPH Panoramic head y tripode mod. 075
+    PTGui, Pan2QTVR Gui, PhotoShop CS3
+
+NormanShapiro
+    Nikon D70, 10.5mm Nikkor, homemade camera mount on Manfrotto Rotator and Leveller, Gitzo Tripod, PTMac, Photoshop, Cubic Converter
+
+ThomasKSharpless
+    Capture: Canon EOS 30D, Sigma 8mm/3.5 fisheye, Manfrotto 55V tripod, Nodal Ninja 3 head.  3 views up 30 deg, 3 down 20 deg, 1 straight down under elevated tripod. <br><br>
+    Process: align, color correct and stitch to 3 layers with PTGui Pro 7.8, edit layer masks in Photoshop PS2, combine with Enblend 3, retouch in Photoshop, convert to .mov with Pano2QTVR.
+
+PedroSilva
+    FAILED
+MattSmith
+    Nikon d100 with 10.5 mm lens on Homebrew Rig
+
+AlexanderSpielberg
+    EOS 450D with 8mm Pelens atop a Pano-Go-Round
+    automatic panorama head on tripod.
+
+ShawnSteigner
+    Hard-Canon 40D, Sigma 8mm/f:4, Bogen 300N Rotator, Custom Ring, Mini-Tripod<br>
+    
+    Soft-Canon DPP, PTGUI, PhotoShop, Pano2QTVR, IrfanView
+
+PeterStephens
+    Nikon D200, 10.5mm Fisheye Lens.  360 Presision Aboslute pano head.  PTGui, Photoshop, Pano2VR.
+
+MichaelStoss
+    FAILED
+TomStriewisch
+    Canon 5D<br>
+    
+    Nikon 10.5mm<br>
+    
+    Nodalpointadapter &quot;Rohrschelle&quot; <a href="http://www.langebilder.de/rohrschelle.htm" target="_blank">http://www.langebilder.de/rohrschelle.htm</a> <br>
+    
+    Manfrotto 190<br>
+    
+    Lightroom<br>
+    
+    Enfuse<br>
+    
+    Photoshop CS 3<br>
+    
+    Superrune<br>
+    
+    PTGui<br>
+    
+    Pano2VR<br>
+    
+
+KenStuart
+    Nikon D70 with 10.5mm lens on a monopod; PTGui for Macintosh, Photoshop, CubicConverter; Garmin GPSmap 60CSx for location.
+
+PatSwovelin
+    Canon Digital Rebel (300D), Peleng 8mm lens, Nodal Ninja 5 BETA panohead, Manfrotto 190XPROB tripod, ISO 400, f4, 1/5 second exposure, Canon RAW, Photoshop CS2, PTGui Pro 7.8, Pano2VR 2.0, NBNC, PDL
+
+MaciejGSzling
+    Nikon D70, lens: fish eye Nikkor 10.5 mm
+
+EugeneTanner
+    The camera used is a Canon EOS-1D Mark IIN with a Canon EF 14mm f/2.8L lens. The tripod head is a Novoflex Panorama VR-System Pro and my tripod is a Bogen.
+
+MichelThoby
+    Camera: Canon EOS 5D<br><br>
+    Lens: (Shaved) Tokina 10-17 @ 12 mm <br><br>
+    (Modified) Manfrotto 269HDBU  i.e. &quot;Elevation&quot;=7.6m <br><br>
+    Home made bracket<br><br>
+    PTGui 8.0 beta4
+
+AlexanderThomsen
+    Canon 300D, Sigma 8mm, PTGui
+
+AlessandroUgazio
+    Nikon D80, 10.5mm f/2.8 G ED DX Fisheye-Nikkor, Nikon Remote Cord MC-DC1, Panosaurus head, Manfrotto 486RC2 ball head, Triopo tripod.<br>
+    
+    Nikon Capture NX 1.3.3, PTGui 7.8, Adobe Photoshop CS2, CubicConverter 2.2.1
+
+KoenVerschaeren
+    Olympus E3<br>
+    
+    Olympus 8mm<br>
+    
+    Autopano Pro<br>
+    
+    Pano2VR
+
+BernhardVogl
+    Hardware: Nikon D300, Sigma 8mm + Nikkor 18~200@18mm (blended resolution panorama), Head: Novoflex, Tripod: Berlebach<br>
+    
+    Software: PTGui 8b4 64bit, Smartblend, Gimp, Pano2VR
+
+RichardWall
+    Nikon D40 with 10.5mm Nikon lens. Photoshop CS2, PTGui Pro 7.8, Pano2VR - NO panorama head - photographed freehand using tripod - parallex nightmare! 
+
+JimWatters
+    Nikon D70s camera with Nikkor 10.5mm Fisheye lens<br>
+    
+    Homemade panhead, Painter pole [6 shots around, +2 up, &amp; +1 down]<br>
+    
+    PTGui, PhotoShop CS3, Pano2QTVR<br>
+    
+
+KathyWheeler
+    Nikon D70, Nikkor 16mm lens,Kiwi pan head and tripod<br><br>
+    Plus:<br><br>
+    Photoshop to import and save =&gt; PTGui to stitch =&gt; Photoshop to edit and add graphic elements =&gt; CubicConverter to create cube faces =&gt; Photoshop to add nadir =&gt; CubicConverter to create final high and low .mov files all on my 17&quot; G4 Powerbook.<br><br>
+    Plus numerous forays to Google for elevation calculators.
+
+PaulWigginton
+    Canon 350d,
+    Kaiden quick pan-spherical head,
+    Manfrotto,
+    Apple PowerBook G4,
+    PTMac,
+    Photoshop CS3,
+    MakeCubic.
+
+HowardWilkinson
+    Hardware<br>
+    
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Camera</b> - Canon EOS 5D<br>
+    </li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Lens</b> - Sigma 15mm F2.8 EX DG Fisheye<br>
+    </li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Pano Head</b> - Manfrotto 303SPH<br>
+    </li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Tripod</b> - Gitzo Explorer G2227<br>
+    </li></ul>
+    Software<br>
+    
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Stitching Software</b> - PTGui v8.0beta4<br>
+    </li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>Photo Editing Software</b> - Adobe Photoshop CS3<br>
+    </li></ul>
+    <ul style="margin-top:5px;margin-bottom:5px;"><li><b>QTVR Creator</b> - Pano2QTVR v1.6.6<br>
+    </li></ul>
+
+RobinWilson
+    Canon 350D with Sigma 8mm. Stitched with: <a href="http://www.kekus.com" target="_blank">PTMac</a> 
+
+JohnWilson
+    Nikon Coolpix 5000, FC-E8 fisheye, Manfrotto MN 302 Plus VR head, <a href="http://www.ptgui.com" target="_blank">PTGui</a>, <a href="http://www.clickheredesign.com.au" target="_blank">CubicConverter</a>, Photoshop
+
+ChrisWitzani
+    Nikon D70s, Nikkor 10,5, 1/640s, f/8, Monopod, PTGui Pro
+
+StefanWoinke
+    <br>
+    
+    Nikon D300 <br>
+    
+    Tokina 12-24mm at 24mm <br>
+    
+    Capture NX <br>
+    
+    PTgui <br>
+    
+    Pano2QTVR <br>
+    
+
+KeijiYokotani
+    Canon EOS Kiss digital N, Sigma 8mm F4, Handheld,
+    PTGui, PhotoShop , CubicConverter
+
+WalkerYoung
+    Canon EOS 5D + 15mm/f2.8 Fisheye
+
+FungYu
+    Canon EOS 40D
+    Sigma 8mm f3.5
+    Manfrotto Rotator
+    Home-made Bracket
+
+KazuyoshiYura
+    Nikon coolpix, monopod, PtGui, PANO2QTVR
+
+VictorZaveduk
+    This HDR panorama was created by taking bracketed images, using a Nikon D80 camera equipped with a Nikor 10.5mm wide-angle lens, mounted on a &quot;Nodal-Ninja 3&quot; spherical bracket atop a Manfrotto Tripod. Enfuse was used to combine the images which were then stitched using PTGuiPro 8.0, postprocessed with Photoshop, and compiled into QuickTimeVR format using Pano2VR.
+
+KresimirZimonic
+    Canon PowerShot A710
+
