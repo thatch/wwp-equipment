@@ -11,9 +11,9 @@ dc._maxage = 24 * 60 * 60 * 365 #seconds in one year
 
 
 # For real events
-base = "http://geoimages.berkeley.edu/wwp%s/" % sys.argv[1]
+base = "http://worldwidepanorama.org/worldwidepanorama/wwp%s/" % sys.argv[1]
 # For prerelease
-#base = "http://128.32.102.88:8090/gen/live_preview/wwp%s/" % sys.argv[1]
+#base = "http://contribute.worldwidepanorama.org/gen/live_preview/wwp%s/" % sys.argv[1]
 
 c = dc.Cacher()
 r_person = re.compile(r"""<dt>\s+<a href="(html/.+?\.html)">""")
