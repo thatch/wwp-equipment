@@ -193,6 +193,7 @@ rules = [
     (r'Peleng?|pelleng', ('lens', 'Peleng-8mm')),
     (r'Sigma 4\.5', ('lens', 'Sigma-4.5mm2.8')),
     (r'Sigma f3.5 8mm|Sigma 8mm f3.5|Sigma 8mm/F3,5', ('lens', 'Sigma-8mm3.5')), #FIXME: verify there are not others
+    (r'Sigma 8mm/f4|Sigma fisheye 8mm f:4', ('lens', 'Sigma-8mmf4')),
     (r'Sigma.*\b8 ?mm|sigma[ -]?8| S 8mm|8mm sigma|sigma 4/8', ('lens', 'Sigma-8mm')),
     (r'15mm.*Sigma|Sigma.*15mm|sigma *15', ('lens', 'Sigma-15mm')),
     (r'Sigma 14/|sigma 14mm|14mm lenss', ('lens', 'Sigma-14mm')),
@@ -269,7 +270,7 @@ rules = [
     [
     # Tripods
     (r'monopod Manfrotto|Manfrotto monopod', ('tripod', 'Manfrotto-Monopod'), ('panohead', 'none')),
-    (r'monopod', ('tripod', 'Monopod'), ('panohead', 'none')),
+    (r'monopod|nodalpod', ('tripod', 'Monopod'), ('panohead', 'none')),
     (r'bi[ -]?pod', ('tripod', 'Bipod')),
     (r'no tripod', ('tripod', 'none')),
     (r'Manfrotto 190', ('tripod', 'Manfrotto-190')),
@@ -321,6 +322,7 @@ rules = [
     (r'Hama Tripod', ('tripod', 'Hama-?')),
     (r'(?<!pro )(manfrot+o|bogen|monfrotto|manforo)(?!\s+head|\s+qtvr|\s+rotat|\s+pano|\s+(?:SP)?303)', ('tripod', 'Manfrotto-?')),
     (r'Calumet', ('tripod', 'Calumet-?')),
+    (r'manfredo', ('tripod', 'Manfredo-?')),
     (r'tripod|head', ('tripod', 'yes')),
     ],
 
@@ -422,12 +424,16 @@ rules = [
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.6|7\.6\s*pro)', ('software', 'PtguiPro-7.6')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.7|7\.7\s*pro|pro ver 7\.7)', ('software', 'PtguiPro-7.7')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.8|7\.8\s*pro)', ('software', 'PtguiPro-7.8')),
+    (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.2|8\.2\s*pro)', ('software', 'PtguiPro-8.2')),
+    (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.02|8\.02\s*pro)', ('software', 'PtguiPro-8.02')),
+    (r'ptgui pro 8 ', ('software', 'PtguiPro-8')), # Don
     (r'pt.*gui[^.,]*7\.2', ('software', 'Ptgui-7.2')),
     (r'pt.*gui[^.,]*7\.3', ('software', 'Ptgui-7.3')),
     (r'pt.*gui[^.,]*7\.4', ('software', 'Ptgui-7.4')),
     (r'pt.*gui[^.,]*7\.5', ('software', 'Ptgui-7.5')),
     (r'pt.*gui[^.,]*7\.6', ('software', 'Ptgui-7.6')),
     (r'pt.*gui[^.,]*7\.7', ('software', 'Ptgui-7.7')),
+    (r'pt.*gui[^.,]*8\.02', ('software', 'Ptgui-8.02')),
     (r'ptgui 7 beta7', ('software', 'Ptgui-7.7')), # I'm not this picky currently.
     (r'ptguimac', ('software', 'PtGui-?')),
     (r'pt.*gui[^.,]*pro', ('software', 'PtguiPro-?')),
@@ -435,7 +441,7 @@ rules = [
     (r'pt.*mac[^.,]*4\.1', ('software', 'PTmac-4.1')),
     (r'pt.*mac[^.,]*3', ('software', 'PTmac-3')),
     (r'pt.*mac', ('software', 'PTmac-?')),
-    (r'quicktime.*vr.*studio|qtvr[ -]?as', ('software', 'QTVRAS')),
+    (r'quicktime.*vr.*studio|qtvr[ -]?as|quicktime\s+virtual\s+reality\s+studio', ('software', 'QTVRAS')),
     (r'stitcher V?4\b', ('software', 'RealvizStitcher-4')),
     (r'stitcher.*5[.,]6', ('software', 'RealvizStitcher-5.6')),
     (r'stitcher.*5[.,]5', ('software', 'RealvizStitcher-5.5')),
