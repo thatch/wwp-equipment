@@ -35,7 +35,7 @@ class Aggregator(object):
         buf = []
         #buf.append(' '.join(self.headings))
         
-        #buf.append(' '.join(describe_regex(r.pattern) for r in self.interesting))
+        buf.append('x ' + ' '.join(describe_regex(r.pattern) for r in self.interesting))
         i = 0
         #for (title, series) in zip([describe_regex(r.pattern) for r in self.interesting], zip(*self.stats)):
         for (title, series) in zip(self.headings, self.stats):
@@ -60,7 +60,7 @@ set output '%s'\n""" % fn.replace('.txt', '.png'))
         fo.write("plot ")
         heads = [describe_regex(r.pattern) for r in self.interesting]
         fo.write("\"%s\" using 1:2 with lines title \"%s\"" % (fn, heads[0]))
-        
+
         n = 3
         for h in heads[1:]:
             fo.write(",\"\" using 1:%d with lines title \"%s\"" % (n, h))
