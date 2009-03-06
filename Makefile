@@ -38,8 +38,7 @@ upload-graph:
 	thatch@timhatch.com:timhatch.com/projects/wwp-equipment/graph
 
 graph:
-	python grapher3.py new/*.csv
-	(cd graph; for f in *.sh; do sh $$f; done)
+	python grapher4.py "$(EVENTS)" new/*.csv
 
 yuval:
 	rm -f yuval.csv
