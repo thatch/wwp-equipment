@@ -90,7 +90,7 @@ def main(args):
                          'Peleng-8mm', '^Tamron-11', '^Canon-15',
                          '^Nikkor-8mm', 'Nikon-WCE24'])
     panoheads = Aggregator([r'LensRing-BoPhoto', r'360precision',
-                            r'Manfrotto', 'NodalNinja', 'Agnos-', 'none'])
+                            r'Manfrotto', 'NodalNinja', 'Agnos-', 'Panosaurus', 'none'])
     nn = Aggregator(['NodalNinja-', 'NodalNinja-2', 'NodalNinja-3',
                      'NodalNinja-4', 'NodalNinja-5'])
     
