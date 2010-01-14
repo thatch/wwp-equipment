@@ -13,6 +13,7 @@ DATA_CSV = $(patsubst %,$(WORK_DIR)/data-%.csv,$(EVENTS))
 EQUIP = $(patsubst %,$(WORK_DIR)/equip-%.txt,$(EVENTS))
 
 DATA_LIVE = $(patsubst %,$(WORK_DIR)/data-%.live,$(EVENTS))
+DEST_SSH = thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
 
 all: template
 
@@ -27,7 +28,7 @@ template: stuff.php $(DATA_HTML)
 
 upload: $(DATA_HTML) $(DATA_CSV)
 	@echo "====Uploading"
-	rsync -av $^ thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
+	rsync -av $^ $(DEST_SSH)
 
 test:
 	@echo $(DATA_HTML)
@@ -35,8 +36,7 @@ test:
 .PHONY: all fetch parse template upload test yuval graph upload-graph
 
 upload-graph:
-	rsync -av graph/*.png \
-	thatch@timhatch.com:timhatch.com/projects/wwp-equipment/graph
+	rsync -av graph/*.png $(DEST_SSH)/graph
 
 graph:
 	python grapher4.py "$(EVENTS)" new/*.csv
