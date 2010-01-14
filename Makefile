@@ -12,19 +12,15 @@ DATA_HTML = $(patsubst %,$(WORK_DIR)/data-%.html,$(EVENTS))
 DATA_CSV = $(patsubst %,$(WORK_DIR)/data-%.csv,$(EVENTS))
 EQUIP = $(patsubst %,$(WORK_DIR)/equip-%.txt,$(EVENTS))
 
-DATA_LIVE = $(patsubst %,$(WORK_DIR)/data-%.live,$(EVENTS))
 DEST_SSH = thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
+
+.PHONY: all fetch parse template upload test graph upload-graph
 
 all: template
 
 fetch: getinfo.py $(EQUIP)
 parse: autoparse.py $(DATA_CSV)
 template: stuff.php $(DATA_HTML)
-
-#upload: $(DATA_LIVE)
-#data-%.live: data-%.html
-#	scp $< thatch@timhatch.com:timhatch.com/projects/wwp-equipment/
-#	@touch $@
 
 upload: $(DATA_HTML) $(DATA_CSV)
 	@echo "====Uploading"
@@ -33,18 +29,12 @@ upload: $(DATA_HTML) $(DATA_CSV)
 test:
 	@echo $(DATA_HTML)
 
-.PHONY: all fetch parse template upload test yuval graph upload-graph
-
 upload-graph:
 	rsync -av graph/*.png $(DEST_SSH)/graph
 
 graph:
 	[ ! -d graph ] && mkdir graph || true
 	python grapher4.py "$(EVENTS)" new/*.csv
-
-yuval:
-	rm -f yuval.csv
-	for f in $(EVENTS); do echo $$f; python get_yuval.py $$f >> yuval.csv; done
 
 data-%.html: data-%.csv
 	@echo "====Templating to $@"
