@@ -34,7 +34,7 @@ upload-graph:
 
 graph:
 	[ ! -d graph ] && mkdir graph || true
-	python grapher4.py "$(EVENTS)" new/*.csv
+	python grapher4.py "$(EVENTS)" $(WORK_DIR)/*.csv
 
 data-%.html: data-%.csv
 	@echo "====Templating to $@"
@@ -46,4 +46,4 @@ data-%.csv: equip-%.txt
 
 equip-%.txt:
 	@echo "====Fetching $@"
-	python getinfo.py $(patsubst new/%,%,$*) > $@
+	python getinfo.py $(patsubst $(WORK_DIR)/%,%,$*) > $@
