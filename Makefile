@@ -39,6 +39,7 @@ upload-graph:
 	rsync -av graph/*.png $(DEST_SSH)/graph
 
 graph:
+	[ ! -d graph ] && mkdir graph || true
 	python grapher4.py "$(EVENTS)" new/*.csv
 
 yuval:
