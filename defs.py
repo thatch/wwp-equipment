@@ -9,21 +9,26 @@ rules = [
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
     (r'Canon 1D MarkII', ('camera', 'Canon-1Dmark2')), #JacquesJoffre
     (r'Can+on.*5 *D|EOS 5D', ('camera', 'Canon-5D')),
+    (r'Canon.*6D', ('camera', 'Canon-6D')),
+    (r'Canon.*7D', ('camera', 'Canon-7D')),
     (r'Canon.*10D|EOS 10D', ('camera', 'Canon-10D')),
     (r'Canon.*20D|20D', ('camera', 'Canon-20D')),
     (r'Canon.*30D|EOS 30D', ('camera', 'Canon-30D')),
     (r'Canon.*40D', ('camera', 'Canon-40D')),
+    (r'(Canon|EOS).*50D', ('camera', 'Canon-50D')),
     (r'Canon D30', ('camera', 'Canon-D30')),
     (r'Canon D60', ('camera', 'Canon-D60')),
     (r'450D|Canon 450', ('camera', 'Canon-450D')),
     (r'400D|kiss.*digital.*xti|rebel.*xti|canon.*xti|kiss\s*dn', ('camera', 'Canon-400D')),
     (r'EOS 350|350 *D|350XT|kiss.*digital|rebel.*xt', ('camera', 'Canon-350D')),
     (r'300D(?!X)|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
+    (r'Canon.*500D', ('camera', 'Canon-500D')),
     (r'EOS[ -]600', ('camera', 'Canon-EOS600')), #FIXME: keep EOS?
     (r'Canon Pro1|PowerShot Pro 1', ('camera', 'Canon-PowershotPro1')),
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
     (r'Canon A640', ('camera', 'Canon-A640')),
     (r'\b5D', ('camera', 'Canon-5D')), #RichardCambon, HiroharuShizuya
+    (r'Canon 1000D', ('camera', 'Canon-1000D')),
 
     # Canon neat things but not SLR
     (r'Canon G6', ('camera', 'Canon-G6')),
@@ -33,12 +38,17 @@ rules = [
     # Nikon
     (r'Nikon\s*D3\b', ('camera', 'Nikon-D3')),
     (r'Nikon.*(?:D70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
-    (r'Nikon.*D-?70', ('camera', 'Nikon-D70')),
+    (r'Nikon.*D-?70\b', ('camera', 'Nikon-D70')),
     (r'Nikon.*D80', ('camera', 'Nikon-D80')),
+    (r'Nikon.*D90', ('camera', 'Nikon-D90')),
     (r'Nikon.*D *100', ('camera', 'Nikon-D100')),
     (r'Nikon.*D *200', ('camera', 'Nikon-D200')),
     (r'Nikon.*D *300', ('camera', 'Nikon-D300')),
     (r'^\s*D300', ('camera', 'Nikon-D300')), #WS req due to AndreyKharuk in 308 (ZW S, BOM?)
+    (r'Nikon.*D *400', ('camera', 'Nikon-D400')),
+    (r'Nikon.*D *500', ('camera', 'Nikon-D500')),
+    (r'Nikon.*D *600', ('camera', 'Nikon-D600')),
+    (r'Nikon.*D *700', ('camera', 'Nikon-D700')),
     (r'D1x', ('camera', 'Nikon-D1x')),
     (r'D1s', ('camera', 'Nikon-D1s')),
     (r'D2x', ('camera', 'Nikon-D2x')),
@@ -91,6 +101,8 @@ rules = [
 
     # Olympus
     (r'Oly[mn]pus E-?3\b', ('camera', 'Olympus-E3')),
+    (r'Oly[mn]pus E-?30\b', ('camera', 'Olympus-E30')),
+    (r'Oly[mn]pus E-?410\b', ('camera', 'Olympus-E410')),
     (r'E[ -]?300', ('camera', 'Olympus-E300')),
     (r'E[ -]?500', ('camera', 'Olympus-E500')),
     (r'Olympus 5050', ('camera', 'Olympus-5050')),
@@ -105,11 +117,13 @@ rules = [
     (r'Pentax.*K10D', ('camera', 'Pentax-K10D')),
     (r'Samsung GX10', ('camera', 'Samsung-GX10')), #DPReview says same as K10D
     (r'Pentax.*K100D', ('camera', 'Pentax-K100D')),
+    (r'Pentax K200', ('camera', 'Pentax-K200')),
     (r'Optio W10', ('camera', 'Pentax-OptioW10')),
     (r'Pentax MZ-5', ('camera', 'Pentax-MZ5')),
 
     # Sony
     (r'Sony (Alpha|DSLR-A) *700', ('camera', 'Sony-DSLRA700')),
+    (r'Sony A230', ('camera', 'Sony-A230')),
     
     # Others
     (r'Sigma SD9', ('camera', 'Sigma-SD9')),
@@ -202,8 +216,10 @@ rules = [
     (r'[Ss]haved.*10[.,]5|10[.,]5.*[Ss]haved', ('lens', 'Nikkor-10.5mm-Shaved')),
     (r'(Nikkor|Nikon)\s*10\.5|Nikon 10mm', ('lens', 'Nikkor-10.5mm')),
     (r'10\.5|10,5', ('lens', 'Nikkor-10.5mm')), # Unsure...
-    (r'Tokina.*[Ss]haved.*10-17|Tokina.*10-17.*[Ss]haved|[Ss]haved.*Tokina.*10-17', ('lens', 'Tokina-10to17mm-Shaved')),
+    (r'Tokina.*[Ss]haved.*10-17|Tokina.*10-17.*[Ss]haved|'
+     r'[Ss]haved.*Tokina.*10-17|Tokina AT-X 107 \(shaved\)', ('lens', 'Tokina-10to17mm-Shaved')),
     (r'Tokina.*10-17( *mm)?', ('lens', 'Tokina-10to17mm')),
+    (r'Tokina *107', ('lens', 'Tokina-10to17mm')),
     (r'Tokina.*12', ('lens', 'Tokina-12to24mm')),
     (r'Tamron.*11', ('lens', 'Tamron-11to18mm')),
     (r'Tamron 17-50', ('lens', 'Tamron-17to50mm')),
@@ -214,7 +230,8 @@ rules = [
     (r'E24', ('lens', 'Nikon-WCE24')),
     (r'E63', ('lens', 'Nikon-WCE63')),
     (r'Nikkor.*17-35', ('lens', 'Nikkor-17to35mm')),
-    (r'Nikkor.*17-55', ('lens', 'Nikkor-17to55mm')),
+    (r'16mm Nikkor', ('lens', 'Nikkor-16mm')),
+    (r'(Nikkor|Nikon).*17-55', ('lens', 'Nikkor-17to55mm')),
     (r'Nikon.*18mm-70mm', ('lens', 'Nikkor-18to70')), #FIXME: verify no others
     (r'Sigma.*18-55', ('lens', 'Sigma-18to55mm')),
     (r'Sigma.*18mm', ('lens', 'Sigma-18mm')), #f3.5
@@ -276,6 +293,7 @@ rules = [
     (r'Manfrotto 190', ('tripod', 'Manfrotto-190')),
     (r'Manfrotto 682B', ('tripod', 'Manfrotto-682B')),
     (r'3001D', ('tripod', 'Manfrotto-3001d')),
+    (r'(Bogen|Manfrotto) 3000', ('tripod', 'Manfrotto-3000')),
     (r'(Bogen|Manfrotto) 3021', ('tripod', 'Manfrotto-3021')), #Methinks this is the same as the next.
     (r'3021B', ('tripod', 'Manfrotto-3021b')),
     (r'(Bogen|Manfrotto) 3201', ('tripod', 'Manfrotto-3201')),
@@ -424,8 +442,9 @@ rules = [
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.6|7\.6\s*pro)', ('software', 'PtguiPro-7.6')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.7|7\.7\s*pro|pro ver 7\.7)', ('software', 'PtguiPro-7.7')),
     (r'pt.*gui[^.,]*(pro\s*(v\.)?7\.8|7\.8\s*pro)', ('software', 'PtguiPro-7.8')),
+    (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.2\.1|8\.2\.1\s*pro)', ('software', 'PtguiPro-8.2.1')),
     (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.2|8\.2\s*pro)', ('software', 'PtguiPro-8.2')),
-    (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.02|8\.02\s*pro)', ('software', 'PtguiPro-8.02')),
+    (r'pt.*gui[^.,]*(pro\s*(v\.|ver\s*)?8\.0\.?2|8\.02\s*pro)', ('software', 'PtguiPro-8.02')),
     (r'ptgui pro 8 ', ('software', 'PtguiPro-8')), # Don
     (r'pt.*gui[^.,]*7\.2', ('software', 'Ptgui-7.2')),
     (r'pt.*gui[^.,]*7\.3', ('software', 'Ptgui-7.3')),
@@ -434,6 +453,8 @@ rules = [
     (r'pt.*gui[^.,]*7\.6', ('software', 'Ptgui-7.6')),
     (r'pt.*gui[^.,]*7\.7', ('software', 'Ptgui-7.7')),
     (r'pt.*gui[^.,]*8\.02', ('software', 'Ptgui-8.02')),
+    (r'pt.*gui[^.,]*8\.1\.5', ('software', 'Ptgui-8.1.5')),
+    (r'pt.*gui[^.,]*8\.2\.1', ('software', 'Ptgui-8.2.1')),
     (r'ptgui 7 beta7', ('software', 'Ptgui-7.7')), # I'm not this picky currently.
     (r'ptguimac', ('software', 'PtGui-?')),
     (r'pt.*gui[^.,]*pro', ('software', 'PtguiPro-?')),
