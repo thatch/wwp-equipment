@@ -8,14 +8,14 @@ rules = [
     (r'1DS ?mkII|Canon 1ds2|1DS MII', ('camera', 'Canon-1DSmark2')),
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
     (r'Canon 1D MarkII', ('camera', 'Canon-1Dmark2')), #JacquesJoffre
-    (r'Can+on.*5 *D|EOS 5D', ('camera', 'Canon-5D')),
-    (r'Canon.*6D', ('camera', 'Canon-6D')),
-    (r'Canon.*7D', ('camera', 'Canon-7D')),
-    (r'Canon.*10D|EOS 10D', ('camera', 'Canon-10D')),
-    (r'Canon.*20D|20D', ('camera', 'Canon-20D')),
-    (r'Canon.*30D|EOS 30D', ('camera', 'Canon-30D')),
-    (r'Canon.*40D', ('camera', 'Canon-40D')),
-    (r'(Canon|EOS).*50D', ('camera', 'Canon-50D')),
+    (r'Can+on.*5 *D(?!X)|EOS 5D', ('camera', 'Canon-5D')),
+    (r'Canon.*\b6D', ('camera', 'Canon-6D')),
+    (r'Canon.*\b7D', ('camera', 'Canon-7D')),
+    (r'Canon.*\b10D|EOS *10D|Canon10D', ('camera', 'Canon-10D')),
+    (r'Canon.*\b20D|EOS *20D|\b20D|Canon20D', ('camera', 'Canon-20D')),
+    (r'Canon.*\b30D|EOS *30D|Canon30D', ('camera', 'Canon-30D')),
+    (r'Canon.*\b40D|EOS *40D|Canon40D', ('camera', 'Canon-40D')),
+    (r'(Canon|EOS).*\b50D', ('camera', 'Canon-50D')),
     (r'Canon D30', ('camera', 'Canon-D30')),
     (r'Canon D60', ('camera', 'Canon-D60')),
     (r'450D|Canon 450', ('camera', 'Canon-450D')),
@@ -27,7 +27,7 @@ rules = [
     (r'Canon Pro1|PowerShot Pro 1', ('camera', 'Canon-PowershotPro1')),
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
     (r'Canon A640', ('camera', 'Canon-A640')),
-    (r'\b5D', ('camera', 'Canon-5D')), #RichardCambon, HiroharuShizuya
+    (r'(?!<=\.)\b5D(?!X)', ('camera', 'Canon-5D')), #RichardCambon, HiroharuShizuya
     (r'Canon 1000D', ('camera', 'Canon-1000D')),
 
     # Canon neat things but not SLR
@@ -37,7 +37,7 @@ rules = [
     
     # Nikon
     (r'Nikon\s*D3\b', ('camera', 'Nikon-D3')),
-    (r'Nikon.*(?:D70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
+    (r'Nikon.*(?:D-?70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
     (r'Nikon.*D-?70\b', ('camera', 'Nikon-D70')),
     (r'Nikon.*D80', ('camera', 'Nikon-D80')),
     (r'Nikon.*D90', ('camera', 'Nikon-D90')),
@@ -115,6 +115,7 @@ rules = [
     (r'Pentax.*ist ?DL', ('camera', 'Pentax-istDL')),
     (r'Pentax.*ist ?D', ('camera', 'Pentax-istD')),
     (r'Pentax.*K10D', ('camera', 'Pentax-K10D')),
+    (r'Pentax.*K20D', ('camera', 'Pentax-K20D')),
     (r'Samsung GX10', ('camera', 'Samsung-GX10')), #DPReview says same as K10D
     (r'Pentax.*K100D', ('camera', 'Pentax-K100D')),
     (r'Pentax K200', ('camera', 'Pentax-K200')),

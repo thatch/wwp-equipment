@@ -36,11 +36,11 @@ graph:
 	[ ! -d graph ] && mkdir graph || true
 	python grapher4.py "$(EVENTS)" $(WORK_DIR)/*.csv
 
-data-%.html: data-%.csv
+data-%.html: data-%.csv stuff.php
 	@echo "====Templating to $@"
 	php stuff.php $* $< > $@
 
-data-%.csv: equip-%.txt
+data-%.csv: equip-%.txt defs.py
 	@echo "====Autoparsing to $@"
 	python autoparse.py $< > $@
 
