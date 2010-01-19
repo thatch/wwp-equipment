@@ -16,7 +16,7 @@ GDonaldBain,Olympus-E3,Zuiko-8mm,NodalNinja-?,Velbon-?,PtguiPro-8
 MichaelBajko,Nikon-D70,Nikkor-10.5mm,none,handheld,PtguiPro-?
 ArtBaltrotsky
 BanfalvyZoltan,Canon-350D,Peleng-8mm,custom,yes,Ptgui-?
-PeterBarnes,Nikon-D40x,Nikkor-10.5mm,NodalNinja-3,Manfrotto-?,Ptgui-?
+PeterBarnes,Nikon-D40x,Nikkor-10.5mm,NodalNinja-3,Manfrotto-3000,Ptgui-?
 DaveBedigian,Nikon-D300,Nikkor-10.5mm,NodalNinja-5,?,?
 Beeloba,Nikon-D80,Nikkor-10.5mm,NodalNinja-3,Monopod,Autopano
 LuisBenitez,Nikon-D70,Nikkor-10.5mm,NodalNinja-5,Manfrotto-055,RealvizStitcher-5.5
@@ -41,7 +41,7 @@ UriCogan,Nikon-D300,Nikkor-10.5mm,NodalNinja-3,yes,PtguiPro-?
 PaulCowley
 LeszekCuper
 WilliamMDelabarre,Nikon-D50,?,Kaidan-QuickPanIV,yes,PanoramaFactory
-AriedeRuiter,Nikon-D70,Nikkor-10.5mm,NodalNinja-?,?,PtguiPro-?
+AriedeRuiter,Nikon-D70,Nikkor-10.5mm,NodalNinja-?,?,PtguiPro-8.02
 AlexanderDichev,Canon-400D,?,?,?,?
 JohnDobbins,Canon-D60,Nikkor-10.5mm,NodalNinja-3,yes,Photoshop
 RichardCDrew,Canon-40D,Sigma-8mm,Agnos-MRotator?,Manfrotto-?,Photoshop
@@ -66,7 +66,7 @@ AlainHamblenne,Nikon-D300,Nikkor-10.5mm,?,?,RealvizStitcher-5.6
 TimHatch,Canon-350D,Peleng-8mm,NodalNinja-3,yes,PtguiPro-?
 KWayneHeil,Nikon-D70,Nikkor-8mm,none,Monopod,PtguiPro-?
 DanHeimsoth,Canon-400D,Sigma-8mm,NodalNinja-3,?,Ptgui-?
-RogerHein,Nikon-D70,Sigma-15mm,Acratech,Benro-?,Ptgui-?
+RogerHein,Nikon-D700,Sigma-15mm,Acratech,Benro-?,Ptgui-?
 BruceHemming,Canon-5D,Canon-15mm,360precision,yes,Ptgui-?
 DonHofstee,Nikon-D300,Nikkor-10.5mm,?,?,?
 JohnHoughton,Canon-40D,Sigma-8mm,none,handheld,PtguiPro-?
@@ -84,7 +84,7 @@ IanKerr
 AndreyKharuk,Nikon-D300,Sigma-10to20mm,NodalNinja-3,?,?
 DieterKik,Nikon-D300,Sigma-8mm,Manfrotto-300n,Manfrotto-055,PtguiPro-8
 RikuichiKishimoto,Canon-5D,Sigma-8mm,none,handheld,?
-ErikKrause,Fuji-S4Pro,Zenitar-16mm,?,?,PtguiPro-?
+ErikKrause,Fuji-S4Pro,Zenitar-16mm,?,?,PtguiPro-8.02
 MarkusKrueger,Canon-5D,?,?,?,?
 JanKurschewitz,Canon-400D,Canon-10to22mm,NodalNinja-3,Manfrotto-?,RealvizStitcher-5.5
 GerardKuster,Canon-5D,Sigma-8mm,custom,Manfrotto-?,Ptgui-?
@@ -109,13 +109,13 @@ MaxMartin,Fuji-S5Pro,Nikkor-10.5mm,360precision,yes,?
 IsaacMartinez,Nikon-D300,?,NodalNinja-3,?,Ptgui-8.02
 MarkusMatern,Sony-DSLRA700,Sigma-8mm,custom,Monopod,PtguiPro-?
 JuergenMatern,Sony-DSLRA700,Sigma-8mm,custom,?,Ptgui-?
-GeoffMather,Nikon-D300,Sigma-8mm,none,Monopod,PtguiPro-?
+GeoffMather,Nikon-D300,Sigma-8mm,none,Monopod,PtguiPro-8.02
 KenMcMahon,Canon-20D,Sigma-8mm3.5,360precision,?,?
 ZoranMesec,Nikon-D80,Nikkor-18to70mm,Agnos-MRotatorU,?,?
 NickMilligan,Fuji-S9600,?,NodalNinja-3,Manfrotto-?,RealvizStitcher-?
 GregoryMoine,Nikon-D70s,Nikkor-10.5mm,360precision,Manfrotto-755B,Ptgui-?
-LennartMollerstrom,Canon-20D,Pentax-DA10to17mm,NodalNinja-3,Benro-?,Hugin
-MarcinMroz,Nikon-?,Sigma-8mm,?,Manfrotto-?,Photoshop
+LennartMollerstrom,Pentax-K20D,Pentax-DA10to17mm,NodalNinja-3,Benro-?,Hugin
+MarcinMroz,Nikon-D90,Sigma-8mm,?,Manfrotto-?,Photoshop
 NakaokaHideto
 JoachimNickel,Nikon-D300,Nikkor-10.5mm,?,?,RealvizStitcher-?
 AkilaNinomiya,Canon-350D,Sigma-8mm,NodalNinja-SPH2,Monopod,PtguiPro-?
@@ -147,7 +147,7 @@ KerryRudy,Nikon-D200,Nikkor-10.5mm,?,?,PtguiPro-?
 GerardoSanchez,Nikon-D80,Sigma-8mm,NodalNinja-?,yes,Ptgui-?
 AndySavage,Nikon-D70,Nikkor-10.5mm,NodalNinja-?,yes,Ptgui-?
 DavidSchaubert,Canon-400D,Peleng-8mm,NodalNinja-3,Velbon-VGB3,PtguiPro-?
-ReinhardSchmolze,Pentax-?,Pentax-14mm,Manfrotto-303sph,Manfrotto-?,Ptgui-?
+ReinhardSchmolze,Pentax-K200,Pentax-14mm,Manfrotto-303sph,Manfrotto-?,Ptgui-?
 EckartSchoenlau,Canon-5D,Sigma-8mm,?,yes,?
 JohnESchwarzell,Nikon-D200,?,?,?,?
 SasaSekulic,Nikon-D50,Sigma-14mm,Manfrotto-303sph,yes,?
@@ -162,7 +162,7 @@ AlexanderSpielberg,Canon-450D,Peleng-8mm,none,Monopod,?
 ShawnSteigner,Canon-40D,Nikkor-10.5mm,NodalNinja-3,?,Ptgui-?
 TomStriewisch,Canon-5D,Nikkor-10.5mm,Wasserrohrschelle,Manfrotto-190,Ptgui-?
 KenStuart,Nikon-D70,Nikkor-10.5mm,?,?,PtguiPro-?
-PatSwovelin,Canon-450D,Sigma-8mm3.5,NodalNinja-5,Monopod,PtguiPro-?
+PatSwovelin,Canon-450D,Sigma-8mm3.5,NodalNinja-5,Monopod,PtguiPro-8.02
 DanTaylor
 MichelThoby,Canon-20D,?,?,Manfrotto-?,?
 TommyTurner,Canon-300D,Sigma-8mm,Manfrotto-303sph,Manfrotto-Monopod,PtguiPro-7.8
