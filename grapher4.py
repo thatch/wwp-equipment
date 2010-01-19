@@ -76,12 +76,12 @@ def main(args):
 
     cams = Aggregator([r'^Canon-', r'^Nikon-', r'^Olympus-', r'^Fuji-'])
     mid_nikon_cams = Aggregator(['Nikon-CP9..', 'Nikon-CP5...', 'Nikon-D40',
-                                 'Nikon-D50', 'Nikon-D80'])
+                                 'Nikon-D50', 'Nikon-D80$', 'Nikon-D90$'])
     pro_nikon_cams = Aggregator(['Nikon-D70', 'Nikon-D100', 'Nikon-D200',
                                  'Nikon-D300', 'Nikon-D1x?$', 'Nikon-D2x?$',
-                                 'Nikon-D3x?$'])
+                                 'Nikon-D3x?$', 'Nikon-D700'])
     mid_canon_cams = Aggregator(['Canon-300D', 'Canon-350D', 'Canon-400D',
-                                 'Canon-450D'])
+                                 'Canon-450D', 'Canon-500D'])
     pro_canon_cams = Aggregator(['Canon-6D', 'Canon-10D', 'Canon-5D',
                                  'Canon-20D', 'Canon-30D', 'Canon-40D'])
 
