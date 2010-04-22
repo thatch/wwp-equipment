@@ -59,7 +59,7 @@ function doit($a, $b) {
         $s = count($v);
         $links = array();
         foreach($v as $i) {
-            $links[] = "<a href=\"http://geoimages.berkeley.edu/wwp{$event}/html/{$i}.html\">{$i}</a>";
+            $links[] = "<a href=\"http://worldwidepanorama.org/worldwidepanorama/wwp{$event}/html/{$i}.html\">{$i}</a>";
         }
         $links = implode(", ", $links);
         echo "  <tr><td>{$k}</td><td>{$s}</td><td>{$links}</td></tr>\n";
