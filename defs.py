@@ -4,6 +4,7 @@ rules = [
     [
     # Canon
     (r'EOS-1D Mark IIN', ('camera', 'Canon-1DmarkIIN')),
+    (r'EOS-1D Mark II', ('camera', 'Canon-1DmarkII')),
     (r'1DS ?mk(3|III)', ('camera', 'Canon-1DSmark3')),
     (r'1DS ?mkII|Canon 1ds2|1DS MII', ('camera', 'Canon-1DSmark2')),
     (r'(Canon|EOS).*1DS', ('camera', 'Canon-1DS')),
@@ -18,7 +19,8 @@ rules = [
     (r'(Canon|EOS).*\b50D', ('camera', 'Canon-50D')),
     (r'Canon D30', ('camera', 'Canon-D30')),
     (r'Canon D60', ('camera', 'Canon-D60')),
-    (r'450D|Canon 450', ('camera', 'Canon-450D')),
+    (r'Canon D40', ('camera', 'Canon-40D')), #RussAddie
+    (r'450D|Canon 450|rebel xsi', ('camera', 'Canon-450D')),
     (r'400D|kiss.*digital.*xti|rebel.*xti|canon.*xti|kiss\s*dn', ('camera', 'Canon-400D')),
     (r'EOS 350|350 *D|350XT|kiss.*digital|rebel.*xt', ('camera', 'Canon-350D')),
     (r'300D(?!X)|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
@@ -28,15 +30,17 @@ rules = [
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
     (r'Canon A640', ('camera', 'Canon-A640')),
     (r'(?!<=\.)\b5D(?!X)', ('camera', 'Canon-5D')), #RichardCambon, HiroharuShizuya
-    (r'Canon 1000D', ('camera', 'Canon-1000D')),
+    (r'Canon (?:EOS )?1000D', ('camera', 'Canon-1000D')),
 
     # Canon neat things but not SLR
     (r'Canon G6', ('camera', 'Canon-G6')),
     (r'Canon G7', ('camera', 'Canon-G7')),
     (r'Canon G8', ('camera', 'Canon-G8')),
-    
+    (r'PowerShot G9', ('camera', 'Canon-G9')),
+
     # Nikon
     (r'Nikon\s*D3\b', ('camera', 'Nikon-D3')),
+    (r'Nikon\s*D3x\b', ('camera', 'Nikon-D3x')),
     (r'Nikon.*(?:D-?70s|70DS)', ('camera', 'Nikon-D70s')), # Same as next?
     (r'Nikon.*D-?70\b', ('camera', 'Nikon-D70')),
     (r'Nikon.*D80', ('camera', 'Nikon-D80')),
@@ -62,6 +66,7 @@ rules = [
     (r'D70s', ('camera', 'Nikon-D70s')),
     (r'D70', ('camera', 'Nikon-D70')),
     (r'D200', ('camera', 'Nikon-D200')),
+    (r'D90', ('camera', 'Nikon-D90')),
     (r'Nikon FM2', ('camera', 'Nikon-FM2')),
     (r'Nikon FM3', ('camera', 'Nikon-FM3')), # Must be above CP5k because of scanners
     (r'Nikon FE2', ('camera', 'Nikon-FE2')),
