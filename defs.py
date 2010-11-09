@@ -26,6 +26,7 @@ rules = [
     (r'300D(?!X)|digital.*eos|digital.*rebel|eos.*digital', ('camera', 'Canon-300D')),
     (r'Canon.*500D', ('camera', 'Canon-500D')),
     (r'Canon EOS 500', ('camera', 'Canon-500D')),
+    (r'Canon 550D', ('camera', 'Canon-550D')),
     (r'EOS[ -]600', ('camera', 'Canon-EOS600')), #FIXME: keep EOS?
     (r'Canon Pro1|PowerShot Pro 1', ('camera', 'Canon-PowershotPro1')),
     (r'Canon EOS500N', ('camera', 'Canon-EOS500n')),
@@ -131,6 +132,7 @@ rules = [
     # Sony
     (r'Sony (Alpha|DSLR-A) *700', ('camera', 'Sony-DSLRA700')),
     (r'Sony A230', ('camera', 'Sony-A230')),
+    (r'Sony A350', ('camera', 'Sony-A350')),
     
     # Others
     (r'Sigma SD9', ('camera', 'Sigma-SD9')),
